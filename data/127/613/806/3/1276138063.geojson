@@ -1,0 +1,60 @@
+{
+  "id": 1276138063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.07118,5.29985,73.07118,5.29985",
+    "geom:latitude":5.29985,
+    "geom:longitude":73.07118,
+    "gn:asciiname":"Kudarikilu",
+    "gn:country_code":"MV",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7910019,
+    "gn:latitude":5.29985,
+    "gn:longitude":73.07118,
+    "gn:modification_date":"2011-07-18",
+    "gn:name":"Kudarikilu",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7910019
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"74080b92c9f7521436d3070199e4f8a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276138063,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276138063,
+    "wof:lastmodified":1537038635,
+    "wof:name":"Kudarikilu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.07118,
+    5.29985,
+    73.07118,
+    5.29985
+],
+  "geometry": {"coordinates":[73.07118,5.29985],"type":"Point"}
+}

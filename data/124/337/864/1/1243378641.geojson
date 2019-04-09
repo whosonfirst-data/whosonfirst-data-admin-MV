@@ -1,0 +1,63 @@
+{
+  "id": 1243378641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.43162,0.73769,73.43162,0.73769",
+    "geom:latitude":0.73769,
+    "geom:longitude":73.43162,
+    "gn:asciiname":"Kooddoo Atoll",
+    "gn:country_code":"MV",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8411013,
+    "gn:latitude":0.73769,
+    "gn:longitude":73.43162,
+    "gn:modification_date":"2012-11-04",
+    "gn:name":"Kooddoo Atoll",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kooddoo Atoll"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411013
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"a1c705c1c5793f6b46fd3ea0393f0673",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243378641,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243378641,
+    "wof:lastmodified":1537665828,
+    "wof:name":"Kooddoo Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.43162,
+    0.73769,
+    73.43162,
+    0.73769
+],
+  "geometry": {"coordinates":[73.43162,0.73769],"type":"Point"}
+}

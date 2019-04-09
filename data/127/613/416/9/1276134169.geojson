@@ -1,0 +1,60 @@
+{
+  "id": 1276134169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.57079,4.30967,73.57079,4.30967",
+    "geom:latitude":4.30967,
+    "geom:longitude":73.57079,
+    "gn:asciiname":"Himmafushi",
+    "gn:country_code":"MV",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9973321,
+    "gn:latitude":4.30967,
+    "gn:longitude":73.57079,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Himmafushi",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973321
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"d78efa3c112d201dbd5c3f3a6ff7a150",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276134169,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276134169,
+    "wof:lastmodified":1537043636,
+    "wof:name":"Himmafushi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.57079,
+    4.30967,
+    73.57079,
+    4.30967
+],
+  "geometry": {"coordinates":[73.57079,4.30967],"type":"Point"}
+}

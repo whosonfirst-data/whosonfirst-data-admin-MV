@@ -1,0 +1,64 @@
+{
+  "id": 1193202667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.41667,4.0,73.41667,4.0",
+    "geom:latitude":4.0,
+    "geom:longitude":73.41667,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"South Male Atoll",
+    "gn:country_code":"MV",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8199141,
+    "gn:latitude":4.0,
+    "gn:longitude":73.41667,
+    "gn:modification_date":"2013-12-06",
+    "gn:name":"South Mal\u00e9 Atoll",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "S\u00fcd-Mal\u00e9-Atoll"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199141
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"6076ac930e68637f978f0bd4e2fed317",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1193202667,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193202667,
+    "wof:lastmodified":1537553042,
+    "wof:name":"South Male Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.41667,
+    4.0,
+    73.41667,
+    4.0
+],
+  "geometry": {"coordinates":[73.41667,4.0],"type":"Point"}
+}

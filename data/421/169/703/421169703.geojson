@@ -1,0 +1,96 @@
+{
+  "id": 421169703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.38824,1.79666,73.38824,1.79666",
+    "geom:latitude":1.79666,
+    "geom:longitude":73.38824,
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Hithadhoo"
+    ],
+    "name:div_x_preferred":[
+        "\u0780\u07a8\u078c\u07a6\u078b\u07ab"
+    ],
+    "name:dut_x_preferred":[
+        "Hithadhoo"
+    ],
+    "name:eng_x_preferred":[
+        "Hithadhoo"
+    ],
+    "name:nld_x_preferred":[
+        "Hithadhoo"
+    ],
+    "name:slo_x_preferred":[
+        "Hitad\u00fa"
+    ],
+    "name:swe_x_preferred":[
+        "Hithadhoo"
+    ],
+    "qs:gn_country":"MV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1337615,
+    "qs:gn_pop":683,
+    "qs:name":"Hithadhoo",
+    "qs:name_adm0":"Maldives",
+    "qs:name_adm1":"Laamu",
+    "qs:photos":195,
+    "qs:photos_1k":40,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":195,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":229347,
+    "qs:woe_adm0":23424899,
+    "qs:woe_id":2268291,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337615,
+        "gp:id":2268291,
+        "qs:id":229347,
+        "wd:id":"Q2702678"
+    },
+    "wof:country":"MV",
+    "wof:created":1459008821,
+    "wof:geomhash":"20497baee203a7c6da639e3b90bda4c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632305,
+            "locality_id":421169703
+        }
+    ],
+    "wof:id":421169703,
+    "wof:lastmodified":1553816358,
+    "wof:name":"Hithadhoo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":683,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.38824,
+    1.79666,
+    73.38824,
+    1.79666
+],
+  "geometry": {"coordinates":[73.38824,1.79666],"type":"Point"}
+}

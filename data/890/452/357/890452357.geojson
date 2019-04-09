@@ -1,0 +1,59 @@
+{
+  "id": 890452357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.07115,5.1053,73.07115,5.1053",
+    "geom:latitude":5.1053,
+    "geom:longitude":73.07115,
+    "gn:country":"MV",
+    "gn:fcode":"PPLL",
+    "gn:pop":1258,
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Open Stage",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8410622,
+        "qs:id":769852
+    },
+    "wof:country":"MV",
+    "wof:created":1469052813,
+    "wof:geomhash":"20c0f6700eb5e625461b9dc9c40c3fe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632305,
+            "locality_id":890452357
+        }
+    ],
+    "wof:id":890452357,
+    "wof:lastmodified":1505343645,
+    "wof:name":"Open Stage",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1258,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.07115,
+    5.1053,
+    73.07115,
+    5.1053
+],
+  "geometry": {"coordinates":[73.07115,5.1053],"type":"Point"}
+}

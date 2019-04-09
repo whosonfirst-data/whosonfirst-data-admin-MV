@@ -1,0 +1,90 @@
+{
+  "id": 890433705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.08333,-0.6,73.08333,-0.6",
+    "geom:latitude":-0.6,
+    "geom:longitude":73.08333,
+    "gn:country":"MV",
+    "gn:fcode":"PPL",
+    "gn:pop":9927,
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:div_x_preferred":[
+        "\u0780\u07a8\u078c\u07a6\u078b\u07ab"
+    ],
+    "name:dut_x_preferred":[
+        "Hithadhoo"
+    ],
+    "name:eng_x_preferred":[
+        "Hithadhoo"
+    ],
+    "name:hun_x_preferred":[
+        "Hithadhoo"
+    ],
+    "name:pol_x_preferred":[
+        "Hithadhoo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0442\u0445\u0430\u0434\u0445\u043e\u043e"
+    ],
+    "name:slo_x_preferred":[
+        "Hitad\u00fa"
+    ],
+    "name:swe_x_preferred":[
+        "Hithadhoo"
+    ],
+    "name:unk_x_variant":[
+        "Hitaddu"
+    ],
+    "qs:name":"Hithadhoo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282256,
+        "gp:id":2268291,
+        "qs:id":132608,
+        "wd:id":"Q2023266",
+        "wk:page":"Hithadhoo"
+    },
+    "wof:country":"MV",
+    "wof:created":1469051991,
+    "wof:geomhash":"8417f42f8084344c0769d81daf6b42eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632305,
+            "locality_id":890433705
+        }
+    ],
+    "wof:id":890433705,
+    "wof:lastmodified":1553816396,
+    "wof:name":"Hithadhoo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":9927,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.08333,
+    -0.6,
+    73.08333,
+    -0.6
+],
+  "geometry": {"coordinates":[73.08333,-0.6],"type":"Point"}
+}

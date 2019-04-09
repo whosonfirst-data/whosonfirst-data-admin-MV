@@ -1,0 +1,84 @@
+{
+  "id": 890431485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.06998,6.62207,73.06998,6.62207",
+    "geom:latitude":6.62207,
+    "geom:longitude":73.06998,
+    "gn:country":"MV",
+    "gn:fcode":"PPL",
+    "gn:pop":7774,
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:div_x_preferred":[
+        "\u0786\u07aa\u0785\u07aa\u078b\u07aa\u0787\u07b0\u078a\u07aa\u0781\u07a8"
+    ],
+    "name:dut_x_preferred":[
+        "Kulhudhuffushi"
+    ],
+    "name:eng_x_preferred":[
+        "Kulhudhuffushi"
+    ],
+    "name:pol_x_preferred":[
+        "Kulhudhuffushi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0445\u0443\u0434\u0443\u0444\u0444\u0443\u0448\u0438"
+    ],
+    "name:slo_x_preferred":[
+        "Kuluduffusi"
+    ],
+    "name:swe_x_preferred":[
+        "Kulhudhuffushi"
+    ],
+    "qs:name":"Kulhudhuffushi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":248,
+    "wof:belongsto":[
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337613,
+        "gp:id":2268293,
+        "qs:id":132722,
+        "wd:id":"Q3185775",
+        "wk:page":"Kulhudhuffushi"
+    },
+    "wof:country":"MV",
+    "wof:created":1469051892,
+    "wof:geomhash":"6423c58864643334c2481310cfd5e503",
+    "wof:hierarchy":[
+        {
+            "country_id":85632305,
+            "locality_id":890431485
+        }
+    ],
+    "wof:id":890431485,
+    "wof:lastmodified":1527735410,
+    "wof:name":"Kulhudhuffushi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":7774,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.06998,
+    6.62207,
+    73.06998,
+    6.62207
+],
+  "geometry": {"coordinates":[73.06998,6.62207],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1193147399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.0065,2.99816,73.0065,2.99816",
+    "geom:latitude":2.99816,
+    "geom:longitude":73.0065,
+    "gn:asciiname":"Meedhoo",
+    "gn:country_code":"MV",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10860991,
+    "gn:latitude":2.99816,
+    "gn:longitude":73.0065,
+    "gn:modification_date":"2015-11-06",
+    "gn:name":"Meedhoo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10860991
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"824b75513165cc3da9430e55072ffff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1193147399,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193147399,
+    "wof:lastmodified":1536381906,
+    "wof:name":"Meedhoo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.0065,
+    2.99816,
+    73.0065,
+    2.99816
+],
+  "geometry": {"coordinates":[73.0065,2.99816],"type":"Point"}
+}

@@ -1,0 +1,219 @@
+{
+  "id": 85674111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000412,
+    "geom:area_square_m":5083987.487606,
+    "geom:bbox":"72.9223738942,2.16453685139,73.3670353522,2.55329010625",
+    "geom:latitude":2.38473,
+    "geom:longitude":73.292867,
+    "gn:population":13846,
+    "iso:country":"MV",
+    "label:eng_x_preferred_longname":[
+        "Thaa Atoll"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "atoll"
+    ],
+    "lbl:latitude":2.410823,
+    "lbl:longitude":73.361893,
+    "mps:latitude":2.410823,
+    "mps:longitude":73.361893,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:cze_x_preferred":[
+        "T\u00e1"
+    ],
+    "name:div_x_preferred":[
+        "\u0786\u07ae\u0785\u07aa\u0789\u07a6\u0791\u07aa\u078d\u07aa"
+    ],
+    "name:dut_x_preferred":[
+        "Thaa-atol"
+    ],
+    "name:eng_x_preferred":[
+        "Thaa"
+    ],
+    "name:fre_x_preferred":[
+        "Atoll Kolhumadulu"
+    ],
+    "name:hun_x_preferred":[
+        "Kolumadulu-atoll"
+    ],
+    "name:ita_x_preferred":[
+        "Atollo Thaa"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0 \ud658\ucd08"
+    ],
+    "name:nno_x_preferred":[
+        "Thaa"
+    ],
+    "name:nob_x_preferred":[
+        "Thaa"
+    ],
+    "name:pol_x_preferred":[
+        "Thaa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0445\u0430\u0430"
+    ],
+    "name:slo_x_preferred":[
+        "T\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Atol\u00f3n Thaa"
+    ],
+    "name:unk_x_variant":[
+        "T\u0101"
+    ],
+    "ne:abbrev":"Th",
+    "ne:adm0_a3":"MDV",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"MDV-5238",
+    "ne:adm1_code":"MDV-5238",
+    "ne:admin":"Maldives",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MV.TH",
+    "ne:code_local":"N",
+    "ne:datarank":"10",
+    "ne:diss_me":"5238",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Maldives",
+    "ne:gn_a1_code":"MV.46",
+    "ne:gn_id":"1281881",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Thaa Atholhu",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MDV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MV-08",
+    "ne:iso_a2":"MV",
+    "ne:labelrank":"20",
+    "ne:latitude":"2.19286000000",
+    "ne:longitude":"73.12520000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":1,
+    "ne:name":"Thaa",
+    "ne:name_alt":"Kolhumadulu",
+    "ne:name_len":4,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"Th",
+    "ne:provnum_ne":"0",
+    "ne:region":"Upper South",
+    "ne:region_cod":"MV-US",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MDV",
+    "ne:sub_code":"",
+    "ne:type":"Atoll",
+    "ne:type_en":"Atoll",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070324,
+    "ne:woe_label":"Thaa, MV, Maldives",
+    "ne:woe_name":"Thaa",
+    "qs:a0":"Maldives",
+    "qs:a0_lc":"MV",
+    "qs:a1":"Thaa",
+    "qs:a1_lc":"MDV-5238",
+    "qs:a1r":"Upper South",
+    "qs:a1r_lc":"MV-US",
+    "qs:adm0":"Maldives",
+    "qs:adm0_a3":"MDV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Atoll",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2014-09-20",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2014-09-20",
+    "statoids:capital":"Veymandoo",
+    "statoids:country":"MV",
+    "statoids:gec":"MV46",
+    "statoids:hasc":"MV.TH",
+    "statoids:iso":"08",
+    "statoids:name":"Thaa",
+    "statoids:population":"8901",
+    "statoids:timezone":"+5",
+    "statoids:type":"atoll",
+    "unlc:subdivision":"MV-08",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102193527,
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MV46",
+        "gn:id":1281881,
+        "gp:id":20070324,
+        "hasc:id":"MV.TH",
+        "iso:id":"MV-08",
+        "qs:id":1287670,
+        "unlc:id":"MV-08",
+        "wd:id":"Q2709118",
+        "wk:page":"Kolhumadulu Atoll"
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"25ffc913b45703e4bf2d449b866e8270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "region_id":85674111
+        }
+    ],
+    "wof:id":85674111,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "div"
+    ],
+    "wof:lang_x_spoken":[
+        "div"
+    ],
+    "wof:lastmodified":1553550457,
+    "wof:name":"Thaa",
+    "wof:parent_id":85632305,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"atoll",
+    "wof:population":8901,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:shortcode":"TH",
+    "wof:subdivision":"MV-08",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.92237389423991,
+    2.16453685139464,
+    73.36703535219982,
+    2.55329010625343
+],
+  "geometry": {"coordinates":[[[[73.0398055350974,2.16461823104658],[73.03825931091853,2.16453685139464],[73.03842207112172,2.16461823104658],[73.04371178537065,2.16644928670524],[73.04135175927632,2.16469961159782],[73.0398055350974,2.16461823104658]]],[[[73.10287519613343,2.18211497582553],[73.10230553497252,2.18097565350365],[73.09945722736921,2.18195221652161],[73.09888756620825,2.1845970722971],[73.09888756620825,2.18463776212309],[73.09978274777563,2.18553294548911],[73.10173587291229,2.1856957056923],[73.10385175915144,2.18659088725968],[73.10385175915144,2.18650950760775],[73.10287519613343,2.18439362226792],[73.10287519613343,2.18211497582553]]],[[[73.12086022242136,2.19179922095731],[73.11500084701152,2.19179922095731],[73.11394290524095,2.19346751551348],[73.11394290524095,2.19350820533947],[73.11491946735958,2.19643789349402],[73.11548912941987,2.19969310115573],[73.11687259249618,2.19765859636715],[73.12086022242136,2.19179922095731]]],[[[72.94638105614086,2.2724063174976],[72.94629967469029,2.2723656276716],[72.94312584668052,2.27301666938382],[72.94841556092945,2.27488841396916],[72.94638105614086,2.2724063174976]]],[[[72.92611738430992,2.32746002795795],[72.92701256587725,2.31606679934339],[72.92253665534241,2.31956614865891],[72.92237389423991,2.32208893405709],[72.92432701937651,2.32444896015142],[72.92611738430992,2.32746002795795]]],[[[73.34229576893466,2.34239329661341],[73.34205162907949,2.34210846603293],[73.34400475421609,2.3480492210947],[73.34392337276552,2.34743886920847],[73.34359785235904,2.34418366154677],[73.34229576893466,2.34239329661341]]],[[[73.36264082131692,2.3851179061665],[73.36255944076561,2.38491445523795],[73.35385175865179,2.4290225278674],[73.35425866050883,2.43720123954563],[73.36133873789248,2.4247093775358],[73.36532636781766,2.41388580918277],[73.36622155028437,2.41152578308845],[73.36703535219982,2.398016669134],[73.36264082131692,2.3851179061665]]],[[[73.3151961604745,2.49412669549065],[73.3151961604745,2.4940453149394],[73.31373131594751,2.49518463726127],[73.31177819081091,2.49677155216545],[73.31177819081091,2.4968936225427],[73.31153405005642,2.49925364863702],[73.31324303533785,2.502101955341],[73.31478925951677,2.50580475558507],[73.3151961604745,2.49412669549065]]],[[[73.14112389425236,2.5503604189982],[73.14096113404918,2.5503604189982],[73.14551842513526,2.55329010625343],[73.14380944075316,2.5503604189982],[73.14112389425236,2.5503604189982]]]],"type":"MultiPolygon"}
+}

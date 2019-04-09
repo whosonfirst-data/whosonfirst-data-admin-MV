@@ -1,0 +1,84 @@
+{
+  "id": 890431489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.38333,5.76667,73.38333,5.76667",
+    "geom:latitude":5.76667,
+    "geom:longitude":73.38333,
+    "gn:country":"MV",
+    "gn:fcode":"PPL",
+    "gn:pop":1418,
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u99ac\u9054\u675c"
+    ],
+    "name:div_x_preferred":[
+        "\u0789\u07a6\u0782\u07a6\u078b\u07ab"
+    ],
+    "name:dut_x_preferred":[
+        "Manadhoo"
+    ],
+    "name:eng_x_preferred":[
+        "Manadhoo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0434\u0443"
+    ],
+    "name:slo_x_preferred":[
+        "Manad\u00fa"
+    ],
+    "name:swe_x_preferred":[
+        "Manadhoo"
+    ],
+    "qs:name":"Manadhoo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":325,
+    "wof:belongsto":[
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337618,
+        "gp:id":2268296,
+        "qs:id":132723,
+        "wd:id":"Q2599649",
+        "wk:page":"Manadhoo"
+    },
+    "wof:country":"MV",
+    "wof:created":1469051893,
+    "wof:geomhash":"51fe2505c2f2880efa5394001dd9bb21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632305,
+            "locality_id":890431489
+        }
+    ],
+    "wof:id":890431489,
+    "wof:lastmodified":1553816395,
+    "wof:name":"Manadhoo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1418,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.38333,
+    5.76667,
+    73.38333,
+    5.76667
+],
+  "geometry": {"coordinates":[73.38333,5.76667],"type":"Point"}
+}

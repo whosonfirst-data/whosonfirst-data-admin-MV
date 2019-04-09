@@ -1,0 +1,60 @@
+{
+  "id": 1344075559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.74415,3.92086,72.74415,3.92086",
+    "geom:latitude":3.92086,
+    "geom:longitude":72.74415,
+    "gn:asciiname":"Himandhoo",
+    "gn:country_code":"MV",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11103192,
+    "gn:latitude":3.92086,
+    "gn:longitude":72.74415,
+    "gn:modification_date":"2016-03-31",
+    "gn:name":"Himandhoo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11103192
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"cba7f0ab402406c5ce60b019904ce1fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344075559,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344075559,
+    "wof:lastmodified":1536852693,
+    "wof:name":"Himandhoo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.74415,
+    3.92086,
+    72.74415,
+    3.92086
+],
+  "geometry": {"coordinates":[72.74415,3.92086],"type":"Point"}
+}

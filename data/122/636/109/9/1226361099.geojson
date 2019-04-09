@@ -1,0 +1,60 @@
+{
+  "id": 1226361099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.53441,2.0142,73.53441,2.0142",
+    "geom:latitude":2.0142,
+    "geom:longitude":73.53441,
+    "gn:asciiname":"Mundoo",
+    "gn:country_code":"MV",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7874674,
+    "gn:latitude":2.0142,
+    "gn:longitude":73.53441,
+    "gn:modification_date":"2011-07-18",
+    "gn:name":"Mundoo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7874674
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"9b11eff7961ffc4032a48d5a36a8515e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226361099,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226361099,
+    "wof:lastmodified":1536767855,
+    "wof:name":"Mundoo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.53441,
+    2.0142,
+    73.53441,
+    2.0142
+],
+  "geometry": {"coordinates":[73.53440999999999,2.0142],"type":"Point"}
+}

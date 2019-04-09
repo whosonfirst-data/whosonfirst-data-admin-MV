@@ -1,0 +1,67 @@
+{
+  "id": 1242889189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.2274,-0.59474,73.2274,-0.59474",
+    "geom:latitude":-0.59474,
+    "geom:longitude":73.2274,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hulumido",
+    "gn:country_code":"MV",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8516199,
+    "gn:latitude":-0.59474,
+    "gn:longitude":73.2274,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Hulumido",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huludu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8516199
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"1b78720bb6c2e6a7da491aaf4a195c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "locality_id":1242889189,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242889189,
+    "wof:lastmodified":1537665828,
+    "wof:name":"Hulumido",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.2274,
+    -0.59474,
+    73.2274,
+    -0.59474
+],
+  "geometry": {"coordinates":[73.2274,-0.59474],"type":"Point"}
+}

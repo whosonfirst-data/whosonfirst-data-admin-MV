@@ -1,0 +1,89 @@
+{
+  "id": 890431475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.07078,5.10327,73.07078,5.10327",
+    "geom:latitude":5.10327,
+    "geom:longitude":73.07078,
+    "gn:country":"MV",
+    "gn:fcode":"PPL",
+    "gn:pop":2808,
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:div_x_preferred":[
+        "\u0787\u07ad\u078b\u07a6\u078a\u07aa\u0781\u07a8"
+    ],
+    "name:dut_x_preferred":[
+        "Eydhafushi"
+    ],
+    "name:eng_x_preferred":[
+        "Eydhafushi"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03ca\u03bd\u03c4\u03c7\u03b1\u03c6\u03bf\u03cd\u03c3\u03b9"
+    ],
+    "name:pol_x_preferred":[
+        "Eydhafushi"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0439\u0434\u0445\u0430\u0444\u0443\u0448\u0438"
+    ],
+    "name:slo_x_preferred":[
+        "\u00c9dafusi"
+    ],
+    "name:spa_x_preferred":[
+        "Eydhafushi"
+    ],
+    "name:swe_x_preferred":[
+        "Eydhafushi"
+    ],
+    "qs:name":"Eydhafushi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":9,
+    "wof:belongsto":[
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337606,
+        "qs:id":132720,
+        "wd:id":"Q2461849",
+        "wk:page":"Eydhafushi"
+    },
+    "wof:country":"MV",
+    "wof:created":1469051892,
+    "wof:geomhash":"833f9ef760026a9d653d0a1b6024113f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632305,
+            "locality_id":890431475
+        }
+    ],
+    "wof:id":890431475,
+    "wof:lastmodified":1553816395,
+    "wof:name":"Eydhafushi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2808,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.07078,
+    5.10327,
+    73.07078,
+    5.10327
+],
+  "geometry": {"coordinates":[73.07078,5.10327],"type":"Point"}
+}

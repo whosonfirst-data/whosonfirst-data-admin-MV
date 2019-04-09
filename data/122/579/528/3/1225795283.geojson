@@ -1,0 +1,61 @@
+{
+  "id": 1225795283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.99209,4.26249,72.99209,4.26249",
+    "geom:latitude":4.26249,
+    "geom:longitude":72.99209,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Rasdhoo",
+    "gn:country_code":"MV",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9179518,
+    "gn:latitude":4.26249,
+    "gn:longitude":72.99209,
+    "gn:modification_date":"2014-07-02",
+    "gn:name":"Rasdhoo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9179518
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"8f8d157212f9ed70cd6cc9432fff2034",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225795283,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225795283,
+    "wof:lastmodified":1537083437,
+    "wof:name":"Rasdhoo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.99209,
+    4.26249,
+    72.99209,
+    4.26249
+],
+  "geometry": {"coordinates":[72.99209,4.26249],"type":"Point"}
+}

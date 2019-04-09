@@ -1,0 +1,94 @@
+{
+  "id": 1126010155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.53333,3.48333,73.53333,3.48333",
+    "geom:latitude":3.48333,
+    "geom:longitude":73.53333,
+    "gn:gn_country":"MV",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":541,
+    "gn:population":541,
+    "iso:country":"MV",
+    "lbl:latitude":3.48333,
+    "lbl:longitude":73.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:div_x_preferred":[
+        "\u078a\u07ac\u078d\u07a8\u078b\u07ab"
+    ],
+    "name:dut_x_preferred":[
+        "Felidhoo"
+    ],
+    "name:eng_x_preferred":[
+        "Felidhoo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a7\u30ea\u30c9\u30a5\u30fc"
+    ],
+    "name:slo_x_preferred":[
+        "Felid\u00fa"
+    ],
+    "name:spa_x_preferred":[
+        "Felidhoo"
+    ],
+    "name:swe_x_preferred":[
+        "Felidhoo"
+    ],
+    "qs_pg:aaroncc":"MV",
+    "qs_pg:gn_country":"MV",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1337623,
+    "qs_pg:gn_pop":541,
+    "qs_pg:name":"Felidhoo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":555809,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337623,
+        "qs_pg:id":555809,
+        "wd:id":"Q4043243"
+    },
+    "wof:country":"MV",
+    "wof:created":1497300216,
+    "wof:geomhash":"e67fe24a05304c1e26396763aa1ffd00",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1126010155,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126010155,
+    "wof:lastmodified":1553816696,
+    "wof:name":"Felidhoo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":541,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.53333,
+    3.48333,
+    73.53333,
+    3.48333
+],
+  "geometry": {"coordinates":[73.53333000000001,3.48333],"type":"Point"}
+}

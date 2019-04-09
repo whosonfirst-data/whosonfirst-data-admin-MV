@@ -1,0 +1,60 @@
+{
+  "id": 1209734277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.86455,4.21507,72.86455,4.21507",
+    "geom:latitude":4.21507,
+    "geom:longitude":72.86455,
+    "gn:asciiname":"Ukulhas",
+    "gn:country_code":"MV",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8594082,
+    "gn:latitude":4.21507,
+    "gn:longitude":72.86455,
+    "gn:modification_date":"2013-08-09",
+    "gn:name":"Ukulhas",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8594082
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"c6f9d5dc1c1ba215b2d3d536b9b75379",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209734277,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209734277,
+    "wof:lastmodified":1536375382,
+    "wof:name":"Ukulhas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.86455,
+    4.21507,
+    72.86455,
+    4.21507
+],
+  "geometry": {"coordinates":[72.86454999999999,4.21507],"type":"Point"}
+}

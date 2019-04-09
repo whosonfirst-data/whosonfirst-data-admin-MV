@@ -1,0 +1,60 @@
+{
+  "id": 1226555137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.49184,4.26972,73.49184,4.26972",
+    "geom:latitude":4.26972,
+    "geom:longitude":73.49184,
+    "gn:asciiname":"Bodubados",
+    "gn:country_code":"MV",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692730,
+    "gn:latitude":4.26972,
+    "gn:longitude":73.49184,
+    "gn:modification_date":"2008-05-26",
+    "gn:name":"Bodubados",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692730
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"f02945cc467b5ec0303063145925ccd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226555137,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226555137,
+    "wof:lastmodified":1536983662,
+    "wof:name":"Bodubados",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.49184,
+    4.26972,
+    73.49184,
+    4.26972
+],
+  "geometry": {"coordinates":[73.49184,4.26972],"type":"Point"}
+}

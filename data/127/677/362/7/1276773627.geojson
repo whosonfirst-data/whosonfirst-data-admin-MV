@@ -1,0 +1,60 @@
+{
+  "id": 1276773627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.42385,4.30979,73.42385,4.30979",
+    "geom:latitude":4.30979,
+    "geom:longitude":73.42385,
+    "gn:asciiname":"Vabbinfaru Island",
+    "gn:country_code":"MV",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8199133,
+    "gn:latitude":4.30979,
+    "gn:longitude":73.42385,
+    "gn:modification_date":"2012-02-14",
+    "gn:name":"Vabbinfaru Island",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199133
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"b595dbdd3057344f981b569d0c60da6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276773627,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276773627,
+    "wof:lastmodified":1536685771,
+    "wof:name":"Vabbinfaru Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.42385,
+    4.30979,
+    73.42385,
+    4.30979
+],
+  "geometry": {"coordinates":[73.42385,4.30979],"type":"Point"}
+}

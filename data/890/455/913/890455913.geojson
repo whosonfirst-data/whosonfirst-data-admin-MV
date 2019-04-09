@@ -1,0 +1,78 @@
+{
+  "id": 890455913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.11848,6.70178,73.11848,6.70178",
+    "geom:latitude":6.70178,
+    "geom:longitude":73.11848,
+    "gn:country":"MV",
+    "gn:fcode":"PPL",
+    "gn:pop":448,
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:div_x_preferred":[
+        "\u0782\u07ae\u0785\u07a8\u0788\u07a6\u0783\u07a6\u0782\u07b0\u078a\u07a6\u0783\u07aa"
+    ],
+    "name:dut_x_preferred":[
+        "Nolhivaranfaru"
+    ],
+    "name:eng_x_preferred":[
+        "Nolhivaranfaru"
+    ],
+    "name:slo_x_preferred":[
+        "Nolivaranfaru"
+    ],
+    "name:swe_x_preferred":[
+        "Nolhivaranfaru"
+    ],
+    "qs:name":"Nolhivaranfaru",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":133,
+    "wof:belongsto":[
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337614,
+        "gp:id":2268293,
+        "qs:id":555808,
+        "wd:id":"Q3185765",
+        "wk:page":"Nolhivaranfaru"
+    },
+    "wof:country":"MV",
+    "wof:created":1469052985,
+    "wof:geomhash":"e1fd548ab41362c709557832ede6e53c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632305,
+            "locality_id":890455913
+        }
+    ],
+    "wof:id":890455913,
+    "wof:lastmodified":1527734194,
+    "wof:name":"Nolhivaranfaru",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":448,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.11848,
+    6.70178,
+    73.11848,
+    6.70178
+],
+  "geometry": {"coordinates":[73.11848000000001,6.70178],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 890431481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.89437,2.67075,72.89437,2.67075",
+    "geom:latitude":2.67075,
+    "geom:longitude":72.89437,
+    "gn:country":"MV",
+    "gn:fcode":"PPL",
+    "gn:pop":1320,
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0434\u0430\u0445\u0443\u0432\u0430\u0434\u0445\u043e"
+    ],
+    "name:div_x_preferred":[
+        "\u0786\u07aa\u0791\u07a6\u0780\u07aa\u0788\u07a6\u078b\u07ab"
+    ],
+    "name:dut_x_preferred":[
+        "Kudahuvadhoo"
+    ],
+    "name:eng_x_preferred":[
+        "Kudahuvadhoo"
+    ],
+    "name:epo_x_preferred":[
+        "Kudahuvadhoo"
+    ],
+    "name:fre_x_preferred":[
+        "Kudahuvadhoo"
+    ],
+    "name:ger_x_preferred":[
+        "Kudahuvadhoo"
+    ],
+    "name:slo_x_preferred":[
+        "Kudahuvad\u00fa"
+    ],
+    "name:swe_x_preferred":[
+        "Kudahuvadhoo"
+    ],
+    "qs:name":"Kudahuvadhoo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":406,
+    "wof:belongsto":[
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337607,
+        "gp:id":2268292,
+        "qs:id":132721,
+        "wd:id":"Q2339256",
+        "wk:page":"Kudahuvadhoo"
+    },
+    "wof:country":"MV",
+    "wof:created":1469051892,
+    "wof:geomhash":"6fadfb5f0590ee008a7e3a0b7fed315b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632305,
+            "locality_id":890431481
+        }
+    ],
+    "wof:id":890431481,
+    "wof:lastmodified":1527735416,
+    "wof:name":"Kudahuvadhoo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1320,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.89437,
+    2.67075,
+    72.89437,
+    2.67075
+],
+  "geometry": {"coordinates":[72.89437,2.67075],"type":"Point"}
+}

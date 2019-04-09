@@ -1,0 +1,63 @@
+{
+  "id": 1293506219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.88143,5.0398,72.88143,5.0398",
+    "geom:latitude":5.0398,
+    "geom:longitude":72.88143,
+    "gn:asciiname":"Dhunikolhu Island",
+    "gn:country_code":"MV",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8199134,
+    "gn:latitude":5.0398,
+    "gn:longitude":72.88143,
+    "gn:modification_date":"2012-02-14",
+    "gn:name":"Dhunikolhu Island",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199134
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"816a5604267cc5e80b84f61fbb4f4940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "locality_id":1293506219,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293506219,
+    "wof:lastmodified":1536760242,
+    "wof:name":"Dhunikolhu Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.88143000000002,
+    5.0398,
+    72.88143000000002,
+    5.0398
+],
+  "geometry": {"coordinates":[72.88143000000002,5.0398],"type":"Point"}
+}

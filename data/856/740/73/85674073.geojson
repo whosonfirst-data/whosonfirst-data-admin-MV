@@ -1,0 +1,297 @@
+{
+  "id": 85674073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000332,
+    "geom:area_square_m":4083861.574778,
+    "geom:bbox":"73.3177189459,5.24502187696,73.6466577483,5.54360586142",
+    "geom:latitude":5.36106,
+    "geom:longitude":73.556893,
+    "gn:id":"",
+    "iso:country":"MV",
+    "label:eng_x_preferred_longname":[
+        "Lhaviyani Atoll"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "atoll"
+    ],
+    "lbl:latitude":5.403064,
+    "lbl:longitude":73.633093,
+    "mps:latitude":5.403064,
+    "mps:longitude":73.633093,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0641\u064a\u0627\u0646\u064a \u0623\u062a\u0648\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09cd\u09b2\u09be\u09ad\u09bf\u09af\u09bc\u09be\u09a8\u09bf \u0986\u09a4\u09cb\u09b2"
+    ],
+    "name:cze_x_preferred":[
+        "Lavijani"
+    ],
+    "name:dan_x_preferred":[
+        "Lhaviyani Atoll"
+    ],
+    "name:div_x_preferred":[
+        "\u078a\u07a7\u078b\u07a8\u0787\u07b0\u0795\u07ae\u0785\u07aa"
+    ],
+    "name:dut_x_preferred":[
+        "Lhaviyani-atol"
+    ],
+    "name:eng_x_preferred":[
+        "Lhaviyani"
+    ],
+    "name:fin_x_preferred":[
+        "Lhaviyani Atoll"
+    ],
+    "name:fre_x_preferred":[
+        "Atoll Faadhippolhu"
+    ],
+    "name:ger_x_preferred":[
+        "Faadhippolhu-Atoll"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1\u03b2\u03b9\u03b3\u03b9\u03ac\u03bd\u03b9 \u0391\u03c4\u03cc\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0acd\u0ab9\u0abe\u0ab5\u0abf\u0aaf\u0abe\u0aa8\u0ac0 \u0a8f\u0a9f\u0acb\u0ab2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d8\u05d5\u05dc \u05dc\u05d1\u05d9\u05d0\u05e0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0935\u093f\u092f\u093e\u0928\u0940 \u090f\u091f\u094b\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Fadiffolu-atoll"
+    ],
+    "name:ind_x_preferred":[
+        "Atol Lhaviyani"
+    ],
+    "name:ita_x_preferred":[
+        "Atollo Lhaviyani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30d3\u30a2\u30cb\u74b0\u7901"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cb5\u0cbf\u0caf\u0ca8\u0cbf \u0c85\u0c9f\u0cbe\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ube44\uc57c\ub2c8 \ud658\ucd08"
+    ],
+    "name:lav_x_preferred":[
+        "Lavijani atols"
+    ],
+    "name:lit_x_preferred":[
+        "Lchavijanio atolas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u0941\u0935\u093f\u092f\u093e\u0928\u0940 \u0905\u091f\u0949\u0932"
+    ],
+    "name:may_x_preferred":[
+        "Lhaviyani Atoll"
+    ],
+    "name:nno_x_preferred":[
+        "Laviyani"
+    ],
+    "name:nob_x_preferred":[
+        "Laviyani"
+    ],
+    "name:pol_x_preferred":[
+        "Lhaviyani"
+    ],
+    "name:por_x_preferred":[
+        "Lhaviyani Atoll"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0445\u0430\u0432\u0438\u0439\u0430\u043d\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dc0\u0dd2\u0dba\u0dcf\u0db1\u0dd2 \u0daf\u0dd4\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba"
+    ],
+    "name:slo_x_preferred":[
+        "Lavijani"
+    ],
+    "name:spa_x_preferred":[
+        "Atol\u00f3n Lhaviyani"
+    ],
+    "name:swe_x_preferred":[
+        "Lhaviyani Atholhu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bcd\u0bb9\u0bb5\u0bbf\u0baf\u0ba3\u0bbf  \u0b85\u0b9f\u0bbe\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3e\u0c35\u0c3f\u0c2f\u0c3e\u0c28\u0c3f \u0c05\u0c1f\u0c4b\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e22\u0e27\u0e34\u0e22\u0e19\u0e34"
+    ],
+    "name:tur_x_preferred":[
+        "Lhayviyani Atoll"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442\u043e\u043b \u041b\u0445\u0430\u0432\u0456\u0439\u0430\u043d\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Laviyani Atoll"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u062d\u0627\u0648\u06cc\u0627\u0646\u06cc \u0627\u062a\u0648\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Lhaviyani Atoll"
+    ],
+    "ne:abbrev":"Lh",
+    "ne:adm0_a3":"MDV",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"MDV-5229",
+    "ne:adm1_code":"MDV-5229",
+    "ne:admin":"Maldives",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MV.LV",
+    "ne:code_local":"G",
+    "ne:datarank":"10",
+    "ne:diss_me":"5229",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Maldives",
+    "ne:gn_a1_code":"MV.39",
+    "ne:gn_id":"1282096",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Lhaviyani Atholhu",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MDV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MV-03",
+    "ne:iso_a2":"MV",
+    "ne:labelrank":"20",
+    "ne:latitude":"5.27480000000",
+    "ne:longitude":"73.58160000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":1,
+    "ne:name":"Lhaviyani",
+    "ne:name_alt":"Faadhippolhu",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"Lh",
+    "ne:provnum_ne":"0",
+    "ne:region":"North",
+    "ne:region_cod":"MV-NO",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MDV",
+    "ne:sub_code":"",
+    "ne:type":"Atoll",
+    "ne:type_en":"Atoll",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070313,
+    "ne:woe_label":"Lhaviyani, MV, Maldives",
+    "ne:woe_name":"Lhaviyani",
+    "qs:a0":"Maldives",
+    "qs:a0_lc":"MV",
+    "qs:a1":"Lhaviyani",
+    "qs:a1_lc":"MDV-5229",
+    "qs:a1r":"North",
+    "qs:a1r_lc":"MV-NO",
+    "qs:adm0":"Maldives",
+    "qs:adm0_a3":"MDV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Atoll",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2014-09-20",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2014-09-20",
+    "statoids:capital":"Naifaru",
+    "statoids:country":"MV",
+    "statoids:gec":"MV39",
+    "statoids:hasc":"MV.LV",
+    "statoids:iso":"03",
+    "statoids:name":"Laviyani",
+    "statoids:population":"7905",
+    "statoids:timezone":"+5",
+    "statoids:type":"atoll",
+    "unlc:subdivision":"MV-03",
+    "wd:wordcount":26,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102193527,
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MV39",
+        "gn:id":1282096,
+        "gp:id":20070313,
+        "hasc:id":"MV.LV",
+        "iso:id":"MV-03",
+        "qs:id":890125,
+        "unlc:id":"MV-03",
+        "wd:id":"Q1390048"
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"9c3956a4f45a5ca87149b0496f6564c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "region_id":85674073
+        }
+    ],
+    "wof:id":85674073,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "div"
+    ],
+    "wof:lang_x_spoken":[
+        "div"
+    ],
+    "wof:lastmodified":1553550455,
+    "wof:name":"Lhaviyani",
+    "wof:parent_id":85632305,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"atoll",
+    "wof:population":7905,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:shortcode":"LV",
+    "wof:subdivision":"MV-03",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.31771894587268,
+    5.24502187695811,
+    73.64665774825653,
+    5.54360586142144
+],
+  "geometry": {"coordinates":[[[[73.49732506619893,5.24506256768342],[73.49724368654694,5.24502187695811],[73.49382571688341,5.24599843997606],[73.49976647194518,5.24689362244277],[73.49968509229325,5.24681224189152],[73.49732506619893,5.24506256768342]]],[[[73.58285566495704,5.27558014490779],[73.57764733215873,5.27456289296316],[73.57016035201866,5.27667877830305],[73.56999759181548,5.27676015795498],[73.57593834687725,5.2799339859647],[73.58204186304158,5.28180573144937],[73.58790123845142,5.28261953336482],[73.59359785185944,5.28270091391607],[73.58285566495704,5.27558014490779]]],[[[73.46436608232887,5.306870835121],[73.46420332122636,5.30683014529501],[73.46705162882967,5.30833567964794],[73.46713300938092,5.30833567964794],[73.46843509190603,5.30809153889345],[73.47022545683944,5.30776601848703],[73.47014407628814,5.30772532866104],[73.46436608232887,5.306870835121]]],[[[73.62940514423207,5.33274974250668],[73.6272078792403,5.33112213687718],[73.62330162896706,5.33185455914065],[73.62956790533462,5.33283112215861],[73.62940514423207,5.33274974250668]]],[[[73.64006595148254,5.34218984598465],[73.6399031912793,5.34218984598465],[73.6434025396955,5.34393952019275],[73.64665774825653,5.34324778955391],[73.64649498805329,5.34324778955391],[73.64006595148254,5.34218984598465]]],[[[73.40121503984227,5.35614655252141],[73.39942467490886,5.35545482008393],[73.39616946724715,5.3571231146401],[73.39600670704397,5.35846588699116],[73.39714603026516,5.36017487227258],[73.39747154977226,5.36220937706116],[73.39755293122283,5.36200592703193],[73.39869225444403,5.35960521021235],[73.40064537868136,5.3576520850757],[73.40121503984227,5.35614655252141]]],[[[73.32325279997679,5.36823151267424],[73.32488040470696,5.36676666904657],[73.32496178525827,5.36676666904657],[73.3278914725135,5.36701080890174],[73.32797285216543,5.36701080890174],[73.32821699291992,5.36701080890174],[73.33008873840458,5.36688873942381],[73.33008873840458,5.36684804959788],[73.32886803553146,5.36424388184969],[73.31934654970354,5.36294179932463],[73.31918379039968,5.36294179932463],[73.31771894587268,5.36579010602861],[73.31918379039968,5.36664459866932],[73.32203209710366,5.36688873942381],[73.32325279997679,5.36823151267424]]],[[[73.63249759169054,5.38625722968743],[73.63249759169054,5.38605377785962],[73.62777754040121,5.41327545849566],[73.62956790533462,5.41852448111996],[73.63453209737844,5.41095612222733],[73.63672936326958,5.40289948092635],[73.63672936326958,5.40285879110036],[73.63591556135412,5.39447663029227],[73.63249759169054,5.38625722968743]]],[[[73.34489993578347,5.42682526227605],[73.344574415377,5.42674388262412],[73.34750410173297,5.42877838741271],[73.35075931119331,5.42767975491682],[73.34489993578347,5.42682526227605]]],[[[73.53744550890315,5.45140208533803],[73.53492272170632,5.44985586115911],[73.53126061308689,5.45042552321939],[73.53744550890315,5.45140208533803]]],[[[73.36093183693481,5.45795319228603],[73.36068769618026,5.45783112190878],[73.36296634172334,5.4630801454324],[73.36296634172334,5.46279531485197],[73.36312910192657,5.45937734608771],[73.36093183693481,5.45795319228603]]],[[[73.46241295719227,5.54360586142144],[73.45932050883448,5.5417341168361],[73.45647220123118,5.54262929930275],[73.45630944102794,5.54266998912874],[73.46241295719227,5.54360586142144]]]],"type":"MultiPolygon"}
+}

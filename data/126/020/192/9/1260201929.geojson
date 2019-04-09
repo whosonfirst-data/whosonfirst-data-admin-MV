@@ -1,0 +1,63 @@
+{
+  "id": 1260201929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.95351,6.55053,72.95351,6.55053",
+    "geom:latitude":6.55053,
+    "geom:longitude":72.95351,
+    "gn:asciiname":"Vaikaradhoo",
+    "gn:country_code":"MV",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11103673,
+    "gn:latitude":6.55053,
+    "gn:longitude":72.95351,
+    "gn:modification_date":"2016-04-08",
+    "gn:name":"Vaikaradhoo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11103673
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"039accc4b5ff2583f8b97bbf05a7442c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "locality_id":1260201929,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260201929,
+    "wof:lastmodified":1536821782,
+    "wof:name":"Vaikaradhoo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.95351,
+    6.55053,
+    72.95351,
+    6.55053
+],
+  "geometry": {"coordinates":[72.95350999999999,6.55053],"type":"Point"}
+}

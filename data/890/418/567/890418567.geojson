@@ -1,0 +1,63 @@
+{
+  "id": 890418567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.27357,5.66433,73.27357,5.66433",
+    "geom:latitude":5.66433,
+    "geom:longitude":73.27357,
+    "gn:country":"MV",
+    "gn:fcode":"ISL",
+    "gn:pop":3500,
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "qs:name":"Velidhoo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6695968,
+        "gp:id":2268296,
+        "qs:id":644050,
+        "wk:page":"Velidhoo"
+    },
+    "wof:country":"MV",
+    "wof:created":1469051253,
+    "wof:geomhash":"0fcde3a81891c4ceba459764b89e8e04",
+    "wof:hierarchy":[
+        {
+            "country_id":85632305,
+            "locality_id":890418567
+        }
+    ],
+    "wof:id":890418567,
+    "wof:lastmodified":1527792813,
+    "wof:name":"Velidhoo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":3500,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.27357,
+    5.66433,
+    73.27357,
+    5.66433
+],
+  "geometry": {"coordinates":[73.27357000000001,5.66433],"type":"Point"}
+}

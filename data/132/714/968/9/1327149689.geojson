@@ -1,0 +1,60 @@
+{
+  "id": 1327149689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.07715,5.11289,73.07715,5.11289",
+    "geom:latitude":5.11289,
+    "geom:longitude":73.07715,
+    "gn:asciiname":"Kunfunadhoo Island",
+    "gn:country_code":"MV",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8199138,
+    "gn:latitude":5.11289,
+    "gn:longitude":73.07715,
+    "gn:modification_date":"2012-02-14",
+    "gn:name":"Kunfunadhoo Island",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199138
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"f8985698d730843045e4a08204e70d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327149689,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327149689,
+    "wof:lastmodified":1537085747,
+    "wof:name":"Kunfunadhoo Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.07715,
+    5.11289,
+    73.07715,
+    5.11289
+],
+  "geometry": {"coordinates":[73.07715,5.11289],"type":"Point"}
+}

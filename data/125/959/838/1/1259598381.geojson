@@ -1,0 +1,60 @@
+{
+  "id": 1259598381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.12517,5.21498,73.12517,5.21498",
+    "geom:latitude":5.21498,
+    "geom:longitude":73.12517,
+    "gn:asciiname":"Kihaadhoo",
+    "gn:country_code":"MV",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7910009,
+    "gn:latitude":5.21498,
+    "gn:longitude":73.12517,
+    "gn:modification_date":"2011-07-18",
+    "gn:name":"Kihaadhoo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7910009
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"ba3b1bced9a022e83bbf6de88b98ee9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259598381,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259598381,
+    "wof:lastmodified":1536693458,
+    "wof:name":"Kihaadhoo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.12517,
+    5.21498,
+    73.12517,
+    5.21498
+],
+  "geometry": {"coordinates":[73.12517,5.21498],"type":"Point"}
+}

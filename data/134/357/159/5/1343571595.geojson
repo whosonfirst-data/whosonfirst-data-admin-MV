@@ -1,0 +1,60 @@
+{
+  "id": 1343571595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.9554,3.60765,72.9554,3.60765",
+    "geom:latitude":3.60765,
+    "geom:longitude":72.9554,
+    "gn:asciiname":"Dhangethi",
+    "gn:country_code":"MV",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629835,
+    "gn:latitude":3.60765,
+    "gn:longitude":72.9554,
+    "gn:modification_date":"2013-11-05",
+    "gn:name":"Dhangethi",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629835
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"f9034795ea322021f2bb22e49fd8da5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343571595,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343571595,
+    "wof:lastmodified":1537080156,
+    "wof:name":"Dhangethi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.9554,
+    3.60765,
+    72.9554,
+    3.60765
+],
+  "geometry": {"coordinates":[72.9554,3.60765],"type":"Point"}
+}

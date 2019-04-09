@@ -1,0 +1,295 @@
+{
+  "id": 85674133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:area_square_m":1290264.931888,
+    "geom:bbox":"73.4345809247,-0.304294529169,73.4450789717,-0.283623955481",
+    "geom:latitude":-0.294335,
+    "geom:longitude":73.439709,
+    "gn:id":"",
+    "iso:country":"MV",
+    "label:eng_x_preferred_longname":[
+        "Gnaviyani Atoll"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "atoll"
+    ],
+    "lbl:latitude":-0.294353,
+    "lbl:longitude":73.439789,
+    "mps:latitude":-0.294353,
+    "mps:longitude":73.439789,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u063a\u0646\u0627\u0641\u064a\u0627\u0646\u064a \u0623\u062a\u0648\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cd\u09a8\u09be\u09ad\u09bf\u09af\u09bc\u09be\u09a8\u09bf \u0986\u09a4\u09cb\u09b2"
+    ],
+    "name:cze_x_preferred":[
+        "Gnavijani"
+    ],
+    "name:dan_x_preferred":[
+        "Gnaviyani Atoll"
+    ],
+    "name:div_x_preferred":[
+        "\u078f. \u0787\u07a6\u078c\u07ae\u0785\u07aa"
+    ],
+    "name:dut_x_preferred":[
+        "Gnaviyani-atol"
+    ],
+    "name:eng_x_preferred":[
+        "Gnaviyani"
+    ],
+    "name:eng_x_variant":[
+        "Gnyaviyani Atoll",
+        "Naviyani",
+        "Gnaviyani Atoll"
+    ],
+    "name:fin_x_preferred":[
+        "Gnaviyani Atoll"
+    ],
+    "name:fre_x_preferred":[
+        "Atoll de Gnaviyani"
+    ],
+    "name:ger_x_preferred":[
+        "Gnaviyani"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03ba\u03bd\u03b1\u03b2\u03b9\u03b3\u03b9\u03ac\u03bd\u03b9 \u0391\u03c4\u03cc\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0acd\u0aa8\u0abe\u0ab5\u0abf\u0aaf\u0abe\u0aa8\u0ac0 \u0a8f\u0a9f\u0acb\u0ab2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u0935\u093f\u092f\u093e\u0928\u0940 \u090f\u091f\u094b\u0932"
+    ],
+    "name:ind_x_preferred":[
+        "Gnaviyani Atoll"
+    ],
+    "name:ita_x_preferred":[
+        "Atollo Gnaviyani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30e4\u30f4\u30a3\u30e4\u30cb\u74b0\u7901"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0ccd\u0cb5\u0cbe\u0ca8\u0cb5\u0cbf\u0ca3\u0cbf \u0c85\u0c9f\u0cbe\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uadf8\ub098\ube44\uc57c\ub2c8 \ud658\ucd08"
+    ],
+    "name:lav_x_preferred":[
+        "Gnavijani atols"
+    ],
+    "name:lit_x_preferred":[
+        "Gnavijanio atolas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u094d\u092f\u093e\u0928\u093f\u092f\u093e\u0928\u0940 \u090f\u091f\u094b\u0932"
+    ],
+    "name:may_x_preferred":[
+        "Gnaviyani Atoll"
+    ],
+    "name:nno_x_preferred":[
+        "Naviyani"
+    ],
+    "name:nob_x_preferred":[
+        "Naviyani"
+    ],
+    "name:pol_x_preferred":[
+        "Gnaviyani"
+    ],
+    "name:por_x_preferred":[
+        "Gnaviyani Atoll"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043d\u0430\u0432\u0438\u0439\u0430\u043d\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0dca\u0db1\u0dcf\u0dc0\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0daf\u0dd4\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd4\u0dc4\u0dba"
+    ],
+    "name:slo_x_preferred":[
+        "Gnavijani"
+    ],
+    "name:spa_x_preferred":[
+        "Atol\u00f3n Gnaviyani"
+    ],
+    "name:swe_x_preferred":[
+        "Gnaviyani Atholhu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc1\u0ba3\u0bb5\u0bbf\u0baf\u0ba3\u0bbf \u0b85\u0b9f\u0bcb\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c4d\u0c28\u0c3e\u0c35\u0c3f\u0c2f\u0c3e\u0c28\u0c3f \u0c05\u0c1f\u0c4b\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e19\u0e32\u0e27\u0e2d\u0e22\u0e32\u0e19\u0e35\u0e2d\u0e17\u0e2d\u0e25\u0e25\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Gnaviyani Atoll"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043d\u0430\u0432\u0456\u0439\u0430\u043d\u0456 \u0430\u0442\u043e\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Foammula"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u0627\u0648\u06cc\u0627\u0646\u06cc \u0627\u062a\u0648\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Gnaviyani Atoll"
+    ],
+    "ne:abbrev":"Gn",
+    "ne:adm0_a3":"MDV",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"MDV-5242",
+    "ne:adm1_code":"MDV-5242",
+    "ne:admin":"Maldives",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MV.NA",
+    "ne:code_local":"R",
+    "ne:datarank":"10",
+    "ne:diss_me":"5242",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Maldives",
+    "ne:gn_a1_code":"MV.42",
+    "ne:gn_id":"1281945",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Gnaviyani Atholhu",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MDV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MV-29",
+    "ne:iso_a2":"MV",
+    "ne:labelrank":"20",
+    "ne:latitude":"-0.28897000000",
+    "ne:longitude":"73.43480000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":1,
+    "ne:name":"Gnaviyani",
+    "ne:name_alt":"Fuvahmulah|Naviyani",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"Gn",
+    "ne:provnum_ne":"0",
+    "ne:region":"South",
+    "ne:region_cod":"MV-SU",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MDV",
+    "ne:sub_code":"",
+    "ne:type":"Atoll",
+    "ne:type_en":"Atoll",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Gnaviyani_Atoll",
+    "ne:woe_id":20070326,
+    "ne:woe_label":"",
+    "ne:woe_name":"Gnaviyani",
+    "qs:a0":"Maldives",
+    "qs:a0_lc":"MV",
+    "qs:a1":"Gnaviyani",
+    "qs:a1_lc":"MDV-5242",
+    "qs:a1r":"South",
+    "qs:a1r_lc":"MV-SU",
+    "qs:adm0":"Maldives",
+    "qs:adm0_a3":"MDV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Atoll",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2014-09-20",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2014-09-20",
+    "statoids:capital":"Fuamulaku",
+    "statoids:country":"MV",
+    "statoids:gec":"MV42",
+    "statoids:hasc":"MV.NA",
+    "statoids:iso":"29",
+    "statoids:name":"Naviyani",
+    "statoids:population":"7984",
+    "statoids:timezone":"+5",
+    "statoids:type":"atoll",
+    "unlc:subdivision":"MV-29",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102193527,
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MV42",
+        "gn:id":1281945,
+        "gp:id":20070326,
+        "hasc:id":"MV.NA",
+        "iso:id":"MV-29",
+        "qs:id":1172854,
+        "unlc:id":"MV-29",
+        "wd:id":"Q1811116"
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"10a794ed302ac278658eb072e92f38fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "region_id":85674133
+        }
+    ],
+    "wof:id":85674133,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "div"
+    ],
+    "wof:lang_x_spoken":[
+        "div"
+    ],
+    "wof:lastmodified":1553550458,
+    "wof:name":"Gnaviyani",
+    "wof:parent_id":85632305,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"atoll",
+    "wof:population":7984,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:shortcode":"NA",
+    "wof:subdivision":"MV-29",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.43458092467,
+    -0.30429452916911,
+    73.44507897171724,
+    -0.28362395548112
+],
+  "geometry": {"coordinates":[[[73.4350692070783,-0.28362395548112],[73.44304446692865,-0.29273853945199],[73.44507897171724,-0.29753997129256],[73.44450931145559,-0.30429452916911],[73.43799889433359,-0.29859791486183],[73.43523196728154,-0.2936337219187],[73.43458092467,-0.28875090862749],[73.4350692070783,-0.28362395548112]]],"type":"Polygon"}
+}

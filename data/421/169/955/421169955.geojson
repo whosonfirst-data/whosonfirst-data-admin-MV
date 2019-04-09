@@ -1,0 +1,96 @@
+{
+  "id": 421169955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.93333,0.53333,72.93333,0.53333",
+    "geom:latitude":0.53333,
+    "geom:longitude":72.93333,
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:div_x_preferred":[
+        "\u078c\u07a8\u0782\u07a6\u078b\u07ab"
+    ],
+    "name:dut_x_preferred":[
+        "Thinadhoo"
+    ],
+    "name:eng_x_preferred":[
+        "Thinadhoo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e0\u05d3\u05d5"
+    ],
+    "name:pol_x_preferred":[
+        "Thinadhoo"
+    ],
+    "name:slo_x_preferred":[
+        "Tinad\u00fa"
+    ],
+    "name:swe_x_preferred":[
+        "Thinadhoo"
+    ],
+    "qs:gn_country":"MV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1337610,
+    "qs:gn_pop":5360,
+    "qs:name":"Thinadhoo",
+    "qs:name_adm0":"Maldives",
+    "qs:name_adm1":"Gaafu Dhaalu",
+    "qs:photos":41,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":41,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1222049,
+    "qs:woe_adm0":23424899,
+    "qs:woe_id":2268300,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337610,
+        "gp:id":2268300,
+        "qs:id":1222049,
+        "wd:id":"Q2147686",
+        "wk:page":"Thinadhoo (Gaafu Dhaalu Atoll)"
+    },
+    "wof:country":"MV",
+    "wof:created":1459008831,
+    "wof:geomhash":"22ec09f4989e4d2f08266d1239d69599",
+    "wof:hierarchy":[
+        {
+            "country_id":85632305,
+            "locality_id":421169955
+        }
+    ],
+    "wof:id":421169955,
+    "wof:lastmodified":1553816358,
+    "wof:name":"Thinadhoo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":5360,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.93333,
+    0.53333,
+    72.93333,
+    0.53333
+],
+  "geometry": {"coordinates":[72.93333,0.53333],"type":"Point"}
+}

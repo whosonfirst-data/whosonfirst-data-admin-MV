@@ -1,0 +1,285 @@
+{
+  "id": 85674107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000136,
+    "geom:area_square_m":1682036.577957,
+    "geom:bbox":"72.864919467,2.67572662988,73.0322371753,2.9691836612",
+    "geom:latitude":2.775684,
+    "geom:longitude":72.938938,
+    "gn:id":"",
+    "iso:country":"MV",
+    "label:eng_x_preferred_longname":[
+        "Dhaalu Atoll"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "atoll"
+    ],
+    "lbl:latitude":2.740533,
+    "lbl:longitude":73.026611,
+    "mps:latitude":2.740533,
+    "mps:longitude":73.026611,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0644\u0648 \u0623\u062a\u0648\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09a7\u09be\u09b2\u09c1 \u0986\u09a4\u09cb\u09b2"
+    ],
+    "name:dan_x_preferred":[
+        "Dhaalu Atoll"
+    ],
+    "name:div_x_preferred":[
+        "\u0782\u07a8\u078d\u07a6\u0782\u07b0\u078b\u07ac\u0787\u07a6\u078c\u07ae\u0785\u07aa \u078b\u07ac\u0786\u07aa\u0782\u07aa\u0784\u07aa\u0783\u07a8"
+    ],
+    "name:dut_x_preferred":[
+        "Dhaalu-atol"
+    ],
+    "name:eng_x_preferred":[
+        "Dhaalu"
+    ],
+    "name:fin_x_preferred":[
+        "Dhaalu Atoll"
+    ],
+    "name:fre_x_preferred":[
+        "Atoll Nilandhe Sud"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00fcd-Nilandhe-Atoll"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03c4\u03b1\u03b1\u03bb\u03bf\u03cd \u0391\u03c4\u03cc\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa6\u0ab9\u0abe\u0ab2\u0ac1 \u0a8f\u0a9f\u0acb\u0ab2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0927\u093e\u0932\u0941 \u090f\u091f\u094b\u0932"
+    ],
+    "name:ind_x_preferred":[
+        "Atol Dhaalu"
+    ],
+    "name:ita_x_preferred":[
+        "Atollo Dhaalu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30a1\u30fc\u30eb\u74b0\u7901"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca7\u0cbe\u0cb2\u0cc1 \u0c85\u0c9f\u0cbe\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2ec\ub8e8 \ud658\ucd08"
+    ],
+    "name:lav_x_preferred":[
+        "D\u0101lu atols"
+    ],
+    "name:lit_x_preferred":[
+        "Dchalo atolas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0927\u093e\u0932\u0941 \u090f\u091f\u0935\u094d\u0939\u0932"
+    ],
+    "name:may_x_preferred":[
+        "Dhaalu Atoll"
+    ],
+    "name:nno_x_preferred":[
+        "Daalu"
+    ],
+    "name:nob_x_preferred":[
+        "Daalu"
+    ],
+    "name:pol_x_preferred":[
+        "Dhaalu"
+    ],
+    "name:por_x_preferred":[
+        "Dhaalu Atoll"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0445\u0430\u0430\u043b\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da9\u0dcf\u0dbd\u0dd4 \u0daf\u0dd6\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba"
+    ],
+    "name:slo_x_preferred":[
+        "D\u00e1lu"
+    ],
+    "name:spa_x_preferred":[
+        "Atol\u00f3n Dhaalu"
+    ],
+    "name:swe_x_preferred":[
+        "Dhaalu Atholhu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bbe\u0bb3\u0bc1   \u0b85\u0b9f\u0bbe\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c22\u0c3e\u0c32\u0c41 \u0c05\u0c1f\u0c4b\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e32\u0e2b\u0e4c\u0e25\u0e39"
+    ],
+    "name:tur_x_preferred":[
+        "Dhaalu Atoll"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442\u043e\u043b \u0414\u0445\u0430\u0430\u043b\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Nilandhe Atholhu Dhekunuburi"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u062d\u0627\u0627\u0644\u0648 \u0627\u062a\u0648\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Dhaalu Atoll"
+    ],
+    "ne:abbrev":"Dh",
+    "ne:adm0_a3":"MDV",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"MDV-5237",
+    "ne:adm1_code":"MDV-5237",
+    "ne:admin":"Maldives",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MV.DA",
+    "ne:code_local":"M",
+    "ne:datarank":"10",
+    "ne:diss_me":"5237",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Maldives",
+    "ne:gn_a1_code":"MV.32",
+    "ne:gn_id":"1282447",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Dhaalu Atholhu",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MDV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MV-17",
+    "ne:iso_a2":"MV",
+    "ne:labelrank":"20",
+    "ne:latitude":"2.67806000000",
+    "ne:longitude":"72.90170000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":1,
+    "ne:name":"Dhaalu",
+    "ne:name_alt":"Nilandhe Atholhu Dhekunuburi",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"Dh",
+    "ne:provnum_ne":"0",
+    "ne:region":"Central",
+    "ne:region_cod":"MV-CE",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MDV",
+    "ne:sub_code":"",
+    "ne:type":"Atoll",
+    "ne:type_en":"Atoll",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070322,
+    "ne:woe_label":"Dhaalu, MV, Maldives",
+    "ne:woe_name":"Dhaalu",
+    "qs:a0":"Maldives",
+    "qs:a0_lc":"MV",
+    "qs:a1":"Dhaalu",
+    "qs:a1_lc":"MDV-5237",
+    "qs:a1r":"Central",
+    "qs:a1r_lc":"MV-CE",
+    "qs:adm0":"Maldives",
+    "qs:adm0_a3":"MDV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Atoll",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2014-09-20",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2014-09-20",
+    "statoids:capital":"Kudahuvadhoo",
+    "statoids:country":"MV",
+    "statoids:gec":"MV32",
+    "statoids:hasc":"MV.DA",
+    "statoids:iso":"17",
+    "statoids:name":"Daalu",
+    "statoids:population":"5305",
+    "statoids:timezone":"+5",
+    "statoids:type":"atoll",
+    "wd:wordcount":23,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102193527,
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MV32",
+        "gn:id":1282447,
+        "gp:id":20070322,
+        "hasc:id":"MV.DA",
+        "iso:id":"MV-17",
+        "qs:id":890127,
+        "wd:id":"Q2290784"
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"2bddea263ee6f91ca60ff152c00e336d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "region_id":85674107
+        }
+    ],
+    "wof:id":85674107,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "div"
+    ],
+    "wof:lang_x_spoken":[
+        "div"
+    ],
+    "wof:lastmodified":1553550456,
+    "wof:name":"Dhaalu",
+    "wof:parent_id":85632305,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"atoll",
+    "wof:population":5305,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:shortcode":"DA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.86491946695986,
+    2.6757266298801,
+    73.03223717530545,
+    2.96918366119706
+],
+  "geometry": {"coordinates":[[[[72.90642337274051,2.67967356997934],[72.90447024850323,2.6757266298801],[72.90113366029027,2.67617422156314],[72.90056399822998,2.67755768463951],[72.90072675933254,2.67975495053059],[72.90007571672101,2.68219635627685],[72.90259850391789,2.68097565340372],[72.90528405041863,2.68081289320048],[72.90642337274051,2.67967356997934]]],[[[72.87370853052431,2.68366119990452],[72.87370853052431,2.68357982025253],[72.86736087270617,2.68667226861038],[72.86695397174844,2.68895091415339],[72.86980228025106,2.69122955969647],[72.87256920730312,2.69415924695176],[72.87370853052431,2.68366119990452]]],[[[73.02800540552511,2.73822663065454],[73.02540123777698,2.73761627786899],[73.02239016997044,2.74164459851943],[73.02230879031845,2.74168528924474],[73.03223717530545,2.74510325710969],[73.03223717530545,2.7450218774577],[73.02800540552511,2.73822663065454]]],[[[73.01490319072974,2.94741445501313],[73.0104272801949,2.9452578798473],[73.00993899778655,2.94570547153035],[73.00904381621922,2.94643789289449],[73.00904381621922,2.94944896070103],[73.00904381621922,2.94953034125228],[73.00847415505825,2.95331452024897],[73.01490319072974,2.94741445501313]]],[[[72.86768639401191,2.96088288004091],[72.8650822271631,2.95815664371418],[72.86491946695986,2.96088288004091],[72.87012779975822,2.96918366119706],[72.87012779975822,2.96906159171914],[72.86768639401191,2.96088288004091]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,312 @@
+{
+  "id": 85674053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000794,
+    "geom:area_square_m":9750305.839481,
+    "geom:bbox":"72.684825066,6.40648021059,73.1665145192,6.78705475557",
+    "geom:latitude":6.724121,
+    "geom:longitude":73.107934,
+    "gn:id":"",
+    "iso:country":"MV",
+    "label:eng_x_preferred_longname":[
+        "Haa Dhaalu Atoll"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "atoll"
+    ],
+    "lbl:latitude":6.751705,
+    "lbl:longitude":73.148476,
+    "mps:latitude":6.751705,
+    "mps:longitude":73.148476,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0647\u0627 \u062f\u0627\u0644\u0648 \u0623\u062a\u0648\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09be \u09a7\u09be\u09b2\u09c1 \u0986\u09a4\u09cb\u09b2"
+    ],
+    "name:ces_x_preferred":[
+        "Haa Dhaalu"
+    ],
+    "name:cze_x_preferred":[
+        "H\u00e1 D\u00e1lu"
+    ],
+    "name:dan_x_preferred":[
+        "Haa Dhaalu Atoll"
+    ],
+    "name:deu_x_preferred":[
+        "Haa Dhaalu"
+    ],
+    "name:div_x_preferred":[
+        "\u078c\u07a8\u078d\u07a6\u078b\u07aa\u0782\u07b0\u0789\u07a6\u078c\u07a9 \u078b\u07ac\u0786\u07aa\u0782\u07aa\u0784\u07aa\u0783\u07a8"
+    ],
+    "name:dut_x_preferred":[
+        "Haa Dhaalu-atol"
+    ],
+    "name:eng_x_preferred":[
+        "Haa Dhaalu"
+    ],
+    "name:fin_x_preferred":[
+        "Haa Dhaalu Atoll"
+    ],
+    "name:fra_x_preferred":[
+        "Haa Dhaalu"
+    ],
+    "name:fre_x_preferred":[
+        "Haa Dhaalu"
+    ],
+    "name:ger_x_preferred":[
+        "Haa Dhaalu"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03b1\u03ac \u039d\u03c4\u03b1\u03ac\u03bb\u03bf\u03c5 \u0391\u03c4\u03cc\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab9\u0abe \u0aa7\u0abe\u0ab2\u0ac1 \u0a8f\u0a9f\u0acb\u0ab2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d8\u05d5\u05dc \u05d4\u05d0 \u05d3\u05d0\u05dc\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u093e \u0927\u093e\u0932\u0942 \u090f\u091f\u094b\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "D\u00e9li-Tiladummati-atoll"
+    ],
+    "name:ind_x_preferred":[
+        "Atol Haa Dhaalu"
+    ],
+    "name:ita_x_preferred":[
+        "Atollo Thiladhunmathi Dhekunuburi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5357\u30c6\u30a3\u30e9\u30c9\u30a5\u30f3\u30de\u30c6\u30a3\u30fc\u74b0\u7901\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb9\u0cbe \u0ca7\u0cbe\u0cb2\u0cc1 \u0c85\u0c9f\u0cbe\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\ub2ec\ub8e8 \ud658\ucd08"
+    ],
+    "name:lav_x_preferred":[
+        "Haa Daalu atols"
+    ],
+    "name:lit_x_preferred":[
+        "Haa Daalu atolas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0939\u093e \u0927\u093e\u092f\u093e\u0932 \u090f\u091f\u0935\u0932\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Haa Dhaalu Atoll"
+    ],
+    "name:nld_x_preferred":[
+        "Haa Dhaalu-atol"
+    ],
+    "name:nno_x_preferred":[
+        "Haa Daalu"
+    ],
+    "name:nob_x_preferred":[
+        "Haa Daalu"
+    ],
+    "name:pol_x_preferred":[
+        "Haa Dhaalu"
+    ],
+    "name:por_x_preferred":[
+        "Haa Dhaalu Atoll"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0430-\u0414\u0445\u0430\u0430\u043b\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc4\u0dcf \u0da9\u0dcf\u0dbd\u0dd4 \u0daf\u0dd6\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba"
+    ],
+    "name:slk_x_preferred":[
+        "H\u00e1 D\u00e1lu"
+    ],
+    "name:slo_x_preferred":[
+        "H\u00e1 D\u00e1lu"
+    ],
+    "name:spa_x_preferred":[
+        "Atol\u00f3n Haa Dhaalu"
+    ],
+    "name:swe_x_preferred":[
+        "Haa Dhaalu-atollen"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb9\u0bbe  \u0ba4\u0bbe\u0bb3\u0bc1 \u0b85\u0b9f\u0bbe\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c39\u0c3e \u0c22\u0c3e\u0c32\u0c41 \u0c05\u0c1f\u0c4b\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2e\u0e32\u0e2e\u0e4c \u0e14\u0e32\u0e2e\u0e4c\u0e25\u0e39 \u0e2d\u0e17\u0e2d\u0e25\u0e25\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Haa Dhaalu Atoll"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442\u043e\u043b \u0425\u0430\u0430-\u0414\u0445\u0430\u0430\u043b\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Haa-Dalu Atoll"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0627\u06ba \u062f\u062d\u0627\u0627\u0644\u0648 \u0627\u062a\u0648\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Haa Dhaalu Atoll"
+    ],
+    "ne:abbrev":"HDh",
+    "ne:adm0_a3":"MDV",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"MDV-5224",
+    "ne:adm1_code":"MDV-5224",
+    "ne:admin":"Maldives",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MV.HD",
+    "ne:code_local":"B",
+    "ne:datarank":"10",
+    "ne:diss_me":"5224",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Maldives",
+    "ne:gn_a1_code":"MV.37",
+    "ne:gn_id":"1282293",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Haa Dhaalu Atholhu",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MDV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MV-23",
+    "ne:iso_a2":"MV",
+    "ne:labelrank":"20",
+    "ne:latitude":"6.62205000000",
+    "ne:longitude":"73.04730000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":1,
+    "ne:name":"Haa Dhaalu",
+    "ne:name_alt":"Thiladhunmathi Dhekunuburi",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"HDh",
+    "ne:provnum_ne":"0",
+    "ne:region":"Upper North",
+    "ne:region_cod":"MV-UN",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MDV",
+    "ne:sub_code":"",
+    "ne:type":"Atoll",
+    "ne:type_en":"Atoll",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070318,
+    "ne:woe_label":"Haa Dhaalu, MV, Maldives",
+    "ne:woe_name":"Haa Dhaalu",
+    "qs:a0":"Maldives",
+    "qs:a0_lc":"MV",
+    "qs:a1":"Haa Dhaalu",
+    "qs:a1_lc":"MDV-5224",
+    "qs:a1r":"Upper North",
+    "qs:a1r_lc":"MV-UN",
+    "qs:adm0":"Maldives",
+    "qs:adm0_a3":"MDV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Atoll",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2014-09-20",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2014-09-20",
+    "statoids:capital":"Kulhudhuffushi",
+    "statoids:country":"MV",
+    "statoids:gec":"MV37",
+    "statoids:hasc":"MV.HD",
+    "statoids:iso":"23",
+    "statoids:name":"Haa Daalu",
+    "statoids:population":"18515",
+    "statoids:timezone":"+5",
+    "statoids:type":"atoll",
+    "unlc:subdivision":"MV-23",
+    "wd:wordcount":308,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102193527,
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MV37",
+        "gn:id":1282293,
+        "gp:id":20070318,
+        "hasc:id":"MV.HD",
+        "iso:id":"MV-23",
+        "qs:id":1172852,
+        "unlc:id":"MV-23",
+        "wd:id":"Q2360368"
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"eeae33a54ab0423f8cace78732441e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "region_id":85674053
+        }
+    ],
+    "wof:id":85674053,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "div"
+    ],
+    "wof:lang_x_spoken":[
+        "div"
+    ],
+    "wof:lastmodified":1553550455,
+    "wof:name":"Haa Dhaalu",
+    "wof:parent_id":85632305,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"atoll",
+    "wof:population":18515,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:shortcode":"HD",
+    "wof:subdivision":"MV-23",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.68482506602402,
+    6.40648021059332,
+    73.16651451922974,
+    6.78705475557257
+],
+  "geometry": {"coordinates":[[[[72.68751061342414,6.41225820545185],[72.68913821725499,6.41160716463901],[72.69092858218835,6.41160716463901],[72.69084720073778,6.41156647301437],[72.6888126959492,6.40973541915435],[72.68718509211834,6.40741608288596],[72.68588300869396,6.40648021059332],[72.68482506602402,6.4083926450046],[72.68588300869396,6.41160716463901],[72.68751061342414,6.41225820545185]]],[[[72.95899498852793,6.5554873722445],[72.95801842550998,6.5543480490233],[72.95582116051821,6.55532461114194],[72.95679772173753,6.56000397350465],[72.95834394591645,6.5606957050428],[72.9584253264677,6.56065501521681],[72.96021569140112,6.55951569199561],[72.96208743598646,6.55902741138596],[72.95997154974725,6.55752187703303],[72.95899498852793,6.5554873722445]]],[[[72.92774498814077,6.5589460308347],[72.92774498814077,6.55890534100871],[72.92310631650338,6.55988190312735],[72.92253665534241,6.5615095069582],[72.92351321746105,6.56338125244287],[72.92400149807071,6.56525299702827],[72.92554772224963,6.56305573113713],[72.92750084738623,6.56207916901849],[72.92872155025941,6.56110260600053],[72.92774498814077,6.5589460308347]]],[[[73.03044681127136,6.57607656538124],[73.02816816482903,6.57518138201522],[73.02735436291357,6.57648346633897],[73.02556399798016,6.57925039339096],[73.02613366004044,6.58079661756989],[73.02833092503221,6.58136627783148],[73.02995852976238,6.58234284084949],[73.02987714921113,6.58218008064625],[73.0294702482534,6.57965729434869],[73.03012128996562,6.57754140810954],[73.03036543072011,6.57611725520724],[73.03044681127136,6.57607656538124]]],[[[73.04151451947956,6.61835358325129],[73.04070071666479,6.61717357020416],[73.03842207112172,6.6181501323228],[73.03939863413973,6.62287018451144],[73.04102623797058,6.62360260587559],[73.04110761852183,6.62356191604965],[73.04297936310718,6.62250397337971],[73.04476972714127,6.6218936223928],[73.04265384180144,6.62034739821388],[73.04151451947956,6.61835358325129]]],[[[73.06950931130575,6.66795482015886],[73.06177819131051,6.66095612242714],[73.06226647192022,6.66689687748897],[73.06413821740489,6.66840241094258],[73.06666100370239,6.66811758036209],[73.06950931130575,6.66795482015886]]],[[[73.09595787895302,6.6984723982826],[73.09587649840171,6.69843170845661],[73.09669030031716,6.70612213682722],[73.09929446716598,6.70892975550385],[73.10596764449127,6.70994700744848],[73.10596764449127,6.70990631762248],[73.10352623784564,6.70587799697205],[73.10230553497252,6.70233795783054],[73.10043379038717,6.69977448170704],[73.09595787895302,6.6984723982826]]],[[[73.03687584694285,6.75348541891702],[73.03467858195103,6.75259023645032],[73.03386478003563,6.75385163004876],[73.03199303545028,6.75657786727481],[73.03288821701767,6.75824616093161],[73.03484134215427,6.75873444244064],[73.03663170708768,6.7597110054586],[73.03663170708768,6.75962962400797],[73.03614342467938,6.75714752843572],[73.03614342467938,6.75710683860979],[73.03622480612995,6.75678131730399],[73.03679446729092,6.75507233292188],[73.03687584694285,6.75348541891702]]],[[[72.91537519650819,6.76044342682275],[72.91431725383825,6.7592227230503],[72.91236412870165,6.76007721659033],[72.91228274815035,6.76015859624226],[72.91325931116836,6.76487864843091],[72.91488691499916,6.76557037996912],[72.91675866048388,6.76447174747324],[72.91846764396666,6.76398346596426],[72.91651451883001,6.76243724268465],[72.91537519650819,6.76044342682275]]],[[[73.13184655007831,6.72516510668436],[73.13168378987507,6.72504303630711],[73.13599694110599,6.74119700693637],[73.15251712286698,6.76821523664393],[73.15951582149802,6.78652578333828],[73.16423587278734,6.78705475557257],[73.1655379571111,6.78571198142288],[73.1655379571111,6.78563060087157],[73.1655379571111,6.78314850529932],[73.16651451922974,6.78034088752202],[73.15284264417272,6.74921295841136],[73.14478600377112,6.73554108335435],[73.13184655007831,6.72516510668436]]]],"type":"MultiPolygon"}
+}

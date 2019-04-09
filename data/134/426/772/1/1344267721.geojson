@@ -1,0 +1,63 @@
+{
+  "id": 1344267721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.08208,6.6658,73.08208,6.6658",
+    "geom:latitude":6.6658,
+    "geom:longitude":73.08208,
+    "gn:asciiname":"Nolhivaram",
+    "gn:country_code":"MV",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6618478,
+    "gn:latitude":6.6658,
+    "gn:longitude":73.08208,
+    "gn:modification_date":"2007-09-18",
+    "gn:name":"Nolhivaram",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6618478
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"e78bde55c1b67338864d3e40ad7cd3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "locality_id":1344267721,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344267721,
+    "wof:lastmodified":1537070512,
+    "wof:name":"Nolhivaram",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.08208,
+    6.6658,
+    73.08208,
+    6.6658
+],
+  "geometry": {"coordinates":[73.08208,6.6658],"type":"Point"}
+}

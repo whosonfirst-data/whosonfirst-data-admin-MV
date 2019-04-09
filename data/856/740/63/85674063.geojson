@@ -1,0 +1,323 @@
+{
+  "id": 85674063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0002,
+    "geom:area_square_m":2458298.459652,
+    "geom:bbox":"73.376800977,5.71458567929,73.4498804054,5.97028229399",
+    "geom:latitude":5.854243,
+    "geom:longitude":73.404072,
+    "gn:population":14502,
+    "iso:country":"MV",
+    "label:eng_x_preferred_longname":[
+        "Noonu Atoll"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "atoll"
+    ],
+    "lbl:latitude":5.788125,
+    "lbl:longitude":73.38188,
+    "mps:latitude":5.788125,
+    "mps:longitude":73.38188,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0646\u0648 \u0623\u062a\u0648\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09c1\u09a8\u09c1 \u098f\u099f\u09b2"
+    ],
+    "name:ces_x_preferred":[
+        "Noonu"
+    ],
+    "name:chi_x_preferred":[
+        "\u8afe\u52aa\u74b0\u7901"
+    ],
+    "name:cze_x_preferred":[
+        "N\u00fanu"
+    ],
+    "name:dan_x_preferred":[
+        "Noonu Atoll"
+    ],
+    "name:deu_x_preferred":[
+        "Noonu"
+    ],
+    "name:div_x_preferred":[
+        "\u0789\u07a8\u078d\u07a6\u078b\u07aa\u0782\u07b0\u0789\u07a6\u0791\u07aa\u078d\u07aa \u078b\u07ac\u0786\u07aa\u0782\u07aa\u0784\u07aa\u0783\u07a8"
+    ],
+    "name:dut_x_preferred":[
+        "Noonu-atol"
+    ],
+    "name:eng_x_preferred":[
+        "Noonu"
+    ],
+    "name:eng_x_variant":[
+        "Noonu Atoll",
+        "Noonu Atholhu"
+    ],
+    "name:epo_x_preferred":[
+        "Noonu Atolo"
+    ],
+    "name:fin_x_preferred":[
+        "Noonu Atoll"
+    ],
+    "name:fra_x_preferred":[
+        "Noonu"
+    ],
+    "name:fre_x_preferred":[
+        "Noonu"
+    ],
+    "name:ger_x_preferred":[
+        "Noonu"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03bf\u03cc\u03bd\u03bf\u03c5 \u0391\u03c4\u03cc\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0ac2\u0aa8\u0ac1 \u0a8f\u0a9f\u0acb\u0ab2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d8\u05d5\u05dc \u05e0\u05d5\u05e0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u0942\u0928\u0942 \u090f\u091f\u094b\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "D\u00e9li-Miladummadulu-atoll"
+    ],
+    "name:ind_x_preferred":[
+        "Atol Noonu"
+    ],
+    "name:ita_x_preferred":[
+        "Atollo Noonu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30fc\u30cc\u74b0\u7901"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cc2\u0ca8\u0ccd \u0c85\u0c9f\u0cbe\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub204\ub204 \ud658\ucd08"
+    ],
+    "name:lav_x_preferred":[
+        "Noonu atols"
+    ],
+    "name:lit_x_preferred":[
+        "Nunu atolas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u094b\u0913\u0928\u0942 \u090f\u091f\u0949\u0932"
+    ],
+    "name:may_x_preferred":[
+        "Noonu Atoll"
+    ],
+    "name:nld_x_preferred":[
+        "Noonu-atol"
+    ],
+    "name:nno_x_preferred":[
+        "Noonu"
+    ],
+    "name:nob_x_preferred":[
+        "Noonu"
+    ],
+    "name:pol_x_preferred":[
+        "Noonu"
+    ],
+    "name:por_x_preferred":[
+        "Noonu Atoll"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u043e\u043d\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dd6\u0db1\u0dd4 \u0daf\u0dd4\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba"
+    ],
+    "name:slk_x_preferred":[
+        "N\u00fanu"
+    ],
+    "name:slo_x_preferred":[
+        "N\u00fanu"
+    ],
+    "name:spa_x_preferred":[
+        "Atol\u00f3n Noonu"
+    ],
+    "name:swe_x_preferred":[
+        "Noonu Atoll"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bc2\u0ba9\u0bc1  \u0b85\u0b9f\u0bbe\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c42\u0c28\u0c41 \u0c05\u0c1f\u0c4b\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e39\u0e19\u0e38"
+    ],
+    "name:tur_x_preferred":[
+        "Noonu Atoll"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442\u043e\u043b \u041d\u043e\u043e\u043d\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Miladunmadulu South"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0646\u0648 \u0627\u062a\u0648\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Noonu Atoll"
+    ],
+    "ne:abbrev":"N",
+    "ne:adm0_a3":"MDV",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"MDV-5227",
+    "ne:adm1_code":"MDV-5227",
+    "ne:admin":"Maldives",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MV.NO",
+    "ne:code_local":"D",
+    "ne:datarank":"10",
+    "ne:diss_me":"5227",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Maldives",
+    "ne:gn_a1_code":"MV.43",
+    "ne:gn_id":"1281937",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Noonu Atoll",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MDV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MV-25",
+    "ne:iso_a2":"MV",
+    "ne:labelrank":"20",
+    "ne:latitude":"5.78713000000",
+    "ne:longitude":"73.38370000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":1,
+    "ne:name":"Noonu",
+    "ne:name_alt":"Miladhunmadulu Dhekunuburi",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"N",
+    "ne:provnum_ne":"0",
+    "ne:region":"North",
+    "ne:region_cod":"MV-NO",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MDV",
+    "ne:sub_code":"",
+    "ne:type":"Atoll",
+    "ne:type_en":"Atoll",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070315,
+    "ne:woe_label":"Noonu, MV, Maldives",
+    "ne:woe_name":"Noonu",
+    "qs:a0":"Maldives",
+    "qs:a0_lc":"MV",
+    "qs:a1":"Noonu",
+    "qs:a1_lc":"MDV-5227",
+    "qs:a1r":"North",
+    "qs:a1r_lc":"MV-NO",
+    "qs:adm0":"Maldives",
+    "qs:adm0_a3":"MDV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Atoll",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2014-09-20",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2014-09-20",
+    "statoids:capital":"Manadhoo",
+    "statoids:country":"MV",
+    "statoids:gec":"MV43",
+    "statoids:hasc":"MV.NO",
+    "statoids:iso":"25",
+    "statoids:name":"Noonu",
+    "statoids:population":"10483",
+    "statoids:timezone":"+5",
+    "statoids:type":"atoll",
+    "unlc:subdivision":"MV-25",
+    "wd:wordcount":246,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102193527,
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MV43",
+        "gn:id":1281937,
+        "gp:id":20070315,
+        "hasc:id":"MV.NO",
+        "iso:id":"MV-25",
+        "qs:id":424311,
+        "unlc:id":"MV-25",
+        "wd:id":"Q2406322",
+        "wk:page":"Noonu Atoll"
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"391e9d445e0828c88ebb7e5e73c531a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "region_id":85674063
+        }
+    ],
+    "wof:id":85674063,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "div"
+    ],
+    "wof:lang_x_spoken":[
+        "div"
+    ],
+    "wof:lastmodified":1553550455,
+    "wof:name":"Noonu",
+    "wof:parent_id":85632305,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"atoll",
+    "wof:population":10483,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:shortcode":"NO",
+    "wof:subdivision":"MV-25",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.37680097698353,
+    5.71458567928573,
+    73.44988040535645,
+    5.97028229399274
+],
+  "geometry": {"coordinates":[[[[73.39242597717714,5.73680247625333],[73.38070722725678,5.71458567928573],[73.38062584670553,5.71474844038823],[73.37989342534138,5.7150332700694],[73.37981204479007,5.71507395989539],[73.3795679049349,5.71515534134596],[73.38257897184212,5.72211334835237],[73.39283287903419,5.73769765872004],[73.39242597717714,5.73680247625333]]],[[[73.38453209697877,5.78693268449587],[73.38070722725678,5.78412506761782],[73.37680097698353,5.78733958545354],[73.37769616034956,5.78953685134468],[73.3802189457478,5.79169342740977],[73.38233483198695,5.79498932489747],[73.38233483198695,5.79474518414298],[73.38266035239343,5.79169342740977],[73.3842879571236,5.78925201986488],[73.38453209697877,5.78701406504712],[73.38453209697877,5.78693268449587]]],[[[73.43376712275455,5.83087799692208],[73.43344160234813,5.83071523671885],[73.43897545735155,5.83828359651079],[73.44312584747996,5.84125397359208],[73.44654381624417,5.84149811434656],[73.44988040535645,5.8407656920831],[73.44979902390588,5.8407250022571],[73.43376712275455,5.83087799692208]]],[[[73.42847741030431,5.90444570500534],[73.42628014441317,5.90326569195815],[73.42318769605538,5.90688711165092],[73.42408287942141,5.90843333493052],[73.42660566481965,5.90949127849973],[73.42904707146522,5.91136302308507],[73.42904707146522,5.91120026198257],[73.42847741030431,5.90859609603308],[73.42847741030431,5.90851471638109],[73.42847741030431,5.90619538011276],[73.42847741030431,5.90444570500534]]],[[[73.38982181122765,5.97028229399274],[73.39533279107553,5.95780154490541],[73.38672936286986,5.96198151193727],[73.38453209697877,5.96474843988864],[73.38982181122765,5.97028229399274]]]],"type":"MultiPolygon"}
+}

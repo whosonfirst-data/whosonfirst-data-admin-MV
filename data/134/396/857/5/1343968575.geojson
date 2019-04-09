@@ -1,0 +1,60 @@
+{
+  "id": 1343968575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.44965,1.81879,73.44965,1.81879",
+    "geom:latitude":1.81879,
+    "geom:longitude":73.44965,
+    "gn:asciiname":"Gaadhoo",
+    "gn:country_code":"MV",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7874642,
+    "gn:latitude":1.81879,
+    "gn:longitude":73.44965,
+    "gn:modification_date":"2011-07-18",
+    "gn:name":"Gaadhoo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7874642
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"f2220e3dcb1d97284fb5314ded201f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343968575,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343968575,
+    "wof:lastmodified":1537007455,
+    "wof:name":"Gaadhoo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.44965,
+    1.81879,
+    73.44965,
+    1.81879
+],
+  "geometry": {"coordinates":[73.44965000000001,1.81879],"type":"Point"}
+}

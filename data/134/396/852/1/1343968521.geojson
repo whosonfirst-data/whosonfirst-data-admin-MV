@@ -1,0 +1,60 @@
+{
+  "id": 1343968521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.01067,5.27464,73.01067,5.27464",
+    "geom:latitude":5.27464,
+    "geom:longitude":73.01067,
+    "gn:asciiname":"Kendhoo",
+    "gn:country_code":"MV",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7910021,
+    "gn:latitude":5.27464,
+    "gn:longitude":73.01067,
+    "gn:modification_date":"2011-07-18",
+    "gn:name":"Kendhoo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7910021
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"5291a0d01d60acc01bf5d07fa8fbe3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343968521,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343968521,
+    "wof:lastmodified":1537007534,
+    "wof:name":"Kendhoo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.01066999999998,
+    5.27464,
+    73.01066999999998,
+    5.27464
+],
+  "geometry": {"coordinates":[73.01066999999998,5.27464],"type":"Point"}
+}

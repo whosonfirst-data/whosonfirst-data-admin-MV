@@ -1,0 +1,291 @@
+{
+  "id": 85674101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000112,
+    "geom:area_square_m":1388152.267881,
+    "geom:bbox":"73.3484806648,2.77069733302,73.6130477218,3.10675690351",
+    "geom:latitude":2.875742,
+    "geom:longitude":73.454106,
+    "gn:population":6459,
+    "iso:country":"MV",
+    "label:eng_x_preferred_longname":[
+        "Meemu Atoll"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "atoll"
+    ],
+    "lbl:latitude":2.781548,
+    "lbl:longitude":73.393909,
+    "mps:latitude":2.781548,
+    "mps:longitude":73.393909,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0645\u0648 \u0623\u062a\u0648\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c7\u09ae\u09cb \u0986\u099f\u09b2"
+    ],
+    "name:dan_x_preferred":[
+        "Meemu Atoll"
+    ],
+    "name:div_x_preferred":[
+        "\u0789\u07aa\u078d\u07a6\u0786\u07a6\u078c\u07ae\u0785\u07aa"
+    ],
+    "name:dut_x_preferred":[
+        "Meemu-atol"
+    ],
+    "name:eng_x_preferred":[
+        "Meemu"
+    ],
+    "name:fin_x_preferred":[
+        "Meemu Atoll"
+    ],
+    "name:fre_x_preferred":[
+        "Atoll Mulaku"
+    ],
+    "name:ger_x_preferred":[
+        "Mulaku-Atoll"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03ad\u03bc\u03bf\u03c5 \u0391\u03c4\u03cc\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0aac\u0a96\u0abe\u0a9d\u0abf\u0aaf\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0940\u092e\u0941 \u090f\u091f\u094b\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Mulaku-atoll"
+    ],
+    "name:ind_x_preferred":[
+        "Atol Meemu"
+    ],
+    "name:ita_x_preferred":[
+        "Atollo Meemu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30fc\u30e0\u74b0\u7901"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cc0\u0cae\u0cc1 \u0c85\u0c9f\u0cbe\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\ubb34 \ud658\ucd08"
+    ],
+    "name:lav_x_preferred":[
+        "Meemu atols"
+    ],
+    "name:lit_x_preferred":[
+        "Memu atolas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0947\u092e\u0942 \u090f\u091f\u094b\u0932"
+    ],
+    "name:may_x_preferred":[
+        "Meemu Atoll"
+    ],
+    "name:nno_x_preferred":[
+        "Meemu"
+    ],
+    "name:nob_x_preferred":[
+        "Meemu"
+    ],
+    "name:pol_x_preferred":[
+        "Meemu"
+    ],
+    "name:por_x_preferred":[
+        "Meemu Atoll"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0435\u043c\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dd3\u0db8\u0dd4 \u0daf\u0dd4\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd4\u0dc4\u0dba"
+    ],
+    "name:slo_x_preferred":[
+        "M\u00edmu"
+    ],
+    "name:spa_x_preferred":[
+        "Atol\u00f3n Meemu"
+    ],
+    "name:swe_x_preferred":[
+        "Meemu Atholhu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc0\u0bae\u0bc1  \u0b85\u0b9f\u0bcb\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c40\u0c2e\u0c41 \u0c06\u0c1f\u0c4b\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e35\u0e21\u0e38 \u0e21\u0e31\u0e25\u0e14\u0e35\u0e1f\u0e2a\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Meemu Atoll"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442\u043e\u043b \u041c\u0435\u0435\u043c\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Mulaku Atholhu"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06cc\u0645\u0648 \u0627\u062a\u0648\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Meemu Atoll"
+    ],
+    "ne:abbrev":"M",
+    "ne:adm0_a3":"MDV",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"MDV-5236",
+    "ne:adm1_code":"MDV-5236",
+    "ne:admin":"Maldives",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MV.ME",
+    "ne:code_local":"K",
+    "ne:datarank":"10",
+    "ne:diss_me":"5236",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Maldives",
+    "ne:gn_a1_code":"MV.41",
+    "ne:gn_id":"1281985",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Meemu Atholhu",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MDV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MV-12",
+    "ne:iso_a2":"MV",
+    "ne:labelrank":"20",
+    "ne:latitude":"2.94938000000",
+    "ne:longitude":"73.56880000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":1,
+    "ne:name":"Meemu",
+    "ne:name_alt":"Mulak Atholhu",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"M",
+    "ne:provnum_ne":"0",
+    "ne:region":"Central",
+    "ne:region_cod":"MV-CE",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MDV",
+    "ne:sub_code":"",
+    "ne:type":"Atoll",
+    "ne:type_en":"Atoll",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070323,
+    "ne:woe_label":"Meemu, MV, Maldives",
+    "ne:woe_name":"Meemu",
+    "qs:a0":"Maldives",
+    "qs:a0_lc":"MV",
+    "qs:a1":"Meemu",
+    "qs:a1_lc":"MDV-5236",
+    "qs:a1r":"Central",
+    "qs:a1r_lc":"MV-CE",
+    "qs:adm0":"Maldives",
+    "qs:adm0_a3":"MDV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Atoll",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2014-09-20",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2014-09-20",
+    "statoids:capital":"Muli",
+    "statoids:country":"MV",
+    "statoids:gec":"MV41",
+    "statoids:hasc":"MV.ME",
+    "statoids:iso":"12",
+    "statoids:name":"Meemu",
+    "statoids:population":"4705",
+    "statoids:timezone":"+5",
+    "statoids:type":"atoll",
+    "unlc:subdivision":"MV-12",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102193527,
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MV41",
+        "gn:id":1281985,
+        "gp:id":20070323,
+        "hasc:id":"MV.ME",
+        "iso:id":"MV-12",
+        "qs:id":219918,
+        "unlc:id":"MV-12",
+        "wd:id":"Q2210716",
+        "wk:page":"Meemu Atoll"
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"99df2d13a95ce58198a526c99199afeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "region_id":85674101
+        }
+    ],
+    "wof:id":85674101,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "div"
+    ],
+    "wof:lang_x_spoken":[
+        "div"
+    ],
+    "wof:lastmodified":1553550456,
+    "wof:name":"Meemu",
+    "wof:parent_id":85632305,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"atoll",
+    "wof:population":4705,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:shortcode":"ME",
+    "wof:subdivision":"MV-12",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.34848066475092,
+    2.77069733301556,
+    73.61304772177499,
+    3.10675690350831
+],
+  "geometry": {"coordinates":[[[[73.35149173345678,2.77073802284156],[73.35141035200621,2.77069733301556],[73.34848066475092,2.77537669537821],[73.34929446666638,2.77716705941231],[73.35157311310871,2.77753327054404],[73.35352623824537,2.77826569190819],[73.35271243632991,2.77570221668401],[73.35352623824537,2.77362702027079],[73.35352623824537,2.77191803588869],[73.35149173345678,2.77073802284156]]],[[[73.39926191470568,2.78571198132295],[73.3906356131431,2.77537669537821],[73.39185631601623,2.78148021064328],[73.39437910231379,2.78432851824658],[73.39747154977226,2.78530508036522],[73.39926191470568,2.78571198132295]]],[[[73.55103600430823,2.89061107034468],[73.54908287917158,2.88812897297379],[73.54908287917158,2.88873932486001],[73.54859459676328,2.89272695568451],[73.54875735786584,2.89260488530726],[73.5501408209422,2.89134349260814],[73.55103600430823,2.89061107034468]]],[[[73.36085045728282,2.8975690782504],[73.36068769618026,2.89752838752508],[73.35726972741605,2.89980703306816],[73.35726972741605,2.90119049704384],[73.3591414720014,2.90228913043904],[73.36036217487452,2.90387604444396],[73.36101321748606,2.90151601834964],[73.36231530001112,2.89972565341623],[73.36280358241947,2.89838288016586],[73.36085045728282,2.8975690782504]]],[[[73.56421959695689,2.95461660457266],[73.56202233196512,2.94611237248807],[73.5612899097016,2.9484723985824],[73.56177819121064,2.95038483299368],[73.56421959695689,2.95473867405059],[73.56421959695689,2.95461660457266]]],[[[73.58586673276358,2.96153392085381],[73.57748457105617,2.95115794508314],[73.57846113407413,2.95734284089946],[73.58130944077811,2.96015045867677],[73.58415774838141,2.96124909117265],[73.58594811331483,2.96161530230438],[73.58586673276358,2.96153392085381]]],[[[73.61255944116533,3.10297272361237],[73.6084090501376,3.10040924748881],[73.61304772177499,3.10675690350831],[73.61255944116533,3.10297272361237]]]],"type":"MultiPolygon"}
+}

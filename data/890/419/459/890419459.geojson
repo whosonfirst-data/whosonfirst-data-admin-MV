@@ -1,0 +1,62 @@
+{
+  "id": 890419459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.35473,2.35582,73.35473,2.35582",
+    "geom:latitude":2.35582,
+    "geom:longitude":73.35473,
+    "gn:country":"MV",
+    "gn:fcode":"PPL",
+    "gn:pop":1110,
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Madifushi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7911024,
+        "gp:id":2268302,
+        "qs:id":744686,
+        "wk:page":"Madifushi"
+    },
+    "wof:country":"MV",
+    "wof:created":1469051288,
+    "wof:geomhash":"75b45fa16f882cd9bd032a105d6be710",
+    "wof:hierarchy":[
+        {
+            "country_id":85632305,
+            "locality_id":890419459
+        }
+    ],
+    "wof:id":890419459,
+    "wof:lastmodified":1527782105,
+    "wof:name":"Madifushi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1110,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.35473,
+    2.35582,
+    73.35473,
+    2.35582
+],
+  "geometry": {"coordinates":[73.35473,2.35582],"type":"Point"}
+}

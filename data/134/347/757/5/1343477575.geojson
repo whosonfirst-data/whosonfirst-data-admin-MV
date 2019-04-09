@@ -1,0 +1,64 @@
+{
+  "id": 1343477575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.13256,5.15825,73.13256,5.15825",
+    "geom:latitude":5.15825,
+    "geom:longitude":73.13256,
+    "gn:asciiname":"Dharavandhoo",
+    "gn:country_code":"MV",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7910005,
+    "gn:latitude":5.15825,
+    "gn:longitude":73.13256,
+    "gn:modification_date":"2013-10-27",
+    "gn:name":"Dharavandhoo",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dharavandhoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7910005,
+        "wk:page":"Dharavandhoo_%28Baa_Atoll%29"
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"9bccc3c4f6d9cccb5194322e14b49a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343477575,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343477575,
+    "wof:lastmodified":1537665828,
+    "wof:name":"Dharavandhoo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.13256,
+    5.15825,
+    73.13256,
+    5.15825
+],
+  "geometry": {"coordinates":[73.13256,5.15825],"type":"Point"}
+}

@@ -1,0 +1,291 @@
+{
+  "id": 85674115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000548,
+    "geom:area_square_m":6775328.085654,
+    "geom:bbox":"73.2436629572,1.78253815351,73.5854598318,2.10993073172",
+    "geom:latitude":1.942313,
+    "geom:longitude":73.484717,
+    "gn:population":12869,
+    "iso:country":"MV",
+    "label:eng_x_preferred_longname":[
+        "Laamu Atoll"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "atoll"
+    ],
+    "lbl:latitude":1.912522,
+    "lbl:longitude":73.547768,
+    "mps:latitude":1.912522,
+    "mps:longitude":73.547768,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0645\u0648 \u0623\u062a\u0648\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09ae\u09c1 \u0986\u09a4\u09cb\u09b2"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u7a46\u74b0\u7901"
+    ],
+    "name:dan_x_preferred":[
+        "Laamu Atoll"
+    ],
+    "name:div_x_preferred":[
+        "\u0780\u07a6\u0787\u07b0\u078b\u07aa\u0782\u07b0\u0789\u07a6\u078c\u07a8"
+    ],
+    "name:dut_x_preferred":[
+        "Laamu-atol"
+    ],
+    "name:eng_x_preferred":[
+        "Laamu"
+    ],
+    "name:fin_x_preferred":[
+        "Laamu Atoll"
+    ],
+    "name:fre_x_preferred":[
+        "Atoll Hadhdhunmathi"
+    ],
+    "name:ger_x_preferred":[
+        "Laamu"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1\u03ac\u03bc\u03bf\u03c5 \u0391\u03c4\u03cc\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abe\u0aae\u0ac1 \u0a8f\u0a9f\u0acb\u0ab2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e\u092e\u0942 \u090f\u091f\u094b\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Haddunmati-atoll"
+    ],
+    "name:ind_x_preferred":[
+        "Atol Laamu"
+    ],
+    "name:ita_x_preferred":[
+        "Atollo Laamu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fc\u30e0\u74b0\u7901"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbe\u0cae\u0cc1 \u0c85\u0c9f\u0cbe\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ubb34 \ud658\ucd08"
+    ],
+    "name:lav_x_preferred":[
+        "Laamu atols"
+    ],
+    "name:lit_x_preferred":[
+        "Lamu atolas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u093e\u092e\u093e \u090f\u091f\u094b\u0932"
+    ],
+    "name:may_x_preferred":[
+        "Laamu Atoll"
+    ],
+    "name:nob_x_preferred":[
+        "Laamu Atoll"
+    ],
+    "name:pol_x_preferred":[
+        "Laamu"
+    ],
+    "name:por_x_preferred":[
+        "Atol Laamu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0430\u043c\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dcf\u0db8\u0dd4 \u0daf\u0dd4\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba"
+    ],
+    "name:slo_x_preferred":[
+        "L\u00e1mu"
+    ],
+    "name:spa_x_preferred":[
+        "Atol\u00f3n Laamu"
+    ],
+    "name:swe_x_preferred":[
+        "Laamu Atholhu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe\u0bae\u0bc1  \u0b85\u0b9f\u0bbe\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3e\u0c2e\u0c41 \u0c05\u0c1f\u0c4b\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e34\u0e19\u0e41\u0e14\u0e19\u0e04\u0e32\u0e1a\u0e32\u0e23\u0e2d\u0e1f\u0e2a\u0e04\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Laamu Atoll"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442\u043e\u043b \u041b\u0430\u0430\u043c\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Hadhdhunmathee"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0645\u0648 \u0627\u062a\u0648\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Laamu Atoll"
+    ],
+    "ne:abbrev":"L",
+    "ne:adm0_a3":"MDV",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"MDV-5239",
+    "ne:adm1_code":"MDV-5239",
+    "ne:admin":"Maldives",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MV.LM",
+    "ne:code_local":"O",
+    "ne:datarank":"10",
+    "ne:diss_me":"5239",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Maldives",
+    "ne:gn_a1_code":"MV.05",
+    "ne:gn_id":"1282101",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Laamu Atholhu",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MDV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MV-05",
+    "ne:iso_a2":"MV",
+    "ne:labelrank":"20",
+    "ne:latitude":"1.83216000000",
+    "ne:longitude":"73.51140000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":1,
+    "ne:name":"Laamu",
+    "ne:name_alt":"Haddhunmathi",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"L",
+    "ne:provnum_ne":"0",
+    "ne:region":"Upper South",
+    "ne:region_cod":"MV-US",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MDV",
+    "ne:sub_code":"",
+    "ne:type":"Atoll",
+    "ne:type_en":"Atoll",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070325,
+    "ne:woe_label":"Laamu, MV, Maldives",
+    "ne:woe_name":"Laamu",
+    "qs:a0":"Maldives",
+    "qs:a0_lc":"MV",
+    "qs:a1":"Laamu",
+    "qs:a1_lc":"MDV-5239",
+    "qs:a1r":"Upper South",
+    "qs:a1r_lc":"MV-US",
+    "qs:adm0":"Maldives",
+    "qs:adm0_a3":"MDV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Atoll",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2014-09-20",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2014-09-20",
+    "statoids:capital":"Fonadhoo",
+    "statoids:country":"MV",
+    "statoids:gec":"MV05",
+    "statoids:hasc":"MV.LM",
+    "statoids:iso":"05",
+    "statoids:name":"Laamu",
+    "statoids:population":"11795",
+    "statoids:timezone":"+5",
+    "statoids:type":"atoll",
+    "unlc:subdivision":"MV-05",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102193527,
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MV05",
+        "gn:id":1282101,
+        "gp:id":20070325,
+        "hasc:id":"MV.LM",
+        "iso:id":"MV-05",
+        "qs:id":1287671,
+        "unlc:id":"MV-05",
+        "wd:id":"Q1996432",
+        "wk:page":"Laamu Atoll"
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"ac8c97eb9859018b9474a336c659f334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "region_id":85674115
+        }
+    ],
+    "wof:id":85674115,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "div"
+    ],
+    "wof:lang_x_spoken":[
+        "div"
+    ],
+    "wof:lastmodified":1553550457,
+    "wof:name":"Laamu",
+    "wof:parent_id":85632305,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"atoll",
+    "wof:population":11795,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:shortcode":"LM",
+    "wof:subdivision":"MV-05",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.24366295717977,
+    1.78253815351303,
+    73.58545983180585,
+    2.10993073171795
+],
+  "geometry": {"coordinates":[[[[73.37582441486489,1.78856028912611],[73.37045332096403,1.78253815351303],[73.36825605597227,1.78294505447076],[73.36817467542102,1.78294505447076],[73.36695397254783,1.78668854454077],[73.36500084741124,1.79108307542361],[73.3651636085138,1.79104238559768],[73.37582441486489,1.78856028912611]]],[[[73.40056399813005,1.79543691648058],[73.39437910231379,1.79474518404305],[73.39478600417084,1.7986514343163],[73.39478600417084,1.79877350559286],[73.39519290512851,1.79934316585445],[73.39665774785681,1.80141836136835],[73.3989363942992,1.8035342476075],[73.40023847682431,1.80634186448549],[73.40031985827488,1.80613841445631],[73.40121503984227,1.80170319194877],[73.40308678532693,1.7980003935034],[73.40211022230898,1.79559967758308],[73.40056399813005,1.79543691648058]]],[[[73.4636336600654,1.82632070483669],[73.45671634198567,1.82037995067424],[73.45411217513686,1.82054270997816],[73.45337975377265,1.8237165388872],[73.4526473324085,1.82680898634567],[73.4636336600654,1.82632070483669]]],[[[73.49919681078427,1.82778554936368],[73.49919681078427,1.82770416971169],[73.49878990982654,1.82811107066942],[73.49854576907205,1.82843659107584],[73.49805748846239,1.82880280220758],[73.49781334680858,1.8292503929913],[73.50009199325092,1.83205800986929],[73.50228925914206,1.83490631747264],[73.50733483173713,1.83836497606285],[73.51791425933567,1.84267812729377],[73.51807701953885,1.84271881711976],[73.51083418105264,1.83694082226117],[73.49919681078427,1.82778554936368]]],[[[73.53296959746899,1.86163971659971],[73.53239993630808,1.86009349242079],[73.53150475384138,1.86347077045974],[73.53150475384138,1.86351146028574],[73.53239993630808,1.86566803635083],[73.53305097712098,1.86635976788904],[73.53435306144468,1.86758047166148],[73.53646894588519,1.87010325705972],[73.53630618568201,1.86973704592799],[73.53296959746899,1.86163971659971]]],[[[73.25171959668211,1.89240143457857],[73.24366295717977,1.88873932505987],[73.24398847668692,1.89411041896074],[73.24561608231642,1.8948428412242],[73.24740644635045,1.89398834858349],[73.24830162881716,1.89354075690045],[73.25171959668211,1.89240143457857]]],[[[73.54118899807384,1.89288971608755],[73.5408634767681,1.89240143457857],[73.54981530053573,1.92499420821616],[73.55307050909676,1.93244049763092],[73.54883873841709,1.91136302298514],[73.54566491040737,1.90155670837544],[73.54118899807384,1.89288971608755]]],[[[73.54981530053573,1.96568431208141],[73.54981530053573,1.96552155187817],[73.54769941519589,1.96832916965548],[73.54786217539913,1.97060781519855],[73.55005944129022,1.97638580915782],[73.54981530053573,1.96568431208141]]],[[[73.32325279997679,1.98647695524733],[73.31836998848422,1.98309967720837],[73.31544030032967,1.98505280234502],[73.31576582073609,1.98680247655312],[73.31714928471177,1.98883698134165],[73.31723066526303,1.99140045836452],[73.31983483211189,1.98920319247338],[73.32260175916389,1.98798248960026],[73.32325279997679,1.98647695524733]]],[[[73.54420006588037,2.02659739795161],[73.54297936300725,2.02216217724271],[73.54037519615844,2.02252838747518],[73.54029381650651,2.02252838747518],[73.54224694074378,2.02456289316302],[73.54420006588037,2.02659739795161]]],[[[73.38697350452367,2.03302643452235],[73.38697350452367,2.02863190363951],[73.3862410822602,2.03034088712229],[73.38697350452367,2.03302643452235]]],[[[73.5514429052659,2.07257721606572],[73.5514429052659,2.07241445496317],[73.55046634224794,2.07587311445269],[73.5512801441634,2.07807038034383],[73.55323326929999,2.07990143420386],[73.55567467504625,2.08250560105267],[73.5514429052659,2.07257721606572]]],[[[73.56763756572116,2.10993073171795],[73.5853784512546,2.10960521041215],[73.58545983180585,2.10960521041215],[73.58350670666925,2.10814036768386],[73.58041425921073,2.10578034158954],[73.56771894627241,2.09780507994054],[73.56177819121064,2.09471263248207],[73.56177819121064,2.0987816429585],[73.56299889408376,2.10236237192595],[73.56763756572116,2.10993073171795]]]],"type":"MultiPolygon"}
+}

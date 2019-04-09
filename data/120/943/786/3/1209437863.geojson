@@ -1,0 +1,61 @@
+{
+  "id": 1209437863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.54468,1.92322,73.54468,1.92322",
+    "geom:latitude":1.92322,
+    "geom:longitude":73.54468,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Gan",
+    "gn:country_code":"MV",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7648558,
+    "gn:latitude":1.92322,
+    "gn:longitude":73.54468,
+    "gn:modification_date":"2011-07-18",
+    "gn:name":"Gan",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648558
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"63dc467b347ad0ff7310546838b4c806",
+    "wof:hierarchy":[
+        {
+            "country_id":85632305,
+            "locality_id":1209437863
+        }
+    ],
+    "wof:id":1209437863,
+    "wof:lastmodified":1536287048,
+    "wof:name":"Gan",
+    "wof:parent_id":85632305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.54468,
+    1.92322,
+    73.54468,
+    1.92322
+],
+  "geometry": {"coordinates":[73.54468,1.92322],"type":"Point"}
+}

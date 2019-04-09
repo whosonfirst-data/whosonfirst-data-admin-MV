@@ -1,0 +1,64 @@
+{
+  "id": 1243559363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.24396,1.8854,73.24396,1.8854",
+    "geom:latitude":1.8854,
+    "geom:longitude":73.24396,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Maavah",
+    "gn:country_code":"MV",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7874669,
+    "gn:latitude":1.8854,
+    "gn:longitude":73.24396,
+    "gn:modification_date":"2011-07-18",
+    "gn:name":"Maavah",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102193527,
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7874669
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"8df048eb180f7f82d2cc87a8fb4eefa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "locality_id":1243559363,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243559363,
+    "wof:lastmodified":1536641933,
+    "wof:name":"Maavah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.24396,
+    1.8854,
+    73.24396,
+    1.8854
+],
+  "geometry": {"coordinates":[73.24396,1.8854],"type":"Point"}
+}

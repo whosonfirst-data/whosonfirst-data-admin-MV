@@ -1,0 +1,61 @@
+{
+  "id": 1276292095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.92896,3.53514,72.92896,3.53514",
+    "geom:latitude":3.53514,
+    "geom:longitude":72.92896,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Dhigurah",
+    "gn:country_code":"MV",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11103189,
+    "gn:latitude":3.53514,
+    "gn:longitude":72.92896,
+    "gn:modification_date":"2016-03-31",
+    "gn:name":"Dhigurah",
+    "gn:population":0,
+    "gn:timezone":"Indian/Maldives",
+    "iso:country":"MV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11103189
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"71de080bd9adaea72862957e1a0040d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276292095,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276292095,
+    "wof:lastmodified":1536832974,
+    "wof:name":"Dhigurah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.92896,
+    3.53514,
+    72.92896,
+    3.53514
+],
+  "geometry": {"coordinates":[72.92896,3.53514],"type":"Point"}
+}

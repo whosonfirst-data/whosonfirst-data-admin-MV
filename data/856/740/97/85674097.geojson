@@ -1,0 +1,294 @@
+{
+  "id": 85674097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":159726.657894,
+    "geom:bbox":"73.5058699881,3.35639069188,73.7531844411,3.50120677357",
+    "geom:latitude":3.444534,
+    "geom:longitude":73.621844,
+    "gn:id":"",
+    "iso:country":"MV",
+    "label:eng_x_preferred_longname":[
+        "Vaavu Atoll"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "atoll"
+    ],
+    "lbl:latitude":3.448532,
+    "lbl:longitude":73.74949,
+    "mps:latitude":3.448532,
+    "mps:longitude":73.74949,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0641\u0648 \u0623\u062a\u0648\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09be\u09ad\u09c1 \u0986\u09a4\u09cb\u09b2"
+    ],
+    "name:chi_x_preferred":[
+        "\u74e6\u592b\u74b0\u7901"
+    ],
+    "name:dan_x_preferred":[
+        "Vaavu Atoll"
+    ],
+    "name:div_x_preferred":[
+        "\u078a\u07ac\u078d\u07a8\u078b\u07ac \u0787\u07a6\u078c\u07ae\u0785\u07aa"
+    ],
+    "name:dut_x_preferred":[
+        "Vaavu-atol"
+    ],
+    "name:eng_x_preferred":[
+        "Vaavu"
+    ],
+    "name:fin_x_preferred":[
+        "Vaavu Atoll"
+    ],
+    "name:fre_x_preferred":[
+        "Vaavu"
+    ],
+    "name:ger_x_preferred":[
+        "Vaavu"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03b1\u03ac\u03b2\u03bf\u03c5 \u0391\u03c4\u03cc\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abe\u0ab5\u0ac1 \u0a8f\u0a9f\u0acb\u0ab2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u0935\u0942 \u090f\u091f\u094b\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Felidu-atoll"
+    ],
+    "name:ind_x_preferred":[
+        "Atol Vaavu"
+    ],
+    "name:ita_x_preferred":[
+        "Atollo Vaavu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a7\u30ea\u30c7\u74b0\u7901"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0cbe\u0cb5\u0cc1 \u0c85\u0c9f\u0cbe\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ubd80 \ud658\ucd08"
+    ],
+    "name:lav_x_preferred":[
+        "Vaavu atols"
+    ],
+    "name:lit_x_preferred":[
+        "Vaavu atolas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u0945\u0935 \u090f\u091f\u094b\u0932"
+    ],
+    "name:may_x_preferred":[
+        "Vaavu Atoll"
+    ],
+    "name:nno_x_preferred":[
+        "Waavu"
+    ],
+    "name:nob_x_preferred":[
+        "Waavu"
+    ],
+    "name:pol_x_preferred":[
+        "Vaavu"
+    ],
+    "name:por_x_preferred":[
+        "Vaavu Atoll"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0430\u0432\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc0\u0dcf\u0dc0\u0dd4 \u0daf\u0dd6\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba"
+    ],
+    "name:slo_x_preferred":[
+        "V\u00e1vu"
+    ],
+    "name:spa_x_preferred":[
+        "Atol\u00f3n Vaavu"
+    ],
+    "name:swe_x_preferred":[
+        "Vaavu Atholhu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbe\u0bb5\u0bc1  \u0b85\u0b9f\u0bbe\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c35\u0c3e\u0c35\u0c41 \u0c05\u0c1f\u0c4b\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e2d\u0e23\u0e4c\u0e42\u0e0b\u0e01\u0e2d\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Vaavu Atoll"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442\u043e\u043b \u0412\u0430\u0430\u0432\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Vaaf Atoll"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0648\u0648 \u0627\u062a\u0648\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Vaavu Atoll"
+    ],
+    "ne:abbrev":"V",
+    "ne:adm0_a3":"MDV",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"MDV-5235",
+    "ne:adm1_code":"MDV-5235",
+    "ne:admin":"Maldives",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MV.WA",
+    "ne:code_local":"J",
+    "ne:datarank":"10",
+    "ne:diss_me":"5235",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Maldives",
+    "ne:gn_a1_code":"MV.47",
+    "ne:gn_id":"1281843",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Vaavu Atholhu",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MDV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MV-04",
+    "ne:iso_a2":"MV",
+    "ne:labelrank":"20",
+    "ne:latitude":"3.49522000000",
+    "ne:longitude":"73.50820000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":1,
+    "ne:name":"Vaavu",
+    "ne:name_alt":"Felidhu Atholhu",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"V",
+    "ne:provnum_ne":"0",
+    "ne:region":"North Central",
+    "ne:region_cod":"MV-NC",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MDV",
+    "ne:sub_code":"",
+    "ne:type":"Atoll",
+    "ne:type_en":"Atoll",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070320,
+    "ne:woe_label":"Vaavu, MV, Maldives",
+    "ne:woe_name":"Vaavu",
+    "qs:a0":"Maldives",
+    "qs:a0_lc":"MV",
+    "qs:a1":"Vaavu",
+    "qs:a1_lc":"MDV-5235",
+    "qs:a1r":"North Central",
+    "qs:a1r_lc":"MV-NC",
+    "qs:adm0":"Maldives",
+    "qs:adm0_a3":"MDV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Atoll",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2014-09-20",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2014-09-20",
+    "statoids:capital":"Felidhoo",
+    "statoids:country":"MV",
+    "statoids:gec":"MV47",
+    "statoids:hasc":"MV.WA",
+    "statoids:iso":"04",
+    "statoids:name":"Waavu",
+    "statoids:population":"1601",
+    "statoids:timezone":"+5",
+    "statoids:type":"atoll",
+    "unlc:subdivision":"MV-04",
+    "wd:wordcount":26,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102193527,
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MV47",
+        "gn:id":1281843,
+        "gp:id":20070320,
+        "hasc:id":"MV.WA",
+        "iso:id":"MV-04",
+        "qs:id":332309,
+        "unlc:id":"MV-04",
+        "wd:id":"Q2709111"
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"0135a93bb2e9846945a945d70d3c6b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "region_id":85674097
+        }
+    ],
+    "wof:id":85674097,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "div"
+    ],
+    "wof:lang_x_spoken":[
+        "div"
+    ],
+    "wof:lastmodified":1553550456,
+    "wof:name":"Vaavu",
+    "wof:parent_id":85632305,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"atoll",
+    "wof:population":1601,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:shortcode":"WA",
+    "wof:subdivision":"MV-04",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.50586998810951,
+    3.35639069187698,
+    73.75318444110911,
+    3.50120677357381
+],
+  "geometry": {"coordinates":[[[[73.5191349622088,3.3565941437048],[73.51921634186073,3.35639069187698],[73.51636803515675,3.36123281534219],[73.51653079535998,3.36107005423963],[73.51742597692737,3.36029694215023],[73.51880944090306,3.35911692910304],[73.51889082145431,3.35887278924787],[73.5191349622088,3.3565941437048]]],[[[73.75310306145718,3.44643789369388],[73.75318444110911,3.44635651224331],[73.75123131597252,3.44712962433272],[73.74854576947172,3.44818756700266],[73.74838300926854,3.44863515868565],[73.74756920735308,3.45111725515727],[73.747731966657,3.45099518388071],[73.75310306145718,3.44643789369388]]],[[[73.50847415495832,3.4965681010371],[73.50855553550963,3.49648672138511],[73.50619550941531,3.49762604460631],[73.506114128864,3.49770742425829],[73.50586998810951,3.50120677357381],[73.50847415495832,3.4965681010371]]]],"type":"MultiPolygon"}
+}

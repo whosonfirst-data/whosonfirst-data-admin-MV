@@ -1,0 +1,291 @@
+{
+  "id": 85674089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000127,
+    "geom:area_square_m":1571024.698967,
+    "geom:bbox":"72.8312280608,3.07684967727,73.0468856134,3.31248607018",
+    "geom:latitude":3.188642,
+    "geom:longitude":72.959292,
+    "gn:population":4641,
+    "iso:country":"MV",
+    "label:eng_x_preferred_longname":[
+        "Faafu Atoll"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "atoll"
+    ],
+    "lbl:latitude":3.248535,
+    "lbl:longitude":73.032249,
+    "mps:latitude":3.248535,
+    "mps:longitude":73.032249,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0641\u0648 \u0623\u062a\u0648\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ab\u09be\u09ab\u09c1 \u0986\u09a4\u09cb\u09b2"
+    ],
+    "name:chi_x_preferred":[
+        "\u6cd5\u592b\u74b0\u7901"
+    ],
+    "name:dan_x_preferred":[
+        "Faafu Atoll"
+    ],
+    "name:div_x_preferred":[
+        "\u0782\u07a8\u078d\u07a6\u0782\u07b0\u078b\u07ac\u0787\u07a6\u078c\u07ae\u0785\u07aa \u0787\u07aa\u078c\u07aa\u0783\u07aa\u0784\u07aa\u0783\u07a8"
+    ],
+    "name:dut_x_preferred":[
+        "Faafu-atol"
+    ],
+    "name:eng_x_preferred":[
+        "Faafu"
+    ],
+    "name:fin_x_preferred":[
+        "Faafu Atoll"
+    ],
+    "name:fre_x_preferred":[
+        "Atoll Nilandhe Nord"
+    ],
+    "name:ger_x_preferred":[
+        "Nord-Nilandhe-Atoll"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a6\u03b1\u03ac\u03c6\u03bf\u03c5 \u0391\u03c4\u03cc\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aab\u0abe\u0aab\u0ac1 \u0a8f\u0a9f\u0acb\u0ab2"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u093e\u092b\u0942 \u090f\u091f\u094b\u0932"
+    ],
+    "name:ind_x_preferred":[
+        "Atol Faafu"
+    ],
+    "name:ita_x_preferred":[
+        "Atollo Faafu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5317\u30cb\u30e9\u30f3\u30c7\u74b0\u7901\u533a"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cab\u0cbe\u0cab\u0cc1 \u0c85\u0c9f\u0cbe\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\ud478 \ud658\ucd08"
+    ],
+    "name:lav_x_preferred":[
+        "Faafu atols"
+    ],
+    "name:lit_x_preferred":[
+        "Faafu Atolas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092b\u0945\u092b\u0942 \u090f\u091f\u094b\u0932"
+    ],
+    "name:may_x_preferred":[
+        "Kepulauan Faafu"
+    ],
+    "name:nno_x_preferred":[
+        "Faafu"
+    ],
+    "name:nob_x_preferred":[
+        "Faafu"
+    ],
+    "name:pol_x_preferred":[
+        "Faafu"
+    ],
+    "name:por_x_preferred":[
+        "Faafu Atoll"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0430\u0444\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc6\u0dcf\u0dc6\u0dd4 \u0d85\u0da7\u0ddc\u0dbd\u0dca"
+    ],
+    "name:slo_x_preferred":[
+        "F\u00e1fu"
+    ],
+    "name:spa_x_preferred":[
+        "Atol\u00f3n Faafu"
+    ],
+    "name:swe_x_preferred":[
+        "Faafu Atholhu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0baa\u0bbf\u0baf\u0bc2  \u0b85\u0b9f\u0bcb\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2b\u0c3e\u0c2b\u0c41 \u0c05\u0c1f\u0c4b\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1f\u0e32\u0e1f\u0e39 \u0e2d\u0e32\u0e17\u0e2d\u0e25\u0e25\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Faafu Atoll"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442\u043e\u043b \u0424\u0430\u0430\u0444\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Faafu Atoll"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0641\u0648 \u0627\u062a\u0648\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Faafu Atoll"
+    ],
+    "ne:abbrev":"F",
+    "ne:adm0_a3":"MDV",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"MDV-5233",
+    "ne:adm1_code":"MDV-5233",
+    "ne:admin":"Maldives",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MV.FA",
+    "ne:code_local":"L",
+    "ne:datarank":"10",
+    "ne:diss_me":"5233",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Maldives",
+    "ne:gn_a1_code":"MV.33",
+    "ne:gn_id":"1282393",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Faafu Atholhu",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MDV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MV-14",
+    "ne:iso_a2":"MV",
+    "ne:labelrank":"20",
+    "ne:latitude":"3.30689000000",
+    "ne:longitude":"72.83150000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":1,
+    "ne:name":"Faafu",
+    "ne:name_alt":"Nilandhe Atholhu Uthuruburi",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"F",
+    "ne:provnum_ne":"0",
+    "ne:region":"Central",
+    "ne:region_cod":"MV-CE",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"MDV",
+    "ne:sub_code":"",
+    "ne:type":"Atoll",
+    "ne:type_en":"Atoll",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070321,
+    "ne:woe_label":"Faafu, MV, Maldives",
+    "ne:woe_name":"Faafu",
+    "qs:a0":"Maldives",
+    "qs:a0_lc":"MV",
+    "qs:a1":"Faafu",
+    "qs:a1_lc":"MDV-5233",
+    "qs:a1r":"Central",
+    "qs:a1r_lc":"MV-CE",
+    "qs:adm0":"Maldives",
+    "qs:adm0_a3":"MDV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Atoll",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2014-09-20",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2014-09-20",
+    "statoids:capital":"Magoodhoo",
+    "statoids:country":"MV",
+    "statoids:gec":"MV33",
+    "statoids:hasc":"MV.FA",
+    "statoids:iso":"14",
+    "statoids:name":"Faafu",
+    "statoids:population":"4119",
+    "statoids:timezone":"+5",
+    "statoids:type":"atoll",
+    "unlc:subdivision":"MV-14",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102193527,
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MV33",
+        "gn:id":1282393,
+        "gp:id":20070321,
+        "hasc:id":"MV.FA",
+        "iso:id":"MV-14",
+        "qs:id":219917,
+        "unlc:id":"MV-14",
+        "wd:id":"Q2469227",
+        "wk:page":"Faafu Atoll"
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"253bb3e7083e25f363d81e61fc3b81b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "region_id":85674089
+        }
+    ],
+    "wof:id":85674089,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "div"
+    ],
+    "wof:lang_x_spoken":[
+        "div"
+    ],
+    "wof:lastmodified":1553550456,
+    "wof:name":"Faafu",
+    "wof:parent_id":85632305,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"atoll",
+    "wof:population":4119,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:shortcode":"FA",
+    "wof:subdivision":"MV-14",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.83122806082639,
+    3.07684967727084,
+    73.04688561338043,
+    3.31248607017602
+],
+  "geometry": {"coordinates":[[[[72.90447024850323,3.07737864860582],[72.89991295741709,3.07684967727084],[72.89942467500879,3.07819245052122],[72.90072675933254,3.08063385626753],[72.90162194089993,3.08380768427725],[72.90284264377306,3.08185455914065],[72.90414472719743,3.08148834800892],[72.90479576890965,3.08128489797968],[72.90601647178278,3.08038971641236],[72.90447024850323,3.07737864860582]]],[[[72.98178144575718,3.10504791912621],[72.97820071678973,3.10272858285788],[72.9751082693312,3.10419342738481],[72.97535241008569,3.1056989599391],[72.97689863426461,3.1076520850757],[72.97787519638325,3.11017487227258],[72.97803795748581,3.11005280189534],[72.97917727980769,3.10805898603343],[72.98129316514752,3.10663483313107],[72.98178144575718,3.10504791912621]]],[[[73.04509524844701,3.19891998886646],[73.04070071666479,3.19847239808274],[73.04021243605513,3.19973379168118],[73.04021243605513,3.19977448150718],[73.04135175927632,3.20229726870406],[73.04224694084371,3.20547109671378],[73.04346764371684,3.20351797157719],[73.04354902426809,3.20347728085187],[73.0456649105073,3.20286692896565],[73.04688561338043,3.20205312705025],[73.04509524844701,3.19891998886646]]],[[[73.03565514406972,3.24778880440982],[73.03199303545028,3.24555084869274],[73.03174889379648,3.24567291906999],[73.02898196674442,3.24689362194317],[73.02930748805016,3.24843984612204],[73.03077233167784,3.25047435091062],[73.03174889379648,3.25299713720818],[73.03183027434773,3.25287506683094],[73.03321373832341,3.25088125186835],[73.03516686346006,3.24933502858875],[73.03565514406972,3.24778880440982]]],[[[72.83155358213219,3.30560944192223],[72.83139082102963,3.30560944192223],[72.83122806082639,3.30683014569473],[72.83236738404759,3.3093122421663],[72.83326256651429,3.31248607017602],[72.83448326938742,3.31053294503943],[72.83668053527856,3.31000397370445],[72.83708743623623,3.30963776257272],[72.8376570973972,3.30906810141181],[72.83611087321827,3.30597565305402],[72.83155358213219,3.30560944192223]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 85674081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000201,
+    "geom:area_square_m":2473176.562514,
+    "geom:bbox":"72.6990666022,3.99640534163,72.975759311,4.43829987254",
+    "geom:latitude":4.349695,
+    "geom:longitude":72.922437,
+    "iso:country":"MV",
+    "label:eng_x_preferred_longname":[
+        "Alifu Alifu Atoll"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "atoll"
+    ],
+    "lbl:latitude":4.42898,
+    "lbl:longitude":72.950859,
+    "mps:latitude":4.42898,
+    "mps:longitude":72.950859,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:eng_x_preferred":[
+        "Alifu"
+    ],
+    "qs:a0":"Maldives",
+    "qs:a0_lc":"MV",
+    "qs:a1":"Alifu Alifu",
+    "qs:a1_lc":"MDV-5231",
+    "qs:a1r":"North Central",
+    "qs:a1r_lc":"MV-NC",
+    "qs:adm0":"Maldives",
+    "qs:adm0_a3":"MDV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Atoll",
+    "qs:woeid":20070319,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2014-09-20",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2014-09-20",
+    "statoids:capital":"Rasdhoo",
+    "statoids:country":"MV",
+    "statoids:gec":"MV30",
+    "statoids:hasc":"MV.AA",
+    "statoids:iso":"02",
+    "statoids:name":"Aliff Aliff",
+    "statoids:population":"5905",
+    "statoids:timezone":"+5",
+    "statoids:type":"atoll",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102193527,
+        85632305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MV30",
+        "gp:id":20070319,
+        "hasc:id":"MV.AA",
+        "iso:id":"MV-02"
+    },
+    "wof:country":"MV",
+    "wof:geomhash":"041f0fe32a9fe4cbf228a3b6e9493e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":85632305,
+            "region_id":85674081
+        }
+    ],
+    "wof:id":85674081,
+    "wof:lang_x_official":[
+        "div"
+    ],
+    "wof:lang_x_spoken":[
+        "div"
+    ],
+    "wof:lastmodified":1553643106,
+    "wof:name":"Alifu Alifu",
+    "wof:parent_id":85632305,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"atoll",
+    "wof:population":5905,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mv",
+    "wof:shortcode":"AA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.69906660224194,
+    3.99640534163325,
+    72.97575931104342,
+    4.43829987254111
+],
+  "geometry": {"coordinates":[[[[72.70663496203395,3.99791087418754],[72.70460045724536,3.99640534163325],[72.69947350409899,3.99811432511604],[72.69939212354774,3.99819570566734],[72.69914798279325,3.99933502798922],[72.69906660224194,3.99945709836646],[72.69906660224194,3.99949778909172],[72.70118248848109,4.00092194199408],[72.70313561271843,4.0033226579144],[72.70362389422741,4.00092194199408],[72.7047632174486,3.99990469004945],[72.705577019364,3.99921295851129],[72.70622806107622,3.99843984642183],[72.70671634168588,3.99795156491285],[72.70663496203395,3.99791087418754]]],[[[72.97575931104342,4.26040273659709],[72.97250410248239,4.26040273659709],[72.97152754036375,4.26162344036953],[72.9714461598125,4.26357656550613],[72.97046959679449,4.26593659160045],[72.97063235789705,4.26581452032389],[72.97250410248239,4.26414622666709],[72.97437584706773,4.26325104420039],[72.97559654994086,4.26235586083436],[72.97575931104342,4.26040273659709]]],[[[72.95443769654253,4.26150136909297],[72.95435631599122,4.26146067926697],[72.9511824879815,4.26235586083436],[72.94516035236842,4.26630280183286],[72.95866946722219,4.26251862193692],[72.95858808667094,4.26251862193692],[72.95443769654253,4.26150136909297]]],[[[72.95704186339134,4.43829987254111],[72.95606530037338,4.42210521028727],[72.94890384243843,4.42291901220273],[72.94711347750501,4.42308177330523],[72.94336998833433,4.43158600538987],[72.95704186339134,4.43829987254111]]]],"type":"MultiPolygon"}
+}
