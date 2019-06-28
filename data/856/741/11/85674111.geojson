@@ -25,19 +25,16 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "T\u00e1"
     ],
     "name:div_x_preferred":[
         "\u0786\u07ae\u0785\u07aa\u0789\u07a6\u0791\u07aa\u078d\u07aa"
     ],
-    "name:dut_x_preferred":[
-        "Thaa-atol"
-    ],
     "name:eng_x_preferred":[
         "Thaa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Atoll Kolhumadulu"
     ],
     "name:hun_x_preferred":[
@@ -48,6 +45,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud0c0 \ud658\ucd08"
+    ],
+    "name:nld_x_preferred":[
+        "Thaa-atol"
     ],
     "name:nno_x_preferred":[
         "Thaa"
@@ -61,7 +61,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0445\u0430\u0430"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "T\u00e1"
     ],
     "name:spa_x_preferred":[
@@ -194,7 +194,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1553550457,
+    "wof:lastmodified":1561749521,
     "wof:name":"Thaa",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

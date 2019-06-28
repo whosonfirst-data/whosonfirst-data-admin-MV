@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002845,
-    "geom:area_square_m":35087547.342715,
+    "geom:area_square_m":35087547.342693,
     "geom:bbox":"73.4312010656,4.16208746017,73.5528830121,4.24303891162",
     "geom:latitude":4.190794,
     "geom:longitude":73.507554,
@@ -24,17 +24,11 @@
     "name:afr_x_preferred":[
         "Mal\u00e9"
     ],
-    "name:alb_x_preferred":[
-        "Mal\u00e9"
-    ],
     "name:amh_x_preferred":[
         "\u121b\u120c"
     ],
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u064a\u0647"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u056c\u0565"
     ],
     "name:ast_x_preferred":[
         "Mal\u00e9"
@@ -48,14 +42,14 @@
     "name:bak_x_preferred":[
         "\u041c\u0430\u043b\u0435"
     ],
-    "name:baq_x_preferred":[
-        "Mal\u00e9"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043b\u0435"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b2\u09c7"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f58\u0f0b\u0f63\u0f7a\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Mal\u00e9"
@@ -75,17 +69,17 @@
     "name:cdo_x_preferred":[
         "Mal\u00e9"
     ],
+    "name:ces_x_preferred":[
+        "Male"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0430\u043b\u0435"
-    ],
-    "name:chi_x_preferred":[
-        "\u99ac\u7d2f"
     ],
     "name:ckb_x_preferred":[
         "\u0645\u0627\u0644\u06ce"
     ],
-    "name:cze_x_preferred":[
-        "Male"
+    "name:cym_x_preferred":[
+        "Mal\u00e9"
     ],
     "name:dan_x_preferred":[
         "Mal\u00e9"
@@ -99,9 +93,6 @@
     "name:div_x_preferred":[
         "\u0789\u07a7\u078d\u07ac"
     ],
-    "name:dut_x_preferred":[
-        "Mal\u00e9"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bb\u03ad"
     ],
@@ -114,23 +105,20 @@
     "name:est_x_preferred":[
         "Male"
     ],
+    "name:eus_x_preferred":[
+        "Mal\u00e9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u0647"
+    ],
     "name:fin_x_preferred":[
         "Mal\u00e9"
     ],
     "name:fra_x_preferred":[
         "Mal\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "Mal\u00e9"
-    ],
     "name:fry_x_preferred":[
         "Malee"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10da\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Mal\u00e9"
     ],
     "name:gla_x_preferred":[
         "Mal\u00e9"
@@ -140,9 +128,6 @@
     ],
     "name:glg_x_preferred":[
         "Mal\u00e9"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bb\u03ad"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab2\u0ac7"
@@ -168,8 +153,8 @@
     "name:hun_x_preferred":[
         "Mal\u00e9"
     ],
-    "name:ice_x_preferred":[
-        "Mal\u00e9"
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u056c\u0565"
     ],
     "name:ido_x_preferred":[
         "Male"
@@ -186,6 +171,9 @@
     "name:ind_x_preferred":[
         "Mal\u00e9"
     ],
+    "name:isl_x_preferred":[
+        "Mal\u00e9"
+    ],
     "name:ita_x_preferred":[
         "Mal\u00e9"
     ],
@@ -197,6 +185,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10da\u10d4"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u043b\u0435"
@@ -225,9 +216,6 @@
     "name:ltz_x_preferred":[
         "Mal\u00e9"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u043b\u0435"
-    ],
     "name:mai_x_preferred":[
         "\u092e\u093e\u0932\u0947"
     ],
@@ -237,14 +225,17 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0932\u0947"
     ],
-    "name:may_x_preferred":[
-        "Mal\u00e9"
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u043b\u0435"
     ],
     "name:mlg_x_preferred":[
         "Mal\u00e9"
     ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u043b\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Mal\u00e9"
     ],
     "name:nah_x_preferred":[
         "Male"
@@ -285,9 +276,6 @@
     "name:pan_x_preferred":[
         "\u0a2e\u0a3e\u0a32\u0a47"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0644\u0647"
-    ],
     "name:pms_x_preferred":[
         "Mal\u00e9"
     ],
@@ -300,7 +288,7 @@
     "name:por_x_preferred":[
         "Mal\u00e9"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mal\u00e9"
     ],
     "name:rus_x_preferred":[
@@ -315,9 +303,6 @@
     "name:slk_x_preferred":[
         "Male"
     ],
-    "name:slo_x_preferred":[
-        "Male"
-    ],
     "name:slv_x_preferred":[
         "Male"
     ],
@@ -328,6 +313,9 @@
         "Mal\u00e9"
     ],
     "name:spa_x_preferred":[
+        "Mal\u00e9"
+    ],
+    "name:sqi_x_preferred":[
         "Mal\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -360,9 +348,6 @@
     "name:tha_x_variant":[
         "\u0e21\u0e32\u0e40\u0e25"
     ],
-    "name:tib_x_preferred":[
-        "\u0f58\u0f0b\u0f63\u0f7a\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Male"
     ],
@@ -391,9 +376,6 @@
         "Mal\u00e9"
     ],
     "name:war_x_preferred":[
-        "Mal\u00e9"
-    ],
-    "name:wel_x_preferred":[
         "Mal\u00e9"
     ],
     "name:xmf_x_preferred":[
@@ -450,7 +432,7 @@
         }
     ],
     "wof:id":890440959,
-    "wof:lastmodified":1553816399,
+    "wof:lastmodified":1561749522,
     "wof:name":"Male",
     "wof:parent_id":85674093,
     "wof:placetype":"locality",

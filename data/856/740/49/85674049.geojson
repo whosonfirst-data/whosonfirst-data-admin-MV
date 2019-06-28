@@ -31,20 +31,20 @@
     "name:ben_x_preferred":[
         "\u09b9\u09be \u0986\u09b2\u09bf\u09ab  \u098f\u099f\u09b2"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u963f\u91cc\u592b\u74b0\u7901"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "H\u00e1 Alif"
     ],
     "name:dan_x_preferred":[
         "Haa Alif Atoll"
     ],
+    "name:deu_x_preferred":[
+        "Haa Alif"
+    ],
     "name:div_x_preferred":[
         "\u078c\u07a8\u078d\u07a6\u078b\u07aa\u0782\u07b0\u0789\u07a6\u078c\u07a9 \u0787\u07aa\u078c\u07aa\u0783\u07aa\u0784\u07aa\u0783\u07a8"
     ],
-    "name:dut_x_preferred":[
-        "Haa Alif-atol"
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03ac \u0391\u03bb\u03af\u03c6 \u0391\u03c4\u03cc\u03bb"
     ],
     "name:eng_x_preferred":[
         "Haa Alifu"
@@ -52,14 +52,8 @@
     "name:fin_x_preferred":[
         "Haa Alif Atoll"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Haa Alifu"
-    ],
-    "name:ger_x_preferred":[
-        "Haa Alif"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03ac \u0391\u03bb\u03af\u03c6 \u0391\u03c4\u03cc\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0abe \u0a85\u0ab2\u0ac0\u0aab \u0a8f\u0a9f\u0acb\u0ab2"
@@ -97,8 +91,11 @@
     "name:mar_x_preferred":[
         "\u0939\u093e \u0905\u0932\u094d\u092b \u090f\u091f\u0949\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Haa Alif Atoll"
+    ],
+    "name:nld_x_preferred":[
+        "Haa Alif-atol"
     ],
     "name:nno_x_preferred":[
         "Haa Aliff"
@@ -118,7 +115,7 @@
     "name:sin_x_preferred":[
         "\u0dc4\u0dcf \u0d85\u0dbd\u0dd2\u0dc6\u0dca \u0daf\u0dd4\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd4\u0dc4\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "H\u00e1 Alif"
     ],
     "name:spa_x_preferred":[
@@ -150,6 +147,9 @@
     ],
     "name:vie_x_preferred":[
         "Haa Alif Atoll"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u963f\u91cc\u592b\u74b0\u7901"
     ],
     "ne:abbrev":"HA",
     "ne:adm0_a3":"MDV",
@@ -271,7 +271,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1553550455,
+    "wof:lastmodified":1561749521,
     "wof:name":"Haa Alifu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

@@ -34,10 +34,7 @@
     "name:ces_x_preferred":[
         "Noonu"
     ],
-    "name:chi_x_preferred":[
-        "\u8afe\u52aa\u74b0\u7901"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "N\u00fanu"
     ],
     "name:dan_x_preferred":[
@@ -49,8 +46,8 @@
     "name:div_x_preferred":[
         "\u0789\u07a8\u078d\u07a6\u078b\u07aa\u0782\u07b0\u0789\u07a6\u0791\u07aa\u078d\u07aa \u078b\u07ac\u0786\u07aa\u0782\u07aa\u0784\u07aa\u0783\u07a8"
     ],
-    "name:dut_x_preferred":[
-        "Noonu-atol"
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03cc\u03bd\u03bf\u03c5 \u0391\u03c4\u03cc\u03bb"
     ],
     "name:eng_x_preferred":[
         "Noonu"
@@ -67,15 +64,6 @@
     ],
     "name:fra_x_preferred":[
         "Noonu"
-    ],
-    "name:fre_x_preferred":[
-        "Noonu"
-    ],
-    "name:ger_x_preferred":[
-        "Noonu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03cc\u03bd\u03bf\u03c5 \u0391\u03c4\u03cc\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac2\u0aa8\u0ac1 \u0a8f\u0a9f\u0acb\u0ab2"
@@ -113,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u0928\u094b\u0913\u0928\u0942 \u090f\u091f\u0949\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Noonu Atoll"
     ],
     "name:nld_x_preferred":[
@@ -138,9 +126,6 @@
         "\u0db1\u0dd6\u0db1\u0dd4 \u0daf\u0dd4\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba"
     ],
     "name:slk_x_preferred":[
-        "N\u00fanu"
-    ],
-    "name:slo_x_preferred":[
         "N\u00fanu"
     ],
     "name:spa_x_preferred":[
@@ -172,6 +157,9 @@
     ],
     "name:vie_x_preferred":[
         "Noonu Atoll"
+    ],
+    "name:zho_x_preferred":[
+        "\u8afe\u52aa\u74b0\u7901"
     ],
     "ne:abbrev":"N",
     "ne:adm0_a3":"MDV",
@@ -298,7 +286,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1553550455,
+    "wof:lastmodified":1561749520,
     "wof:name":"Noonu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

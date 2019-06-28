@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
-    "geom:area_square_m":2481768.676917,
+    "geom:area_square_m":2481768.676913,
     "geom:bbox":"72.9370223323,0.213446356264,73.379161004,0.496323959983",
     "geom:latitude":0.286643,
     "geom:longitude":73.114059,
@@ -34,7 +34,7 @@
     "name:ces_x_preferred":[
         "Gaafu Dhaalu"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "G\u00e1fu D\u00e1lu"
     ],
     "name:dan_x_preferred":[
@@ -46,8 +46,8 @@
     "name:div_x_preferred":[
         "\u0780\u07aa\u0788\u07a6\u078b\u07aa\u0787\u07a6\u078c\u07ae\u0785\u07aa \u078b\u07ac\u0786\u07aa\u0782\u07aa\u0784\u07aa\u0783\u07a8"
     ],
-    "name:dut_x_preferred":[
-        "Gaafu Dhaalu-atol"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b1\u03b1\u03c6\u03bf\u03cd \u039d\u03c4\u03b1\u03b1\u03bb\u03bf\u03cd \u0391\u03c4\u03cc\u03bb"
     ],
     "name:eng_x_preferred":[
         "Gaafu Dhaalu"
@@ -57,15 +57,6 @@
     ],
     "name:fra_x_preferred":[
         "Gaafu Dhaalu"
-    ],
-    "name:fre_x_preferred":[
-        "Gaafu Dhaalu"
-    ],
-    "name:ger_x_preferred":[
-        "Gaafu Dhaalu"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03b1\u03b1\u03c6\u03bf\u03cd \u039d\u03c4\u03b1\u03b1\u03bb\u03bf\u03cd \u0391\u03c4\u03cc\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0abe\u0aab\u0ac1 \u0aa7\u0abe\u0ab2\u0ac1 \u0a8f\u0a9f\u0acb\u0ab2"
@@ -97,7 +88,7 @@
     "name:mar_x_preferred":[
         "\u0917\u0947\u092b\u0942 \u0927\u093e\u0932\u0941 \u090f\u091f\u094b\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kepulauan Gaafu Dhaalu"
     ],
     "name:nld_x_preferred":[
@@ -122,9 +113,6 @@
         "\u0d9c\u0dcf\u0dc6\u0dd4 \u0daf\u0dcf\u0dbd\u0dd4 \u0daf\u0dd6\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba"
     ],
     "name:slk_x_preferred":[
-        "G\u00e1fu D\u00e1lu"
-    ],
-    "name:slo_x_preferred":[
         "G\u00e1fu D\u00e1lu"
     ],
     "name:spa_x_preferred":[
@@ -281,7 +269,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1553814807,
+    "wof:lastmodified":1561749522,
     "wof:name":"Gaafu Dhaalu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

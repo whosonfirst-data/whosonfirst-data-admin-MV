@@ -31,17 +31,17 @@
     "name:ben_x_preferred":[
         "\u09ab\u09be\u09ab\u09c1 \u0986\u09a4\u09cb\u09b2"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u592b\u74b0\u7901"
-    ],
     "name:dan_x_preferred":[
         "Faafu Atoll"
+    ],
+    "name:deu_x_preferred":[
+        "Nord-Nilandhe-Atoll"
     ],
     "name:div_x_preferred":[
         "\u0782\u07a8\u078d\u07a6\u0782\u07b0\u078b\u07ac\u0787\u07a6\u078c\u07ae\u0785\u07aa \u0787\u07aa\u078c\u07aa\u0783\u07aa\u0784\u07aa\u0783\u07a8"
     ],
-    "name:dut_x_preferred":[
-        "Faafu-atol"
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03ac\u03c6\u03bf\u03c5 \u0391\u03c4\u03cc\u03bb"
     ],
     "name:eng_x_preferred":[
         "Faafu"
@@ -49,14 +49,8 @@
     "name:fin_x_preferred":[
         "Faafu Atoll"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Atoll Nilandhe Nord"
-    ],
-    "name:ger_x_preferred":[
-        "Nord-Nilandhe-Atoll"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b1\u03ac\u03c6\u03bf\u03c5 \u0391\u03c4\u03cc\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0abe\u0aab\u0ac1 \u0a8f\u0a9f\u0acb\u0ab2"
@@ -88,8 +82,11 @@
     "name:mar_x_preferred":[
         "\u092b\u0945\u092b\u0942 \u090f\u091f\u094b\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kepulauan Faafu"
+    ],
+    "name:nld_x_preferred":[
+        "Faafu-atol"
     ],
     "name:nno_x_preferred":[
         "Faafu"
@@ -109,7 +106,7 @@
     "name:sin_x_preferred":[
         "\u0dc6\u0dcf\u0dc6\u0dd4 \u0d85\u0da7\u0ddc\u0dbd\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "F\u00e1fu"
     ],
     "name:spa_x_preferred":[
@@ -141,6 +138,9 @@
     ],
     "name:vie_x_preferred":[
         "Faafu Atoll"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u592b\u74b0\u7901"
     ],
     "ne:abbrev":"F",
     "ne:adm0_a3":"MDV",
@@ -266,7 +266,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1553550456,
+    "wof:lastmodified":1561749520,
     "wof:name":"Faafu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

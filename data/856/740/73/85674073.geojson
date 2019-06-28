@@ -31,17 +31,20 @@
     "name:ben_x_preferred":[
         "\u09b9\u09cd\u09b2\u09be\u09ad\u09bf\u09af\u09bc\u09be\u09a8\u09bf \u0986\u09a4\u09cb\u09b2"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Lavijani"
     ],
     "name:dan_x_preferred":[
         "Lhaviyani Atoll"
     ],
+    "name:deu_x_preferred":[
+        "Faadhippolhu-Atoll"
+    ],
     "name:div_x_preferred":[
         "\u078a\u07a7\u078b\u07a8\u0787\u07b0\u0795\u07ae\u0785\u07aa"
     ],
-    "name:dut_x_preferred":[
-        "Lhaviyani-atol"
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03b2\u03b9\u03b3\u03b9\u03ac\u03bd\u03b9 \u0391\u03c4\u03cc\u03bb"
     ],
     "name:eng_x_preferred":[
         "Lhaviyani"
@@ -49,14 +52,8 @@
     "name:fin_x_preferred":[
         "Lhaviyani Atoll"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Atoll Faadhippolhu"
-    ],
-    "name:ger_x_preferred":[
-        "Faadhippolhu-Atoll"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1\u03b2\u03b9\u03b3\u03b9\u03ac\u03bd\u03b9 \u0391\u03c4\u03cc\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0acd\u0ab9\u0abe\u0ab5\u0abf\u0aaf\u0abe\u0aa8\u0ac0 \u0a8f\u0a9f\u0acb\u0ab2"
@@ -94,8 +91,11 @@
     "name:mar_x_preferred":[
         "\u0932\u0941\u0935\u093f\u092f\u093e\u0928\u0940 \u0905\u091f\u0949\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lhaviyani Atoll"
+    ],
+    "name:nld_x_preferred":[
+        "Lhaviyani-atol"
     ],
     "name:nno_x_preferred":[
         "Laviyani"
@@ -115,7 +115,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dc0\u0dd2\u0dba\u0dcf\u0db1\u0dd2 \u0daf\u0dd4\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lavijani"
     ],
     "name:spa_x_preferred":[
@@ -272,7 +272,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1553550455,
+    "wof:lastmodified":1561749520,
     "wof:name":"Lhaviyani",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

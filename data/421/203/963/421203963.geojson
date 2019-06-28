@@ -19,16 +19,10 @@
     "name:div_x_preferred":[
         "\u0782\u07a6\u0787\u07a8\u078a\u07a6\u0783\u07aa"
     ],
-    "name:dut_x_preferred":[
-        "Naifaru"
-    ],
     "name:eng_x_preferred":[
         "Naifaru"
     ],
     "name:fra_x_preferred":[
-        "Naifaru"
-    ],
-    "name:fre_x_preferred":[
         "Naifaru"
     ],
     "name:heb_x_preferred":[
@@ -41,9 +35,6 @@
         "Naifaru"
     ],
     "name:slk_x_preferred":[
-        "Naifaru"
-    ],
-    "name:slo_x_preferred":[
         "Naifaru"
     ],
     "name:swe_x_preferred":[
@@ -94,7 +85,7 @@
         }
     ],
     "wof:id":421203963,
-    "wof:lastmodified":1527716189,
+    "wof:lastmodified":1561749522,
     "wof:name":"Naifaru",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
