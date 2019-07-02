@@ -18,13 +18,13 @@
     "name:div_x_preferred":[
         "\u0782\u07ae\u0785\u07a8\u0788\u07a6\u0783\u07a6\u0782\u07b0\u078a\u07a6\u0783\u07aa"
     ],
-    "name:dut_x_preferred":[
-        "Nolhivaranfaru"
-    ],
     "name:eng_x_preferred":[
         "Nolhivaranfaru"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
+        "Nolhivaranfaru"
+    ],
+    "name:slk_x_preferred":[
         "Nolivaranfaru"
     ],
     "name:swe_x_preferred":[
@@ -57,7 +57,7 @@
         }
     ],
     "wof:id":890455913,
-    "wof:lastmodified":1527734194,
+    "wof:lastmodified":1561749522,
     "wof:name":"Nolhivaranfaru",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

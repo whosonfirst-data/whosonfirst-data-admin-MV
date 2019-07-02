@@ -34,11 +34,14 @@
     "name:dan_x_preferred":[
         "Meemu Atoll"
     ],
+    "name:deu_x_preferred":[
+        "Mulaku-Atoll"
+    ],
     "name:div_x_preferred":[
         "\u0789\u07aa\u078d\u07a6\u0786\u07a6\u078c\u07ae\u0785\u07aa"
     ],
-    "name:dut_x_preferred":[
-        "Meemu-atol"
+    "name:ell_x_preferred":[
+        "\u039c\u03ad\u03bc\u03bf\u03c5 \u0391\u03c4\u03cc\u03bb"
     ],
     "name:eng_x_preferred":[
         "Meemu"
@@ -46,14 +49,8 @@
     "name:fin_x_preferred":[
         "Meemu Atoll"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Atoll Mulaku"
-    ],
-    "name:ger_x_preferred":[
-        "Mulaku-Atoll"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ad\u03bc\u03bf\u03c5 \u0391\u03c4\u03cc\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aac\u0a96\u0abe\u0a9d\u0abf\u0aaf\u0abe"
@@ -88,8 +85,11 @@
     "name:mar_x_preferred":[
         "\u092e\u0947\u092e\u0942 \u090f\u091f\u094b\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Meemu Atoll"
+    ],
+    "name:nld_x_preferred":[
+        "Meemu-atol"
     ],
     "name:nno_x_preferred":[
         "Meemu"
@@ -109,7 +109,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dd3\u0db8\u0dd4 \u0daf\u0dd4\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd4\u0dc4\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "M\u00edmu"
     ],
     "name:spa_x_preferred":[
@@ -266,7 +266,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1553550456,
+    "wof:lastmodified":1561749522,
     "wof:name":"Meemu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

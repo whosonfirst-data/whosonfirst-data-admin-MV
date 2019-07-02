@@ -34,7 +34,7 @@
     "name:ces_x_preferred":[
         "Haa Dhaalu"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "H\u00e1 D\u00e1lu"
     ],
     "name:dan_x_preferred":[
@@ -46,8 +46,8 @@
     "name:div_x_preferred":[
         "\u078c\u07a8\u078d\u07a6\u078b\u07aa\u0782\u07b0\u0789\u07a6\u078c\u07a9 \u078b\u07ac\u0786\u07aa\u0782\u07aa\u0784\u07aa\u0783\u07a8"
     ],
-    "name:dut_x_preferred":[
-        "Haa Dhaalu-atol"
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03ac \u039d\u03c4\u03b1\u03ac\u03bb\u03bf\u03c5 \u0391\u03c4\u03cc\u03bb"
     ],
     "name:eng_x_preferred":[
         "Haa Dhaalu"
@@ -57,15 +57,6 @@
     ],
     "name:fra_x_preferred":[
         "Haa Dhaalu"
-    ],
-    "name:fre_x_preferred":[
-        "Haa Dhaalu"
-    ],
-    "name:ger_x_preferred":[
-        "Haa Dhaalu"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03ac \u039d\u03c4\u03b1\u03ac\u03bb\u03bf\u03c5 \u0391\u03c4\u03cc\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0abe \u0aa7\u0abe\u0ab2\u0ac1 \u0a8f\u0a9f\u0acb\u0ab2"
@@ -103,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u0939\u093e \u0927\u093e\u092f\u093e\u0932 \u090f\u091f\u0935\u0932\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Haa Dhaalu Atoll"
     ],
     "name:nld_x_preferred":[
@@ -128,9 +119,6 @@
         "\u0dc4\u0dcf \u0da9\u0dcf\u0dbd\u0dd4 \u0daf\u0dd6\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba"
     ],
     "name:slk_x_preferred":[
-        "H\u00e1 D\u00e1lu"
-    ],
-    "name:slo_x_preferred":[
         "H\u00e1 D\u00e1lu"
     ],
     "name:spa_x_preferred":[
@@ -287,7 +275,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1553550455,
+    "wof:lastmodified":1561749520,
     "wof:name":"Haa Dhaalu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

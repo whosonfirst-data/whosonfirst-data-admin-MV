@@ -18,11 +18,11 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0434\u0430\u0445\u0443\u0432\u0430\u0434\u0445\u043e"
     ],
+    "name:deu_x_preferred":[
+        "Kudahuvadhoo"
+    ],
     "name:div_x_preferred":[
         "\u0786\u07aa\u0791\u07a6\u0780\u07aa\u0788\u07a6\u078b\u07ab"
-    ],
-    "name:dut_x_preferred":[
-        "Kudahuvadhoo"
     ],
     "name:eng_x_preferred":[
         "Kudahuvadhoo"
@@ -30,13 +30,13 @@
     "name:epo_x_preferred":[
         "Kudahuvadhoo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kudahuvadhoo"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Kudahuvadhoo"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kudahuvad\u00fa"
     ],
     "name:swe_x_preferred":[
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":890431481,
-    "wof:lastmodified":1527735416,
+    "wof:lastmodified":1561749522,
     "wof:name":"Kudahuvadhoo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
