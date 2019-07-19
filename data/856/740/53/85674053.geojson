@@ -28,8 +28,14 @@
     "name:ara_x_preferred":[
         "\u0647\u0627 \u062f\u0627\u0644\u0648 \u0623\u062a\u0648\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0622\u062a\u0648\u0644 \u0647\u0627 \u062f\u0627\u0644"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be \u09a7\u09be\u09b2\u09c1 \u0986\u09a4\u09cb\u09b2"
+    ],
+    "name:ceb_x_preferred":[
+        "Haa Dhaalu Atholhu"
     ],
     "name:ces_x_preferred":[
         "Haa Dhaalu"
@@ -51,6 +57,9 @@
     ],
     "name:eng_x_preferred":[
         "Haa Dhaalu"
+    ],
+    "name:eng_x_variant":[
+        "Haa Dhaalu Atoll"
     ],
     "name:fin_x_preferred":[
         "Haa Dhaalu Atoll"
@@ -75,6 +84,9 @@
     ],
     "name:ita_x_preferred":[
         "Atollo Thiladhunmathi Dhekunuburi"
+    ],
+    "name:ita_x_variant":[
+        "atollo Haa Dhaalu"
     ],
     "name:jpn_x_preferred":[
         "\u5357\u30c6\u30a3\u30e9\u30c9\u30a5\u30f3\u30de\u30c6\u30a3\u30fc\u74b0\u7901\u533a"
@@ -106,6 +118,9 @@
     "name:nob_x_preferred":[
         "Haa Daalu"
     ],
+    "name:nob_x_variant":[
+        "Haa Dhaalu Atoll"
+    ],
     "name:pol_x_preferred":[
         "Haa Dhaalu"
     ],
@@ -136,6 +151,9 @@
     "name:tha_x_preferred":[
         "\u0e2e\u0e32\u0e2e\u0e4c \u0e14\u0e32\u0e2e\u0e4c\u0e25\u0e39 \u0e2d\u0e17\u0e2d\u0e25\u0e25\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e34\u0e25\u0e32\u0e14\u0e38\u0e19\u0e21\u0e32\u0e15\u0e35\u0e40\u0e14\u0e01\u0e39\u0e19\u0e39\u0e1a\u0e39\u0e23\u0e35"
+    ],
     "name:tur_x_preferred":[
         "Haa Dhaalu Atoll"
     ],
@@ -150,6 +168,9 @@
     ],
     "name:vie_x_preferred":[
         "Haa Dhaalu Atoll"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u9b6f\u74b0\u7901"
     ],
     "ne:abbrev":"HDh",
     "ne:adm0_a3":"MDV",
@@ -275,7 +296,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1561749520,
+    "wof:lastmodified":1563576225,
     "wof:name":"Haa Dhaalu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

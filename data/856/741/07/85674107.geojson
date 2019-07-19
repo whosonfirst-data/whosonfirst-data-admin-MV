@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09a6\u09a7\u09be\u09b2\u09c1 \u0986\u09a4\u09cb\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "Dhaalu Atholhu"
+    ],
     "name:dan_x_preferred":[
         "Dhaalu Atoll"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Dhaalu"
+    ],
+    "name:eng_x_variant":[
+        "Dhaalu Atoll"
     ],
     "name:fin_x_preferred":[
         "Dhaalu Atoll"
@@ -94,6 +100,9 @@
     "name:nob_x_preferred":[
         "Daalu"
     ],
+    "name:nob_x_variant":[
+        "Dhaalu Atoll"
+    ],
     "name:pol_x_preferred":[
         "Dhaalu"
     ],
@@ -124,6 +133,9 @@
     "name:tha_x_preferred":[
         "\u0e14\u0e32\u0e2b\u0e4c\u0e25\u0e39"
     ],
+    "name:tha_x_variant":[
+        "\u0e19\u0e34\u0e25\u0e31\u0e19\u0e40\u0e14\u0e2d\u0e32\u0e15\u0e2d\u0e25\u0e39\u0e40\u0e14\u0e01\u0e39\u0e19\u0e39\u0e1a\u0e39\u0e23\u0e35"
+    ],
     "name:tur_x_preferred":[
         "Dhaalu Atoll"
     ],
@@ -138,6 +150,9 @@
     ],
     "name:vie_x_preferred":[
         "Dhaalu Atoll"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u9b6f\u74b0\u7901"
     ],
     "ne:abbrev":"Dh",
     "ne:adm0_a3":"MDV",
@@ -261,7 +276,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1561749521,
+    "wof:lastmodified":1563576233,
     "wof:name":"Dhaalu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

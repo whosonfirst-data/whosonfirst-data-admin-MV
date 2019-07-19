@@ -13,11 +13,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "Funadu"
+    ],
+    "name:ceb_x_preferred":[
+        "Funadhoo"
+    ],
     "name:div_x_preferred":[
         "\u078a\u07aa\u0782\u07a6\u078b\u07ab"
     ],
+    "name:div_x_variant":[
+        "\u078a\u07aa\u0782\u07a6\u078b\u07ab(\u0781. \u0787\u07a6\u078c\u07ae\u0785\u07aa)"
+    ],
     "name:eng_x_preferred":[
         "Funadhoo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u0646\u0627\u062f\u0647\u0648"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0578\u0582\u0576\u0561\u0564\u0578\u0582"
     ],
     "name:nld_x_preferred":[
         "Funadhoo"
@@ -81,7 +96,7 @@
         }
     ],
     "wof:id":421203697,
-    "wof:lastmodified":1561749522,
+    "wof:lastmodified":1563576241,
     "wof:name":"Funadhoo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

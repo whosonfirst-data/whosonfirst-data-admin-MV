@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u0997\u09cb\u09ab\u09c1 \u0986\u09b2\u09bf\u09ab \u0986\u09a4\u09cb\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "Gaafu Alifu Atholhu"
+    ],
     "name:ces_x_preferred":[
         "Gaafu Alif"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:eng_x_preferred":[
         "Gaafu Alifu"
+    ],
+    "name:eng_x_variant":[
+        "Gaafu Alif Atoll"
     ],
     "name:fin_x_preferred":[
         "Gaafu Alif Atoll"
@@ -100,6 +106,9 @@
     "name:nob_x_preferred":[
         "Gaafu Aliff"
     ],
+    "name:nob_x_variant":[
+        "Gaafu Alif Atoll"
+    ],
     "name:pol_x_preferred":[
         "Gaafu Alif"
     ],
@@ -129,6 +138,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e23\u0e4c\u0e1f\u0e39 \u0e2d\u0e25\u0e34\u0e1f \u0e2d\u0e42\u0e17\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e39\u0e27\u0e32\u0e14\u0e39\u0e2d\u0e32\u0e15\u0e2d\u0e25\u0e39\u0e2d\u0e39\u0e15\u0e39\u0e23\u0e39\u0e1a\u0e39\u0e23\u0e35"
     ],
     "name:tur_x_preferred":[
         "Gaafu Alif Atoll"
@@ -272,7 +284,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1561749521,
+    "wof:lastmodified":1563576232,
     "wof:name":"Gaafu Alifu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Thaa"
     ],
+    "name:eng_x_variant":[
+        "Thaa Atoll"
+    ],
     "name:fra_x_preferred":[
         "Atoll Kolhumadulu"
     ],
@@ -67,8 +70,14 @@
     "name:spa_x_preferred":[
         "Atol\u00f3n Thaa"
     ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e2d\u0e25\u0e39\u0e21\u0e32\u0e14\u0e39\u0e25\u0e39"
+    ],
     "name:unk_x_variant":[
         "T\u0101"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u4e9e\u74b0\u7901"
     ],
     "ne:abbrev":"Th",
     "ne:adm0_a3":"MDV",
@@ -194,7 +203,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1561749521,
+    "wof:lastmodified":1563576232,
     "wof:name":"Thaa",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

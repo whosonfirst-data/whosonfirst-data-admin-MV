@@ -16,11 +16,17 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u0438\u0444\u0430\u0440\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Naifaru"
+    ],
     "name:div_x_preferred":[
         "\u0782\u07a6\u0787\u07a8\u078a\u07a6\u0783\u07aa"
     ],
     "name:eng_x_preferred":[
         "Naifaru"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0641\u0627\u0631\u0648"
     ],
     "name:fra_x_preferred":[
         "Naifaru"
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421203963,
-    "wof:lastmodified":1561749522,
+    "wof:lastmodified":1563576241,
     "wof:name":"Naifaru",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

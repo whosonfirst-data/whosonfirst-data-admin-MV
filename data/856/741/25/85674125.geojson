@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u0997\u09be\u09ab\u09c1 \u09a7\u09be\u09b2\u09c1 \u0986\u09a4\u09cb\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "Gaafu Dhaalu Atholhu"
+    ],
     "name:ces_x_preferred":[
         "Gaafu Dhaalu"
     ],
@@ -52,6 +55,9 @@
     "name:eng_x_preferred":[
         "Gaafu Dhaalu"
     ],
+    "name:eng_x_variant":[
+        "Gaafu Dhaalu Atoll"
+    ],
     "name:fin_x_preferred":[
         "Gaafu Dhaalu Atoll"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:ita_x_preferred":[
         "Atollo Gaafu Dhaalu"
+    ],
+    "name:ita_x_variant":[
+        "atollo Gaafu Dhaalu"
     ],
     "name:jpn_x_preferred":[
         "\u30ac\u30fc\u30d5\u30fb\u30c0\u30fc\u30eb\u74b0\u7901"
@@ -100,6 +109,9 @@
     "name:nob_x_preferred":[
         "Gaafu Daalu"
     ],
+    "name:nob_x_variant":[
+        "Gaafu Dhaaky Atoll"
+    ],
     "name:pol_x_preferred":[
         "Gaafu Dhaalu"
     ],
@@ -130,6 +142,9 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e1f\u0e39 \u0e14\u0e32\u0e25\u0e39 \u0e2d\u0e15\u0e2d\u0e25\u0e25\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e39\u0e27\u0e32\u0e14\u0e39\u0e2d\u0e32\u0e15\u0e2d\u0e25\u0e39\u0e40\u0e14\u0e01\u0e39\u0e19\u0e39\u0e1a\u0e39\u0e23\u0e35"
+    ],
     "name:tur_x_preferred":[
         "Gaafu Dhaalu Atoll"
     ],
@@ -144,6 +159,9 @@
     ],
     "name:vie_x_preferred":[
         "Gaafu Dhaalu Atoll"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u8607\u74e6\u8fea\u74e6\u74b0\u7901"
     ],
     "ne:abbrev":"GDh",
     "ne:adm0_a3":"MDV",
@@ -269,7 +287,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1561749522,
+    "wof:lastmodified":1563576234,
     "wof:name":"Gaafu Dhaalu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

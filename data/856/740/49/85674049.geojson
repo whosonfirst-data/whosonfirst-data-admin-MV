@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09b9\u09be \u0986\u09b2\u09bf\u09ab  \u098f\u099f\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "Haa Alifu Atholhu"
+    ],
     "name:ces_x_preferred":[
         "H\u00e1 Alif"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:eng_x_preferred":[
         "Haa Alifu"
+    ],
+    "name:eng_x_variant":[
+        "Haa Alif Atoll"
     ],
     "name:fin_x_preferred":[
         "Haa Alif Atoll"
@@ -103,6 +109,9 @@
     "name:nob_x_preferred":[
         "Haa Aliff"
     ],
+    "name:nob_x_variant":[
+        "Haa Alif Atoll"
+    ],
     "name:pol_x_preferred":[
         "Haa Alif"
     ],
@@ -132,6 +141,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2e\u0e32 \u0e2d\u0e25\u0e34\u0e1f \u0e2d\u0e42\u0e17\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e34\u0e25\u0e32\u0e14\u0e38\u0e19\u0e21\u0e32\u0e15\u0e35\u0e2d\u0e39\u0e15\u0e39\u0e23\u0e39\u0e1a\u0e39\u0e23\u0e35"
     ],
     "name:tur_x_preferred":[
         "Haa Alif Atoll"
@@ -271,7 +283,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1561749521,
+    "wof:lastmodified":1563576226,
     "wof:name":"Haa Alifu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",
