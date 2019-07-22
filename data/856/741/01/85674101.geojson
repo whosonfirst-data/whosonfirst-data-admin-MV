@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09ae\u09cb \u0986\u099f\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "Meemu Atholhu"
+    ],
     "name:dan_x_preferred":[
         "Meemu Atoll"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Meemu"
+    ],
+    "name:eng_x_variant":[
+        "Meemu Atoll"
     ],
     "name:fin_x_preferred":[
         "Meemu Atoll"
@@ -97,6 +103,9 @@
     "name:nob_x_preferred":[
         "Meemu"
     ],
+    "name:nob_x_variant":[
+        "Meemu Atoll"
+    ],
     "name:pol_x_preferred":[
         "Meemu"
     ],
@@ -127,6 +136,9 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e35\u0e21\u0e38 \u0e21\u0e31\u0e25\u0e14\u0e35\u0e1f\u0e2a\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e39\u0e25\u0e32\u0e01\u0e32\u0e15\u0e2d\u0e25\u0e39"
+    ],
     "name:tur_x_preferred":[
         "Meemu Atoll"
     ],
@@ -141,6 +153,9 @@
     ],
     "name:vie_x_preferred":[
         "Meemu Atoll"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8e\u6155\u74b0\u7901"
     ],
     "ne:abbrev":"M",
     "ne:adm0_a3":"MDV",
@@ -266,7 +281,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1561749522,
+    "wof:lastmodified":1563576233,
     "wof:name":"Meemu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

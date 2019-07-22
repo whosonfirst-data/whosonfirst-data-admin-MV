@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09ad\u09bf\u09af\u09bc\u09be\u09a8\u09bf \u0986\u09a4\u09cb\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "Shaviyani Atholhu"
+    ],
     "name:ces_x_preferred":[
         "\u0160avijani"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:eng_x_preferred":[
         "Shaviyani"
+    ],
+    "name:eng_x_variant":[
+        "Shaviyani Atoll"
     ],
     "name:fin_x_preferred":[
         "Shaviyani Atoll"
@@ -72,6 +78,9 @@
     ],
     "name:ita_x_preferred":[
         "Atollo Shaviyani"
+    ],
+    "name:ita_x_variant":[
+        "atollo Shaviyani"
     ],
     "name:jpn_x_preferred":[
         "\u5317\u30df\u30e9\u30c9\u30a5\u30f3\u30de\u30c9\u30a5\u30eb\u74b0\u7901\u533a"
@@ -103,6 +112,9 @@
     "name:nob_x_preferred":[
         "Shaviyani"
     ],
+    "name:nob_x_variant":[
+        "Shaviyani Atoll"
+    ],
     "name:pol_x_preferred":[
         "Shaviyani"
     ],
@@ -132,6 +144,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e01\u0e32\u0e30\u0e0a\u0e27\u0e34\u0e22\u0e19\u0e34"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e34\u0e25\u0e32\u0e14\u0e38\u0e19\u0e21\u0e32\u0e14\u0e39\u0e25\u0e39\u0e2d\u0e39\u0e15\u0e39\u0e23\u0e39\u0e1a\u0e39\u0e23\u0e35"
     ],
     "name:tur_x_preferred":[
         "Shayviyani Atoll"
@@ -275,7 +290,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1561749520,
+    "wof:lastmodified":1563576221,
     "wof:name":"Shaviyani",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

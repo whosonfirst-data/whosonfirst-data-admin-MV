@@ -28,6 +28,12 @@
     "name:cat_x_preferred":[
         "Atol d'Addu"
     ],
+    "name:cat_x_variant":[
+        "atol d'Addu"
+    ],
+    "name:ceb_x_preferred":[
+        "Seenu Atholhu"
+    ],
     "name:ces_x_preferred":[
         "Addu"
     ],
@@ -40,6 +46,9 @@
     "name:eng_x_preferred":[
         "Seenu"
     ],
+    "name:eng_x_variant":[
+        "Addu Atoll"
+    ],
     "name:epo_x_preferred":[
         "Addu"
     ],
@@ -49,11 +58,20 @@
     "name:fra_x_preferred":[
         "Atoll Addu"
     ],
+    "name:fra_x_variant":[
+        "Addu"
+    ],
     "name:hun_x_preferred":[
         "Addu-atoll"
     ],
+    "name:ind_x_preferred":[
+        "Atol Addu"
+    ],
     "name:ita_x_preferred":[
         "Atollo Addu"
+    ],
+    "name:ita_x_variant":[
+        "Atollo Seenu"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30c3\u30c9\u30a5\u74b0\u7901"
@@ -219,7 +237,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1561749521,
+    "wof:lastmodified":1563576231,
     "wof:name":"Addu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

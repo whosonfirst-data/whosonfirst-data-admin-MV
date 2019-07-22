@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09a8\u09c1\u09a8\u09c1 \u098f\u099f\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "Noonu Atoll"
+    ],
     "name:ces_x_preferred":[
         "Noonu"
     ],
@@ -113,6 +116,9 @@
     "name:nob_x_preferred":[
         "Noonu"
     ],
+    "name:nob_x_variant":[
+        "Noonu Atoll"
+    ],
     "name:pol_x_preferred":[
         "Noonu"
     ],
@@ -142,6 +148,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e39\u0e19\u0e38"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e34\u0e25\u0e32\u0e14\u0e38\u0e19\u0e21\u0e32\u0e14\u0e39\u0e25\u0e39\u0e40\u0e14\u0e01\u0e39\u0e19\u0e39\u0e1a\u0e39\u0e23\u0e35"
     ],
     "name:tur_x_preferred":[
         "Noonu Atoll"
@@ -286,7 +295,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1561749520,
+    "wof:lastmodified":1563576226,
     "wof:name":"Noonu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

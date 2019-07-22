@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09ae\u09c1 \u0986\u09a4\u09cb\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "Laamu Atholhu"
+    ],
     "name:dan_x_preferred":[
         "Laamu Atoll"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Laamu"
+    ],
+    "name:eng_x_variant":[
+        "Laamu Atoll"
     ],
     "name:fin_x_preferred":[
         "Laamu Atoll"
@@ -66,6 +72,9 @@
     ],
     "name:ita_x_preferred":[
         "Atollo Laamu"
+    ],
+    "name:ita_x_variant":[
+        "atollo Laamu"
     ],
     "name:jpn_x_preferred":[
         "\u30e9\u30fc\u30e0\u74b0\u7901"
@@ -123,6 +132,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e14\u0e34\u0e19\u0e41\u0e14\u0e19\u0e04\u0e32\u0e1a\u0e32\u0e23\u0e2d\u0e1f\u0e2a\u0e04\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e31\u0e14\u0e14\u0e38\u0e19\u0e21\u0e32\u0e15\u0e35"
     ],
     "name:tur_x_preferred":[
         "Laamu Atoll"
@@ -266,7 +278,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1561749522,
+    "wof:lastmodified":1563576234,
     "wof:name":"Laamu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

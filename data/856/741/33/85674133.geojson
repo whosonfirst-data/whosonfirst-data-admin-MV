@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09a8\u09be\u09ad\u09bf\u09af\u09bc\u09be\u09a8\u09bf \u0986\u09a4\u09cb\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "Gnaviyani Atholhu"
+    ],
     "name:ces_x_preferred":[
         "Gnavijani"
     ],
@@ -72,6 +75,9 @@
     "name:ita_x_preferred":[
         "Atollo Gnaviyani"
     ],
+    "name:ita_x_variant":[
+        "atollo Gnaviyani"
+    ],
     "name:jpn_x_preferred":[
         "\u30cb\u30e4\u30f4\u30a3\u30e4\u30cb\u74b0\u7901"
     ],
@@ -101,6 +107,9 @@
     ],
     "name:nob_x_preferred":[
         "Naviyani"
+    ],
+    "name:nob_x_variant":[
+        "Gnaviyani Atoll"
     ],
     "name:pol_x_preferred":[
         "Gnaviyani"
@@ -132,6 +141,9 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e19\u0e32\u0e27\u0e2d\u0e22\u0e32\u0e19\u0e35\u0e2d\u0e17\u0e2d\u0e25\u0e25\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e1f\u0e39\u0e40\u0e27\u0e2e\u0e4c\u0e21\u0e39\u0e40\u0e25\u0e2e\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Gnaviyani Atoll"
     ],
@@ -146,6 +158,9 @@
     ],
     "name:vie_x_preferred":[
         "Gnaviyani Atoll"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u7d0d\u7dad\u96c5\u5c3c\u74b0\u7901"
     ],
     "ne:abbrev":"Gn",
     "ne:adm0_a3":"MDV",
@@ -270,7 +285,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1561749521,
+    "wof:lastmodified":1563576232,
     "wof:name":"Gnaviyani",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

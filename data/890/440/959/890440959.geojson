@@ -69,6 +69,9 @@
     "name:cdo_x_preferred":[
         "Mal\u00e9"
     ],
+    "name:ceb_x_preferred":[
+        "Male"
+    ],
     "name:ces_x_preferred":[
         "Male"
     ],
@@ -108,6 +111,9 @@
     "name:eus_x_preferred":[
         "Mal\u00e9"
     ],
+    "name:eus_x_variant":[
+        "Male"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0644\u0647"
     ],
@@ -128,6 +134,9 @@
     ],
     "name:glg_x_preferred":[
         "Mal\u00e9"
+    ],
+    "name:grn_x_preferred":[
+        "Male"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab2\u0ac7"
@@ -168,6 +177,9 @@
     "name:ilo_x_preferred":[
         "Mal\u00e9"
     ],
+    "name:ina_x_preferred":[
+        "Mal\u00e9"
+    ],
     "name:ind_x_preferred":[
         "Mal\u00e9"
     ],
@@ -206,6 +218,9 @@
     ],
     "name:lav_x_preferred":[
         "Male"
+    ],
+    "name:lij_x_preferred":[
+        "Mal\u00e9"
     ],
     "name:lit_x_preferred":[
         "Mal\u0117"
@@ -267,6 +282,9 @@
     "name:oci_x_preferred":[
         "Mal\u00e9"
     ],
+    "name:olo_x_preferred":[
+        "Male"
+    ],
     "name:ori_x_preferred":[
         "\u0b2e\u0b3e\u0b32\u0b47"
     ],
@@ -285,8 +303,14 @@
     "name:pol_x_preferred":[
         "Mal\u00e9"
     ],
+    "name:pol_x_variant":[
+        "Male"
+    ],
     "name:por_x_preferred":[
         "Mal\u00e9"
+    ],
+    "name:pus_x_preferred":[
+        "\u0645\u0627\u0644\u0647"
     ],
     "name:ron_x_preferred":[
         "Mal\u00e9"
@@ -354,6 +378,9 @@
     "name:tur_x_preferred":[
         "Male"
     ],
+    "name:tur_x_variant":[
+        "Mal\u00e9"
+    ],
     "name:uig_x_preferred":[
         "\u0645\u0627\u0644\u06d0"
     ],
@@ -377,6 +404,9 @@
     ],
     "name:war_x_preferred":[
         "Mal\u00e9"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u7d2f"
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10da\u10d4"
@@ -432,7 +462,7 @@
         }
     ],
     "wof:id":890440959,
-    "wof:lastmodified":1561749522,
+    "wof:lastmodified":1563576243,
     "wof:name":"Male",
     "wof:parent_id":85674093,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09b9\u09cd\u09b2\u09be\u09ad\u09bf\u09af\u09bc\u09be\u09a8\u09bf \u0986\u09a4\u09cb\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "Lhaviyani Atholhu"
+    ],
     "name:ces_x_preferred":[
         "Lavijani"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:eng_x_preferred":[
         "Lhaviyani"
+    ],
+    "name:eng_x_variant":[
+        "Lhaviyani Atoll"
     ],
     "name:fin_x_preferred":[
         "Lhaviyani Atoll"
@@ -103,6 +109,9 @@
     "name:nob_x_preferred":[
         "Laviyani"
     ],
+    "name:nob_x_variant":[
+        "Lhaviyani Atoll"
+    ],
     "name:pol_x_preferred":[
         "Lhaviyani"
     ],
@@ -133,6 +142,9 @@
     "name:tha_x_preferred":[
         "\u0e25\u0e22\u0e27\u0e34\u0e22\u0e19\u0e34"
     ],
+    "name:tha_x_variant":[
+        "\u0e1f\u0e32\u0e14\u0e34\u0e1b\u0e1b\u0e2d\u0e25\u0e39"
+    ],
     "name:tur_x_preferred":[
         "Lhayviyani Atoll"
     ],
@@ -147,6 +159,9 @@
     ],
     "name:vie_x_preferred":[
         "Lhaviyani Atoll"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u9ed1\u6bd4\u4e9e\u5c3c\u74b0\u7901"
     ],
     "ne:abbrev":"Lh",
     "ne:adm0_a3":"MDV",
@@ -272,7 +287,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1561749520,
+    "wof:lastmodified":1563576224,
     "wof:name":"Lhaviyani",
     "wof:parent_id":85632305,
     "wof:placetype":"region",
