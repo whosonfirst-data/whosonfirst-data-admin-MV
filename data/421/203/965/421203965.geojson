@@ -22,6 +22,9 @@
     "name:div_x_preferred":[
         "\u0789\u07aa\u078d\u07a8"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0644\u06cc"
+    ],
     "name:jpn_x_preferred":[
         "\u30e0\u30ea"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":421203965,
-    "wof:lastmodified":1527716189,
+    "wof:lastmodified":1564129352,
     "wof:name":"Muli",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
