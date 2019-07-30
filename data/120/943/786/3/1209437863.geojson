@@ -25,6 +25,33 @@
     "iso:country":"MV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gan"
+    ],
+    "name:deu_x_preferred":[
+        "Gan"
+    ],
+    "name:fra_x_preferred":[
+        "Gan"
+    ],
+    "name:nld_x_preferred":[
+        "Gan"
+    ],
+    "name:nor_x_preferred":[
+        "Gan"
+    ],
+    "name:pol_x_preferred":[
+        "Gan"
+    ],
+    "name:por_x_preferred":[
+        "Gan"
+    ],
+    "name:slk_x_preferred":[
+        "Gan"
+    ],
+    "name:swe_x_preferred":[
+        "Gan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632305
@@ -42,7 +69,7 @@
         }
     ],
     "wof:id":1209437863,
-    "wof:lastmodified":1536287048,
+    "wof:lastmodified":1564129349,
     "wof:name":"Gan",
     "wof:parent_id":85632305,
     "wof:placetype":"locality",
