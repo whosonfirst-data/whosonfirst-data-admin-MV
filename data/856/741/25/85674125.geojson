@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GD"
+    ],
     "lbl:latitude":0.220139,
     "lbl:longitude":73.100585,
     "mps:latitude":0.220139,
@@ -278,16 +281,13 @@
         }
     ],
     "wof:id":85674125,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576234,
+    "wof:lastmodified":1565728085,
     "wof:name":"Gaafu Dhaalu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

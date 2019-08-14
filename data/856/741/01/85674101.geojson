@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ME"
+    ],
     "lbl:latitude":2.781548,
     "lbl:longitude":73.393909,
     "mps:latitude":2.781548,
@@ -272,16 +275,13 @@
         }
     ],
     "wof:id":85674101,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576233,
+    "wof:lastmodified":1565728085,
     "wof:name":"Meemu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

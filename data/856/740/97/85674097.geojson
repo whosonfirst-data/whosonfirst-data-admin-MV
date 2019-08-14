@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WA"
+    ],
     "lbl:latitude":3.448532,
     "lbl:longitude":73.74949,
     "mps:latitude":3.448532,
@@ -275,16 +278,13 @@
         }
     ],
     "wof:id":85674097,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576225,
+    "wof:lastmodified":1565728083,
     "wof:name":"Vaavu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

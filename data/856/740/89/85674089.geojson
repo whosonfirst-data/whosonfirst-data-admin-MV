@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FA"
+    ],
     "lbl:latitude":3.248535,
     "lbl:longitude":73.032249,
     "mps:latitude":3.248535,
@@ -272,16 +275,13 @@
         }
     ],
     "wof:id":85674089,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576224,
+    "wof:lastmodified":1565728083,
     "wof:name":"Faafu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

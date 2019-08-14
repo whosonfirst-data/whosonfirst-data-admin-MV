@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HA"
+    ],
     "lbl:latitude":6.903026,
     "lbl:longitude":73.207372,
     "mps:latitude":6.903026,
@@ -274,16 +277,13 @@
         }
     ],
     "wof:id":85674049,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576226,
+    "wof:lastmodified":1565728084,
     "wof:name":"Haa Alifu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

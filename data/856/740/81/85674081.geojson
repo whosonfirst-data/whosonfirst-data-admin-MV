@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AA"
+    ],
     "lbl:latitude":4.42898,
     "lbl:longitude":72.950859,
     "mps:latitude":4.42898,
@@ -85,7 +88,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1553643106,
+    "wof:lastmodified":1565728083,
     "wof:name":"Alifu Alifu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

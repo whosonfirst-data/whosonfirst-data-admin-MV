@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LV"
+    ],
     "lbl:latitude":5.403064,
     "lbl:longitude":73.633093,
     "mps:latitude":5.403064,
@@ -278,16 +281,13 @@
         }
     ],
     "wof:id":85674073,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576224,
+    "wof:lastmodified":1565728083,
     "wof:name":"Lhaviyani",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

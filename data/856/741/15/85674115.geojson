@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LM"
+    ],
     "lbl:latitude":1.912522,
     "lbl:longitude":73.547768,
     "mps:latitude":1.912522,
@@ -269,16 +272,13 @@
         }
     ],
     "wof:id":85674115,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576234,
+    "wof:lastmodified":1565728085,
     "wof:name":"Laamu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NO"
+    ],
     "lbl:latitude":5.788125,
     "lbl:longitude":73.38188,
     "mps:latitude":5.788125,
@@ -286,16 +289,13 @@
         }
     ],
     "wof:id":85674063,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576226,
+    "wof:lastmodified":1565728084,
     "wof:name":"Noonu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

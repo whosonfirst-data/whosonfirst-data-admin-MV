@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":4.889897,
     "lbl:longitude":72.972745,
     "mps:latitude":4.889897,
@@ -144,16 +147,13 @@
         }
     ],
     "wof:id":85674067,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1553550455,
+    "wof:lastmodified":1565728083,
     "wof:name":"Baa",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

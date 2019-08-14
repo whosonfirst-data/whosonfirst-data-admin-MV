@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RA"
+    ],
     "lbl:latitude":5.963908,
     "lbl:longitude":72.928492,
     "mps:latitude":5.963908,
@@ -284,16 +287,13 @@
         }
     ],
     "wof:id":85674061,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576220,
+    "wof:lastmodified":1565728083,
     "wof:name":"Raa",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

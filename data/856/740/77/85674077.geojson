@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KA"
+    ],
     "lbl:latitude":3.93758,
     "lbl:longitude":73.471436,
     "mps:latitude":3.93758,
@@ -290,16 +293,13 @@
         }
     ],
     "wof:id":85674077,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576226,
+    "wof:lastmodified":1565728084,
     "wof:name":"Kaafu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

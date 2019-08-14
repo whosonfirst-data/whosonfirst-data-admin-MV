@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":4.174441,
     "lbl:longitude":73.507553,
     "mps:latitude":4.174441,
@@ -538,16 +541,13 @@
         }
     ],
     "wof:id":85674093,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576223,
+    "wof:lastmodified":1565728083,
     "wof:name":"Mal\u00e9",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

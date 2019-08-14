@@ -15,6 +15,9 @@
     "itu:country_code":[
         "960"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MV"
+    ],
     "lbl:latitude":-0.614771,
     "lbl:longitude":73.093739,
     "mps:latitude":-0.614771,
@@ -1005,16 +1008,13 @@
         }
     ],
     "wof:id":85632305,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576230,
+    "wof:lastmodified":1565728084,
     "wof:name":"Maldives",
     "wof:parent_id":102193527,
     "wof:placetype":"country",

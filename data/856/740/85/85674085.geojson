@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AD"
+    ],
     "lbl:latitude":3.549018,
     "lbl:longitude":72.919319,
     "mps:latitude":3.549018,
@@ -87,7 +90,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1553550456,
+    "wof:lastmodified":1565728084,
     "wof:name":"Alifu Dhaalu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

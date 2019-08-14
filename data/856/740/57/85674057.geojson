@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SH"
+    ],
     "lbl:latitude":6.233065,
     "lbl:longitude":73.240492,
     "mps:latitude":6.233065,
@@ -281,16 +284,13 @@
         }
     ],
     "wof:id":85674057,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576221,
+    "wof:lastmodified":1565728083,
     "wof:name":"Shaviyani",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

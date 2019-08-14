@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GA"
+    ],
     "lbl:latitude":0.385141,
     "lbl:longitude":73.508873,
     "mps:latitude":0.385141,
@@ -275,16 +278,13 @@
         }
     ],
     "wof:id":85674121,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576232,
+    "wof:lastmodified":1565728085,
     "wof:name":"Gaafu Alifu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

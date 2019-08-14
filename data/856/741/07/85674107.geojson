@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DA"
+    ],
     "lbl:latitude":2.740533,
     "lbl:longitude":73.026611,
     "mps:latitude":2.740533,
@@ -267,16 +270,13 @@
         }
     ],
     "wof:id":85674107,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576233,
+    "wof:lastmodified":1565728085,
     "wof:name":"Dhaalu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

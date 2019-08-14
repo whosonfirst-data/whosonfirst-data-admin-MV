@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HD"
+    ],
     "lbl:latitude":6.751705,
     "lbl:longitude":73.148476,
     "mps:latitude":6.751705,
@@ -287,16 +290,13 @@
         }
     ],
     "wof:id":85674053,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576225,
+    "wof:lastmodified":1565728083,
     "wof:name":"Haa Dhaalu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

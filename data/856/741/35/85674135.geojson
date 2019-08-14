@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SE"
+    ],
     "lbl:latitude":-0.615542,
     "lbl:longitude":73.104887,
     "mps:latitude":-0.615542,
@@ -228,16 +231,13 @@
         }
     ],
     "wof:id":85674135,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576231,
+    "wof:lastmodified":1565728084,
     "wof:name":"Addu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

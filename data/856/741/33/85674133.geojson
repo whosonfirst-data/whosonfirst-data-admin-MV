@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "atoll"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NA"
+    ],
     "lbl:latitude":-0.294353,
     "lbl:longitude":73.439789,
     "mps:latitude":-0.294353,
@@ -276,16 +279,13 @@
         }
     ],
     "wof:id":85674133,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "div"
     ],
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1563576232,
+    "wof:lastmodified":1565728085,
     "wof:name":"Gnaviyani",
     "wof:parent_id":85632305,
     "wof:placetype":"region",
