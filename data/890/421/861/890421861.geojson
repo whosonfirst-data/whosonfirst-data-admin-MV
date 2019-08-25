@@ -11,10 +11,14 @@
     "geom:longitude":73.23333,
     "gn:country":"MV",
     "gn:fcode":"PPL",
-    "gn:pop":1726,
+    "gn:population":1726,
     "iso:country":"MV",
+    "lbl:bbox":"73.21333,-0.60333,73.25333,-0.56333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Meedhoo"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1281980,
         "gp:id":2268291,
-        "qs:id":132607,
+        "qs_pg:id":132607,
         "wk:page":"Meedhoo"
     },
     "wof:country":"MV",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890421861,
-    "wof:lastmodified":1564129353,
+    "wof:lastmodified":1566612153,
     "wof:name":"Meedhoo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

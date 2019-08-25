@@ -11,10 +11,14 @@
     "geom:longitude":73.38333,
     "gn:country":"MV",
     "gn:fcode":"PPL",
-    "gn:pop":1418,
+    "gn:population":1418,
     "iso:country":"MV",
+    "lbl:bbox":"73.36333,5.74667,73.40333,5.78667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Manadu"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":1337618,
         "gp:id":2268296,
-        "qs:id":132723,
+        "qs_pg:id":132723,
         "wd:id":"Q2599649",
         "wk:page":"Manadhoo"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890431489,
-    "wof:lastmodified":1563576246,
+    "wof:lastmodified":1566612152,
     "wof:name":"Manadhoo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

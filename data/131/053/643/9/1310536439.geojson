@@ -23,8 +23,12 @@
     "gn:population":1100,
     "gn:timezone":"Indian/Maldives",
     "iso:country":"MV",
+    "lbl:bbox":"73.07556,2.16772,73.11556,2.20772",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Veymandu"
     ],
@@ -53,8 +57,7 @@
         "Veymandoo"
     ],
     "name:und_x_variant":[
-        "Veymandhoo",
-        "Veymandoo"
+        "Veymandhoo"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1310536439,
-    "wof:lastmodified":1564129350,
+    "wof:lastmodified":1566612150,
     "wof:name":"Veymandoo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

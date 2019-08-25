@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":3.93758,
     "lbl:longitude":73.471436,
+    "lbl:min_zoom":8.0,
     "mps:latitude":3.93758,
     "mps:longitude":73.471436,
     "mz:hierarchy_label":1,
@@ -166,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u043e\u043b \u041a\u0430\u0430\u0444\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maale Atholhu"
     ],
     "name:urd_x_preferred":[
@@ -250,9 +251,9 @@
     "qs:type":"Atoll",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-20",
+    "src:population_date":"2014-09-20",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2014-09-20",
@@ -267,7 +268,6 @@
     "statoids:type":"atoll",
     "unlc:subdivision":"MV-26",
     "wd:wordcount":23,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102193527,
         85632305
@@ -279,7 +279,7 @@
         "gp:id":20070330,
         "hasc:id":"MV.KA",
         "iso:id":"MV-26",
-        "qs:id":1172855,
+        "qs_pg:id":1172855,
         "unlc:id":"MV-26",
         "wd:id":"Q1468407"
     },
@@ -299,11 +299,10 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1565728084,
+    "wof:lastmodified":1566612146,
     "wof:name":"Kaafu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"atoll",
     "wof:population":12166,
     "wof:population_rank":6,

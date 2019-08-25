@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Maldives",
     "iso:country":"MV",
+    "lbl:bbox":"73.48013,4.39667,73.52013,4.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nord Male Atoll"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260131311,
-    "wof:lastmodified":1537665828,
+    "wof:lastmodified":1566612150,
     "wof:name":"Nord Male Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

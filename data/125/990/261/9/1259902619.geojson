@@ -23,8 +23,12 @@
     "gn:population":1773,
     "gn:timezone":"Indian/Maldives",
     "iso:country":"MV",
+    "lbl:bbox":"73.48257,1.81243,73.52257,1.85243",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1259902619,
-    "wof:lastmodified":1536751517,
+    "wof:lastmodified":1566612154,
     "wof:name":"Fonadhoo",
     "wof:parent_id":85674115,
     "wof:placetype":"locality",

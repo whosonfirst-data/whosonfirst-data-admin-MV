@@ -10,8 +10,12 @@
     "geom:latitude":1.79666,
     "geom:longitude":73.38824,
     "iso:country":"MV",
+    "lbl:bbox":"73.36824,1.77666,73.40824,1.81666",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Hithadhoo"
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":1337615,
         "gp:id":2268291,
-        "qs:id":229347,
+        "qs_pg:id":229347,
         "wd:id":"Q2702678"
     },
     "wof:country":"MV",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421169703,
-    "wof:lastmodified":1563576241,
+    "wof:lastmodified":1566612151,
     "wof:name":"Hithadhoo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

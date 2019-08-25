@@ -11,10 +11,14 @@
     "geom:longitude":73.10749,
     "gn:country":"MV",
     "gn:fcode":"PPL",
-    "gn:pop":577,
+    "gn:population":577,
     "iso:country":"MV",
+    "lbl:bbox":"73.08749,2.53905,73.12749,2.57905",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Buruni",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -27,7 +31,7 @@
     "wof:concordances":{
         "gn:id":7910627,
         "gp:id":2268302,
-        "qs:id":744665
+        "qs_pg:id":744665
     },
     "wof:country":"MV",
     "wof:created":1469052215,
@@ -39,7 +43,7 @@
         }
     ],
     "wof:id":890438923,
-    "wof:lastmodified":1505343568,
+    "wof:lastmodified":1566612152,
     "wof:name":"Buruni",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
