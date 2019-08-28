@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":2.410823,
     "lbl:longitude":73.361893,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.410823,
     "mps:longitude":73.361893,
     "mz:hierarchy_label":1,
@@ -76,7 +77,7 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e2d\u0e25\u0e39\u0e21\u0e32\u0e14\u0e39\u0e25\u0e39"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u0101"
     ],
     "name:zho_x_preferred":[
@@ -154,9 +155,9 @@
     "qs:type":"Atoll",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-20",
+    "src:population_date":"2014-09-20",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2014-09-20",
@@ -170,7 +171,6 @@
     "statoids:timezone":"+5",
     "statoids:type":"atoll",
     "unlc:subdivision":"MV-08",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102193527,
         85632305
@@ -182,7 +182,7 @@
         "gp:id":20070324,
         "hasc:id":"MV.TH",
         "iso:id":"MV-08",
-        "qs:id":1287670,
+        "qs_pg:id":1287670,
         "unlc:id":"MV-08",
         "wd:id":"Q2709118",
         "wk:page":"Kolhumadulu Atoll"
@@ -203,11 +203,10 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1565728085,
+    "wof:lastmodified":1566612147,
     "wof:name":"Thaa",
     "wof:parent_id":85632305,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"atoll",
     "wof:population":8901,
     "wof:population_rank":5,

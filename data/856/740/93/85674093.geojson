@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":4.174441,
     "lbl:longitude":73.507553,
+    "lbl:min_zoom":8.0,
     "mps:latitude":4.174441,
     "mps:longitude":73.507553,
     "mz:hierarchy_label":1,
@@ -388,9 +389,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0435"
     ],
-    "name:unk_x_variant":[
-        "Maale"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0644\u06d2"
     ],
@@ -493,9 +491,9 @@
     "qs:type":"Capital",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-20",
+    "src:population_date":"2014-09-20",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2014-09-20",
@@ -511,7 +509,6 @@
     "wd:latitude":4.166667,
     "wd:longitude":73.5,
     "wd:wordcount":1753,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102193527,
         85632305
@@ -524,7 +521,7 @@
         "hasc:id":"MV.MA",
         "iso:id":"MV-MLE",
         "loc:id":"n82095066",
-        "qs:id":1287668,
+        "qs_pg:id":1287668,
         "wd:id":"Q9347",
         "wk:page":"Mal\u00e9"
     },
@@ -547,11 +544,10 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1565728083,
+    "wof:lastmodified":1566612145,
     "wof:name":"Mal\u00e9",
     "wof:parent_id":85632305,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city",
     "wof:population":129381,
     "wof:population_rank":9,

@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Maldives",
     "iso:country":"MV",
+    "lbl:bbox":"72.90304,4.98604,72.94304,5.02604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hithaadhoo"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209430181,
-    "wof:lastmodified":1564129348,
+    "wof:lastmodified":1566612150,
     "wof:name":"Hithaadhoo",
     "wof:parent_id":85632305,
     "wof:placetype":"locality",

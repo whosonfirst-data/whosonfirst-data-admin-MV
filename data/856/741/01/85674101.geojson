@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":2.781548,
     "lbl:longitude":73.393909,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.781548,
     "mps:longitude":73.393909,
     "mz:hierarchy_label":1,
@@ -131,7 +132,7 @@
         "Meemu Atholhu"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bc0\u0bae\u0bc1  \u0b85\u0b9f\u0bcb\u0bb2\u0bcd"
+        "\u0bae\u0bc0\u0bae\u0bc1 \u0b85\u0b9f\u0bcb\u0bb2\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c40\u0c2e\u0c41 \u0c06\u0c1f\u0c4b\u0c32\u0c4d"
@@ -148,7 +149,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u043e\u043b \u041c\u0435\u0435\u043c\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mulaku Atholhu"
     ],
     "name:urd_x_preferred":[
@@ -232,9 +233,9 @@
     "qs:type":"Atoll",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-20",
+    "src:population_date":"2014-09-20",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2014-09-20",
@@ -248,7 +249,6 @@
     "statoids:timezone":"+5",
     "statoids:type":"atoll",
     "unlc:subdivision":"MV-12",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102193527,
         85632305
@@ -260,7 +260,7 @@
         "gp:id":20070323,
         "hasc:id":"MV.ME",
         "iso:id":"MV-12",
-        "qs:id":219918,
+        "qs_pg:id":219918,
         "unlc:id":"MV-12",
         "wd:id":"Q2210716",
         "wk:page":"Meemu Atoll"
@@ -281,11 +281,10 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1565728085,
+    "wof:lastmodified":1566612148,
     "wof:name":"Meemu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"atoll",
     "wof:population":4705,
     "wof:population_rank":4,

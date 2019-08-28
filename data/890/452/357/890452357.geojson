@@ -11,10 +11,14 @@
     "geom:longitude":73.07115,
     "gn:country":"MV",
     "gn:fcode":"PPLL",
-    "gn:pop":1258,
+    "gn:population":1258,
     "iso:country":"MV",
+    "lbl:bbox":"73.05115,5.0853,73.09115,5.1253",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Open Stage",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -26,7 +30,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8410622,
-        "qs:id":769852
+        "qs_pg:id":769852
     },
     "wof:country":"MV",
     "wof:created":1469052813,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":890452357,
-    "wof:lastmodified":1505343645,
+    "wof:lastmodified":1566612152,
     "wof:name":"Open Stage",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

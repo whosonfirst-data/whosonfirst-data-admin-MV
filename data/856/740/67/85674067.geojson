@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":4.889897,
     "lbl:longitude":72.972745,
+    "lbl:min_zoom":8.0,
     "mps:latitude":4.889897,
     "mps:longitude":72.972745,
     "mz:hierarchy_label":1,
@@ -31,7 +32,7 @@
     "name:eng_x_preferred":[
         "Baa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "South Maalhosmadulu"
     ],
     "ne:abbrev":"B",
@@ -106,9 +107,9 @@
     "qs:type":"Atoll",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-20",
+    "src:population_date":"2014-09-20",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2014-09-20",
@@ -122,7 +123,6 @@
     "statoids:timezone":"+5",
     "statoids:type":"atoll",
     "unlc:subdivision":"MV-20",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102193527,
         85632305
@@ -134,7 +134,7 @@
         "gp:id":20070316,
         "hasc:id":"MV.BA",
         "iso:id":"MV-20",
-        "qs:id":890126,
+        "qs_pg:id":890126,
         "unlc:id":"MV-20"
     },
     "wof:country":"MV",
@@ -153,11 +153,10 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1565728083,
+    "wof:lastmodified":1566612144,
     "wof:name":"Baa",
     "wof:parent_id":85632305,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"atoll",
     "wof:population":8878,
     "wof:population_rank":5,

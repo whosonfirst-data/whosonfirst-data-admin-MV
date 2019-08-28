@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-0.294353,
     "lbl:longitude":73.439789,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-0.294353,
     "mps:longitude":73.439789,
     "mz:hierarchy_label":1,
@@ -153,7 +154,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043d\u0430\u0432\u0456\u0439\u0430\u043d\u0456 \u0430\u0442\u043e\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Foammula"
     ],
     "name:urd_x_preferred":[
@@ -237,9 +238,9 @@
     "qs:type":"Atoll",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-09-20",
+    "src:population_date":"2014-09-20",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2014-09-20",
@@ -265,7 +266,7 @@
         "gp:id":20070326,
         "hasc:id":"MV.NA",
         "iso:id":"MV-29",
-        "qs:id":1172854,
+        "qs_pg:id":1172854,
         "unlc:id":"MV-29",
         "wd:id":"Q1811116"
     },
@@ -285,11 +286,10 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1565728085,
+    "wof:lastmodified":1566612147,
     "wof:name":"Gnaviyani",
     "wof:parent_id":85632305,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"atoll",
     "wof:population":7984,
     "wof:population_rank":5,

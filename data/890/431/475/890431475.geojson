@@ -11,10 +11,14 @@
     "geom:longitude":73.07078,
     "gn:country":"MV",
     "gn:fcode":"PPL",
-    "gn:pop":2808,
+    "gn:population":2808,
     "iso:country":"MV",
+    "lbl:bbox":"73.05078,5.08327,73.09078,5.12327",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Eydxafu\u015fi"
     ],
@@ -69,7 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1337606,
-        "qs:id":132720,
+        "qs_pg:id":132720,
         "wd:id":"Q2461849",
         "wk:page":"Eydhafushi"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":890431475,
-    "wof:lastmodified":1563576246,
+    "wof:lastmodified":1566612152,
     "wof:name":"Eydhafushi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":73.0,
     "gn:country":"MV",
     "gn:fcode":"PPL",
-    "gn:pop":1263,
+    "gn:population":1263,
     "iso:country":"MV",
+    "lbl:bbox":"72.98,5.64667,73.02,5.68667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "U\u2019ngoofaaru"
     ],
     "qs:name":"Ugoofaaru",
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":1337619,
         "gp:id":2268301,
-        "qs:id":132724
+        "qs_pg:id":132724
     },
     "wof:country":"MV",
     "wof:created":1469051894,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890431495,
-    "wof:lastmodified":1505343524,
+    "wof:lastmodified":1566612152,
     "wof:name":"Ugoofaaru",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

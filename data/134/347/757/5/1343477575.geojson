@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Maldives",
     "iso:country":"MV",
+    "lbl:bbox":"73.11256,5.13825,73.15256,5.17825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dharavandhoo"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1343477575,
-    "wof:lastmodified":1537665828,
+    "wof:lastmodified":1566612143,
     "wof:name":"Dharavandhoo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

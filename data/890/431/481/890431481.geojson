@@ -11,10 +11,14 @@
     "geom:longitude":72.89437,
     "gn:country":"MV",
     "gn:fcode":"PPL",
-    "gn:pop":1320,
+    "gn:population":1320,
     "iso:country":"MV",
+    "lbl:bbox":"72.87437,2.65075,72.91437,2.69075",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u0434\u0430\u0445\u0443\u0432\u0430\u0434\u0445\u043e"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":1337607,
         "gp:id":2268292,
-        "qs:id":132721,
+        "qs_pg:id":132721,
         "wd:id":"Q2339256",
         "wk:page":"Kudahuvadhoo"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890431481,
-    "wof:lastmodified":1563576245,
+    "wof:lastmodified":1566612152,
     "wof:name":"Kudahuvadhoo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

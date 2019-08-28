@@ -11,13 +11,16 @@
     "geom:longitude":73.507554,
     "gn:country":"MV",
     "gn:fcode":"PPLC",
-    "gn:pop":103693,
+    "gn:population":103693,
     "iso:country":"MV",
     "lbl:latitude":4.1748,
     "lbl:longitude":73.50888,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ace_x_preferred":[
         "Mal\u00e9"
     ],
@@ -387,7 +390,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maale"
     ],
     "name:urd_x_preferred":[
@@ -443,7 +446,7 @@
     "wof:concordances":{
         "gn:id":1282027,
         "gp:id":2268295,
-        "qs:id":1308548,
+        "qs_pg:id":1308548,
         "wd:id":"Q9347",
         "wk:page":"Male"
     },
@@ -462,7 +465,7 @@
         }
     ],
     "wof:id":890440959,
-    "wof:lastmodified":1563576243,
+    "wof:lastmodified":1566612152,
     "wof:name":"Male",
     "wof:parent_id":85674093,
     "wof:placetype":"locality",
