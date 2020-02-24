@@ -992,6 +992,10 @@
     },
     "wof:country":"MV",
     "wof:country_alpha3":"MDV",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"27a8253d4900a0282257ce76bd16e194",
     "wof:hierarchy":[
         {
@@ -1006,7 +1010,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1566612146,
+    "wof:lastmodified":1582331742,
     "wof:name":"Maldives",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
