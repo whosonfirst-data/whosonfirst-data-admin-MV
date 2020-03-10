@@ -968,9 +968,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Maldives",
-        "digitalenvoy:country_code":[
-            462
-        ],
+        "digitalenvoy:country_code":462,
         "fb:id":"en.maldives",
         "fifa:id":"MDV",
         "fips:code":"MV",
@@ -1013,7 +1011,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1583529178,
+    "wof:lastmodified":1583797385,
     "wof:name":"Maldives",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
