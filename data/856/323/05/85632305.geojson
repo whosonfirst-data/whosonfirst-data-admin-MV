@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024362,
-    "geom:area_square_m":300322968.81065,
+    "geom:area_square_m":300322979.451471,
     "geom:bbox":"72.643753,-0.702944,73.745415,7.10875",
     "geom:latitude":3.68963,
     "geom:longitude":73.199364,
@@ -60,6 +60,9 @@
     "name:arg_x_preferred":[
         "Maldivas"
     ],
+    "name:ary_x_preferred":[
+        "\u0645\u0627\u0644\u062f\u064a\u06a4"
+    ],
     "name:arz_x_preferred":[
         "\u0645\u0627\u0644\u062f\u064a\u0641"
     ],
@@ -89,6 +92,9 @@
     ],
     "name:bam_x_preferred":[
         "Maldivi"
+    ],
+    "name:ban_x_preferred":[
+        "Malad\u00e9wa"
     ],
     "name:bar_x_preferred":[
         "Maledivn"
@@ -181,6 +187,9 @@
     "name:dan_x_preferred":[
         "Maldiverne"
     ],
+    "name:deu_ch_x_preferred":[
+        "Malediven"
+    ],
     "name:deu_x_preferred":[
         "Malediven"
     ],
@@ -208,6 +217,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bb\u03b4\u03af\u03b2\u03b5\u03c2"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Maldives"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Maldives"
     ],
     "name:eng_x_preferred":[
         "Maldives"
@@ -265,6 +280,9 @@
     ],
     "name:gag_x_preferred":[
         "Maldivler"
+    ],
+    "name:gcr_x_preferred":[
+        "Maldiv"
     ],
     "name:gla_x_preferred":[
         "Na h-Eileanan Mhaladaibh"
@@ -624,6 +642,9 @@
     "name:pol_x_preferred":[
         "Malediwy"
     ],
+    "name:por_br_x_preferred":[
+        "Maldivas"
+    ],
     "name:por_x_preferred":[
         "Maldivas"
     ],
@@ -709,6 +730,9 @@
     "name:sqi_x_variant":[
         "Maldivit"
     ],
+    "name:srd_x_preferred":[
+        "Maldivas"
+    ],
     "name:srn_x_preferred":[
         "Maldivikondre"
     ],
@@ -732,6 +756,9 @@
     ],
     "name:szl_x_preferred":[
         "Malediwy"
+    ],
+    "name:szy_x_preferred":[
+        "Maldives"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bbe\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd"
@@ -845,11 +872,32 @@
     "name:yue_x_preferred":[
         "\u99ac\u723e\u4ee3\u592b"
     ],
+    "name:zea_x_preferred":[
+        "Mallediven"
+    ],
     "name:zha_x_preferred":[
         "Maldives"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u9a6c\u5c14\u4ee3\u592b"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u99ac\u723e\u4ee3\u592b"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Maldives"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u99ac\u723e\u4ee3\u592b"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u9a6c\u5c14\u4ee3\u592b"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u9a6c\u5c14\u4ee3\u592b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u99ac\u723e\u5730\u592b"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u5c14\u4ee3\u592b"
@@ -1011,7 +1059,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1583797385,
+    "wof:lastmodified":1587428847,
     "wof:name":"Maldives",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
