@@ -32,11 +32,23 @@
     "name:eng_x_preferred":[
         "Baa"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Baa"
+    ],
+    "name:hun_x_preferred":[
         "Baa"
     ],
     "name:und_x_variant":[
         "South Maalhosmadulu"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5df4\u963f"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u82ad\u74b0\u7901"
     ],
     "ne:abbrev":"B",
     "ne:adm0_a3":"MDV",
@@ -156,7 +168,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1627522384,
+    "wof:lastmodified":1636497504,
     "wof:name":"Baa",
     "wof:parent_id":85632305,
     "wof:placetype":"region",
