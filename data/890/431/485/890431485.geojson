@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Kulhudhuffushi"
     ],
+    "name:deu_x_preferred":[
+        "Kulhudhuffushi"
+    ],
     "name:div_x_preferred":[
         "\u0786\u07aa\u0785\u07aa\u078b\u07aa\u0787\u07b0\u078a\u07aa\u0781\u07a8"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:fra_x_preferred":[
         "Kulhudhuffushi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05dc\u05d7\u05d5\u05d3\u05d5\u05e4\u05d5\u05e9\u05d9"
     ],
     "name:nld_x_preferred":[
         "Kulhudhuffushi"
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890431485,
-    "wof:lastmodified":1566612152,
+    "wof:lastmodified":1690846531,
     "wof:name":"Kulhudhuffushi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

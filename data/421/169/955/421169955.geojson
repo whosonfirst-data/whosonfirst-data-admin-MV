@@ -23,6 +23,9 @@
     "name:dan_x_preferred":[
         "Thinadhoo"
     ],
+    "name:deu_x_preferred":[
+        "Thinadhoo"
+    ],
     "name:div_x_preferred":[
         "\u078c\u07a8\u0782\u07a6\u078b\u07ab"
     ],
@@ -48,6 +51,9 @@
         "Tinad\u00fa"
     ],
     "name:swe_x_preferred":[
+        "Thinadhoo"
+    ],
+    "name:uzb_x_preferred":[
         "Thinadhoo"
     ],
     "qs:gn_country":"MV",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421169955,
-    "wof:lastmodified":1566612151,
+    "wof:lastmodified":1690846529,
     "wof:name":"Thinadhoo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

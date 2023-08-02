@@ -17,11 +17,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:arz_x_preferred":[
+        "\u062f\u0647\u064a\u062f\u0647\u0648"
+    ],
     "name:aze_x_preferred":[
         "Diddu"
     ],
     "name:ceb_x_preferred":[
         "Dhidhdhoo"
+    ],
+    "name:deu_x_preferred":[
+        "Dhiddhoo"
     ],
     "name:div_x_preferred":[
         "\u078b\u07a8\u0787\u07b0\u078b\u07ab"
@@ -48,6 +54,9 @@
         "Didd\u00fa"
     ],
     "name:swe_x_preferred":[
+        "Dhidhdhoo"
+    ],
+    "name:uzb_x_preferred":[
         "Dhidhdhoo"
     ],
     "qs:gn_country":"MV",
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":421169725,
-    "wof:lastmodified":1566612151,
+    "wof:lastmodified":1690846530,
     "wof:name":"Dhidhdhoo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

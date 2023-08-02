@@ -33,6 +33,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u064a\u0647"
     ],
+    "name:ary_x_preferred":[
+        "\u0645\u0627\u0644\u064a\u0647"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0644\u064a\u0647"
+    ],
     "name:ast_x_preferred":[
         "Mal\u00e9"
     ],
@@ -45,8 +51,14 @@
     "name:bak_x_preferred":[
         "\u041c\u0430\u043b\u0435"
     ],
+    "name:ban_x_preferred":[
+        "Mal\u00e9"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043b\u0435"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043b\u0435"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b2\u09c7"
@@ -126,6 +138,9 @@
     "name:fra_x_preferred":[
         "Mal\u00e9"
     ],
+    "name:frr_x_preferred":[
+        "Mal\u00e9"
+    ],
     "name:fry_x_preferred":[
         "Malee"
     ],
@@ -149,6 +164,9 @@
     ],
     "name:hat_x_preferred":[
         "Male"
+    ],
+    "name:hau_x_preferred":[
+        "Mal\u00e9"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05dc\u05d4"
@@ -191,6 +209,9 @@
     ],
     "name:ita_x_preferred":[
         "Mal\u00e9"
+    ],
+    "name:ita_x_variant":[
+        "Male"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30ec"
@@ -243,6 +264,9 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0932\u0947"
     ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u043b\u044d"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043b\u0435"
     ],
@@ -254,6 +278,12 @@
     ],
     "name:msa_x_preferred":[
         "Mal\u00e9"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u102c\u101c\u1031\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0627\u0644\u0647"
     ],
     "name:nah_x_preferred":[
         "Male"
@@ -336,6 +366,9 @@
     "name:sme_x_preferred":[
         "Mal\u00e9"
     ],
+    "name:smn_x_preferred":[
+        "Mal\u00e9"
+    ],
     "name:sna_x_preferred":[
         "Mal\u00e9"
     ],
@@ -343,6 +376,9 @@
         "Mal\u00e9"
     ],
     "name:sqi_x_preferred":[
+        "Mal\u00e9"
+    ],
+    "name:srd_x_preferred":[
         "Mal\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -384,6 +420,9 @@
     "name:tur_x_variant":[
         "Mal\u00e9"
     ],
+    "name:udm_x_preferred":[
+        "\u041c\u0430\u043b\u0435"
+    ],
     "name:uig_x_preferred":[
         "\u0645\u0627\u0644\u06d0"
     ],
@@ -397,6 +436,9 @@
         "\u0645\u0627\u0644\u06d2"
     ],
     "name:uzb_x_preferred":[
+        "Male"
+    ],
+    "name:vec_x_preferred":[
         "Male"
     ],
     "name:vep_x_preferred":[
@@ -470,7 +512,7 @@
         }
     ],
     "wof:id":890440959,
-    "wof:lastmodified":1607390888,
+    "wof:lastmodified":1690846531,
     "wof:name":"Male",
     "wof:parent_id":85674093,
     "wof:placetype":"locality",
