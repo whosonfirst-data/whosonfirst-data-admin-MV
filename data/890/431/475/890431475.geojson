@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Eydhafushi"
     ],
+    "name:deu_x_preferred":[
+        "Eydhafushi"
+    ],
     "name:div_x_preferred":[
         "\u0787\u07ad\u078b\u07a6\u078a\u07aa\u0781\u07a8"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890431475,
-    "wof:lastmodified":1566612152,
+    "wof:lastmodified":1690846532,
     "wof:name":"Eydhafushi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

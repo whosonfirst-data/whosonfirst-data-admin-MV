@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Hithadhoo"
     ],
+    "name:deu_x_preferred":[
+        "Hithadhoo"
+    ],
     "name:div_x_preferred":[
         "\u0780\u07a8\u078c\u07a6\u078b\u07ab"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890433705,
-    "wof:lastmodified":1566612153,
+    "wof:lastmodified":1690846532,
     "wof:name":"Hithadhoo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09ae\u09c1 \u0986\u09a4\u09cb\u09b2"
     ],
+    "name:cat_x_preferred":[
+        "Atol Laamu"
+    ],
     "name:ceb_x_preferred":[
         "Laamu Atholhu"
     ],
@@ -290,7 +293,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1636497506,
+    "wof:lastmodified":1690846529,
     "wof:name":"Laamu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

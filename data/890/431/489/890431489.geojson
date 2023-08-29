@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Manadhoo"
     ],
+    "name:deu_x_preferred":[
+        "Manadhoo"
+    ],
     "name:div_x_preferred":[
         "\u0789\u07a6\u0782\u07a6\u078b\u07ab"
     ],
@@ -37,7 +40,13 @@
     "name:fra_x_preferred":[
         "Manadhoo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ca\u30c9\u30a5\u30fc"
+    ],
     "name:nld_x_preferred":[
+        "Manadhoo"
+    ],
+    "name:pol_x_preferred":[
         "Manadhoo"
     ],
     "name:rus_x_preferred":[
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":890431489,
-    "wof:lastmodified":1566612152,
+    "wof:lastmodified":1690846532,
     "wof:name":"Manadhoo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

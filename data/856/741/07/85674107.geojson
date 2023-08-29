@@ -44,6 +44,9 @@
     "name:deu_x_preferred":[
         "S\u00fcd-Nilandhe-Atoll"
     ],
+    "name:deu_x_variant":[
+        "Dhaalu"
+    ],
     "name:div_x_preferred":[
         "\u0782\u07a8\u078d\u07a6\u0782\u07b0\u078b\u07ac\u0787\u07a6\u078c\u07ae\u0785\u07aa \u078b\u07ac\u0786\u07aa\u0782\u07aa\u0784\u07aa\u0783\u07a8"
     ],
@@ -125,6 +128,9 @@
     "name:rus_x_preferred":[
         "\u0414\u0445\u0430\u0430\u043b\u0443"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6b\u1c77\u1c5f\u1c5e\u1c69 \u1c6e\u1c74\u1c5a\u1c5e"
+    ],
     "name:sin_x_preferred":[
         "\u0da9\u0dcf\u0dbd\u0dd4 \u0daf\u0dd6\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd6\u0dc4\u0dba"
     ],
@@ -139,6 +145,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbe\u0bb3\u0bc1  \u0b85\u0b9f\u0bbe\u0bb2\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0ba4\u0bbe\u0bb3\u0bc1 \u0b85\u0b9f\u0bbe\u0bb2\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c22\u0c3e\u0c32\u0c41 \u0c05\u0c1f\u0c4b\u0c32\u0c4d"
@@ -285,7 +294,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1636497506,
+    "wof:lastmodified":1690846528,
     "wof:name":"Dhaalu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

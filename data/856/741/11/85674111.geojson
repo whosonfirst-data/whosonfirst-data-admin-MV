@@ -35,11 +35,17 @@
     "name:ben_x_preferred":[
         "\u09a5\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Thaa Atholhu"
+    ],
     "name:ces_x_preferred":[
         "T\u00e1"
     ],
     "name:deu_x_preferred":[
         "Kolhumadulu-Atoll"
+    ],
+    "name:deu_x_variant":[
+        "Kolhumadulu"
     ],
     "name:div_x_preferred":[
         "\u0786\u07ae\u0785\u07aa\u0789\u07a6\u0791\u07aa\u078d\u07aa"
@@ -106,6 +112,9 @@
     ],
     "name:swe_x_preferred":[
         "Thaa"
+    ],
+    "name:swe_x_variant":[
+        "Thaa Atholhu"
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e2d\u0e25\u0e39\u0e21\u0e32\u0e14\u0e39\u0e25\u0e39"
@@ -254,7 +263,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1636497506,
+    "wof:lastmodified":1690846528,
     "wof:name":"Thaa",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

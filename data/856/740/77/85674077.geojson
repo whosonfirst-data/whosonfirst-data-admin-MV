@@ -50,6 +50,9 @@
     "name:ces_x_preferred":[
         "K\u00e1fu"
     ],
+    "name:ces_x_variant":[
+        "Kaafu"
+    ],
     "name:dan_x_preferred":[
         "Kaafu Atoll"
     ],
@@ -302,7 +305,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1636497505,
+    "wof:lastmodified":1690846526,
     "wof:name":"Kaafu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

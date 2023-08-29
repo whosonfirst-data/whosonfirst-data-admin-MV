@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.002845,
     "geom:area_square_m":35087547.342693,
-    "geom:bbox":"73.4312010656,4.16208746017,73.5528830121,4.24303891162",
+    "geom:bbox":"73.431201,4.162087,73.552883,4.243039",
     "geom:latitude":4.190794,
-    "geom:longitude":73.507554,
+    "geom:longitude":73.507553,
     "gn:population":105000,
     "iso:country":"MV",
     "label:eng_x_preferred_longname":[
@@ -41,6 +41,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u064a\u0647"
     ],
+    "name:ary_x_preferred":[
+        "\u0645\u0627\u0644\u064a\u0647"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0644\u064a\u0647"
+    ],
     "name:ast_x_preferred":[
         "Mal\u00e9"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:bak_x_preferred":[
         "\u041c\u0430\u043b\u0435"
+    ],
+    "name:ban_x_preferred":[
+        "Mal\u00e9"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043b\u0435"
@@ -140,6 +149,9 @@
     "name:fra_x_preferred":[
         "Mal\u00e9"
     ],
+    "name:frr_x_preferred":[
+        "Mal\u00e9"
+    ],
     "name:fry_x_preferred":[
         "Malee"
     ],
@@ -163,6 +175,9 @@
     ],
     "name:hat_x_preferred":[
         "Male"
+    ],
+    "name:hau_x_preferred":[
+        "Mal\u00e9"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05dc\u05d4"
@@ -202,6 +217,9 @@
     ],
     "name:ita_x_preferred":[
         "Mal\u00e9"
+    ],
+    "name:ita_x_variant":[
+        "Male"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30ec"
@@ -254,6 +272,9 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0932\u0947"
     ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u043b\u044d"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043b\u0435"
     ],
@@ -265,6 +286,12 @@
     ],
     "name:msa_x_preferred":[
         "Mal\u00e9"
+    ],
+    "name:mya_x_preferred":[
+        "\u1019\u102c\u101c\u1031\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0627\u0644\u0647"
     ],
     "name:nah_x_preferred":[
         "Male"
@@ -341,6 +368,9 @@
     "name:sme_x_preferred":[
         "Mal\u00e9"
     ],
+    "name:smn_x_preferred":[
+        "Mal\u00e9"
+    ],
     "name:sna_x_preferred":[
         "Mal\u00e9"
     ],
@@ -348,6 +378,9 @@
         "Mal\u00e9"
     ],
     "name:sqi_x_preferred":[
+        "Mal\u00e9"
+    ],
+    "name:srd_x_preferred":[
         "Mal\u00e9"
     ],
     "name:srp_x_preferred":[
@@ -383,6 +416,9 @@
     "name:tur_x_preferred":[
         "Mal\u00e9"
     ],
+    "name:udm_x_preferred":[
+        "\u041c\u0430\u043b\u0435"
+    ],
     "name:uig_x_preferred":[
         "\u0645\u0627\u0644\u06d0"
     ],
@@ -393,6 +429,9 @@
         "\u0645\u0627\u0644\u06d2"
     ],
     "name:uzb_x_preferred":[
+        "Male"
+    ],
+    "name:vec_x_preferred":[
         "Male"
     ],
     "name:vep_x_preferred":[
@@ -529,7 +568,7 @@
         890440959
     ],
     "wof:country":"MV",
-    "wof:geomhash":"d6f367ace374b8d48f776135ea2b5fe1",
+    "wof:geomhash":"b27b37a9ec4eeab349d3c71047a8fd8a",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -544,7 +583,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1566612145,
+    "wof:lastmodified":1690846525,
     "wof:name":"Mal\u00e9",
     "wof:parent_id":85632305,
     "wof:placetype":"region",
@@ -558,10 +597,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.43120106557677,
-    4.16208746016821,
-    73.55288301214136,
-    4.24303891161651
+    73.431201,
+    4.162087,
+    73.552883,
+    4.243039
 ],
-  "geometry": {"coordinates":[[[73.54619719124742,4.24303891161651],[73.55288301214136,4.23679881181579],[73.5519915690557,4.22833010564989],[73.54931724069814,4.21228413460517],[73.53817420527542,4.18331224196646],[73.52658544875953,4.1712777643574],[73.51089134286121,4.16208746016821],[73.48691624269048,4.16414622147102],[73.47666465035337,4.16860343510052],[73.43120106557677,4.18464940614524],[73.43209250866238,4.18999806375967],[73.51201489557104,4.18630088337909],[73.52053323801857,4.19112256885154],[73.52613972766636,4.20782692007634],[73.53327126965343,4.23100443400745],[73.54619719124742,4.24303891161651]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[73.54619700000001,4.243039],[73.55288299999999,4.236799],[73.551992,4.22833],[73.549317,4.212284],[73.538174,4.183312],[73.526585,4.171278],[73.510891,4.162087],[73.48691599999999,4.164146],[73.476665,4.168603],[73.431201,4.184649],[73.43209299999999,4.189998],[73.51201500000001,4.186301],[73.520533,4.191123],[73.52614,4.207827],[73.533271,4.231004],[73.54619700000001,4.243039]]],"type":"Polygon"}
 }

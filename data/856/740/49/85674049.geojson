@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09b9\u09be \u0986\u09b2\u09bf\u09ab \u098f\u099f\u09b2"
     ],
+    "name:ben_x_variant":[
+        "\u09b9\u09be \u0986\u09b2\u09bf\u09ab \u09aa\u09cd\u09b0\u09ac\u09be\u09b2 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
+    ],
     "name:ceb_x_preferred":[
         "Haa Alifu Atholhu"
     ],
@@ -142,6 +145,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bb9\u0bbe \u0b85\u0bb3\u0bbf\u0baa\u0bcd \u0b85\u0b9f\u0bbe\u0bb2\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0bb9\u0bbe \u0b85\u0bb3\u0bbf\u0baa\u0bcd  \u0b85\u0b9f\u0bbe\u0bb2\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c3e \u0c06\u0c32\u0c3f\u0c2b\u0c4d \u0c05\u0c1f\u0c4b\u0c32\u0c4d"
@@ -287,7 +293,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1636497505,
+    "wof:lastmodified":1690846526,
     "wof:name":"Haa Alifu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",
