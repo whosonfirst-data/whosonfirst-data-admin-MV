@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024362,
-    "geom:area_square_m":300322979.451471,
+    "geom:area_square_m":300322979.451448,
     "geom:bbox":"72.643753,-0.702944,73.745415,7.10875",
     "geom:latitude":3.68963,
     "geom:longitude":73.199364,
@@ -14,6 +14,9 @@
     "iso:country":"MV",
     "itu:country_code":[
         "960"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "MV"
@@ -1131,7 +1134,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"960",
     "statoids:ds":"MV",
     "statoids:fifa":"MDV",
@@ -1189,7 +1193,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"c5055c8b9feb999bc6890ac12ec84bcd",
+    "wof:geomhash":"b3cd4350d7971b14fedecb346b9bd7bc",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -1203,12 +1207,12 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1690846527,
+    "wof:lastmodified":1694492068,
     "wof:name":"Maldives",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
-    "wof:population":345023,
-    "wof:population_rank":10,
+    "wof:population":530953,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-mv",
     "wof:shortcode":"MV",
     "wof:superseded_by":[],
