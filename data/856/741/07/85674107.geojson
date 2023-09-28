@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":1682036.577957,
+    "geom:area_square_m":1681962.244683,
     "geom:bbox":"72.864919,2.675727,73.032237,2.969184",
     "geom:latitude":2.775684,
     "geom:longitude":72.938933,
@@ -274,12 +274,14 @@
         "gn:id":1282447,
         "gp:id":20070322,
         "hasc:id":"MV.DA",
+        "iso:code":"MV-17",
         "iso:id":"MV-17",
         "qs_pg:id":890127,
         "wd:id":"Q2290784"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"36c44d85d1c6571fe05f23028d5e124b",
+    "wof:geomhash":"094ceafb9eaabbefa4eac8915fbd7c13",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -294,7 +296,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1690846528,
+    "wof:lastmodified":1695884853,
     "wof:name":"Dhaalu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000238,
-    "geom:area_square_m":2940200.032476,
+    "geom:area_square_m":2940279.856579,
     "geom:bbox":"73.341482,3.841702,73.70281,4.974921",
     "geom:latitude":4.398538,
     "geom:longitude":73.513382,
@@ -284,13 +284,15 @@
         "gn:id":1282208,
         "gp:id":20070330,
         "hasc:id":"MV.KA",
+        "iso:code":"MV-26",
         "iso:id":"MV-26",
         "qs_pg:id":1172855,
         "unlc:id":"MV-26",
         "wd:id":"Q1468407"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"1b21b4bbabe685e4a5776dae228dcc1a",
+    "wof:geomhash":"8cf9e23a0bbb7c32c373ad7a4a89bb22",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -305,7 +307,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1690846526,
+    "wof:lastmodified":1695884853,
     "wof:name":"Kaafu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

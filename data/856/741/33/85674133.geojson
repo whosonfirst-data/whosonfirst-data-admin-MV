@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000104,
-    "geom:area_square_m":1290264.931888,
+    "geom:area_square_m":1290206.38879,
     "geom:bbox":"73.434581,-0.304295,73.445079,-0.283624",
     "geom:latitude":-0.294335,
     "geom:longitude":73.439709,
@@ -283,13 +283,15 @@
         "gn:id":1281945,
         "gp:id":20070326,
         "hasc:id":"MV.NA",
+        "iso:code":"MV-29",
         "iso:id":"MV-29",
         "qs_pg:id":1172854,
         "unlc:id":"MV-29",
         "wd:id":"Q1811116"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"92acdbc64d64a6473701f812f5a39c08",
+    "wof:geomhash":"20020fe3f59ad01e75cfa4875ef02855",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -304,7 +306,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1690846528,
+    "wof:lastmodified":1695884853,
     "wof:name":"Gnaviyani",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

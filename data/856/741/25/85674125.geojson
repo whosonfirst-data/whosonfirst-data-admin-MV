@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
-    "geom:area_square_m":2481768.676913,
+    "geom:area_square_m":2481808.927195,
     "geom:bbox":"72.937022,0.213446,73.379161,0.496324",
     "geom:latitude":0.286644,
     "geom:longitude":73.114063,
@@ -290,13 +290,15 @@
         "gn:id":1282328,
         "gp:id":20070327,
         "hasc:id":"MV.GD",
+        "iso:code":"MV-28",
         "iso:id":"MV-28",
         "qs_pg:id":890128,
         "unlc:id":"MV-28",
         "wd:id":"Q2640183"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"7fce90df5a46ff85d0a417fc82b2c944",
+    "wof:geomhash":"b230af5a575f97d0171670441f66bc4f",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -311,7 +313,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1690846529,
+    "wof:lastmodified":1695884853,
     "wof:name":"Gaafu Dhaalu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

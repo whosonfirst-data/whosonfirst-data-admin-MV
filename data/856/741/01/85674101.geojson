@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
-    "geom:area_square_m":1388152.267881,
+    "geom:area_square_m":1388132.796526,
     "geom:bbox":"73.348481,2.770697,73.613048,3.106757",
     "geom:latitude":2.875738,
     "geom:longitude":73.454106,
@@ -265,14 +265,16 @@
         "gn:id":1281985,
         "gp:id":20070323,
         "hasc:id":"MV.ME",
+        "iso:code":"MV-12",
         "iso:id":"MV-12",
         "qs_pg:id":219918,
         "unlc:id":"MV-12",
         "wd:id":"Q2210716",
         "wk:page":"Meemu Atoll"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"4bdfee507a2370defe307039626cf137",
+    "wof:geomhash":"efeb5c697a6adaea1347d3351ea5ea51",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -287,7 +289,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1636497506,
+    "wof:lastmodified":1695884853,
     "wof:name":"Meemu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

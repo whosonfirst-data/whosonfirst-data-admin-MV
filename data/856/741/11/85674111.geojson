@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000412,
-    "geom:area_square_m":5083987.487606,
+    "geom:area_square_m":5083962.729655,
     "geom:bbox":"72.922374,2.164537,73.367035,2.55329",
     "geom:latitude":2.38473,
     "geom:longitude":73.292869,
@@ -241,14 +241,16 @@
         "gn:id":1281881,
         "gp:id":20070324,
         "hasc:id":"MV.TH",
+        "iso:code":"MV-08",
         "iso:id":"MV-08",
         "qs_pg:id":1287670,
         "unlc:id":"MV-08",
         "wd:id":"Q2709118",
         "wk:page":"Kolhumadulu Atoll"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"b13fd301fc12101374a584c5951068fe",
+    "wof:geomhash":"2bf2de26f18c3c87a62bbff300d62cfa",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -263,7 +265,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1690846528,
+    "wof:lastmodified":1695884853,
     "wof:name":"Thaa",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

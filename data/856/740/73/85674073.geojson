@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000332,
-    "geom:area_square_m":4083861.574778,
+    "geom:area_square_m":4083789.510206,
     "geom:bbox":"73.317719,5.245022,73.646658,5.543606",
     "geom:latitude":5.361057,
     "geom:longitude":73.55689,
@@ -269,13 +269,15 @@
         "gn:id":1282096,
         "gp:id":20070313,
         "hasc:id":"MV.LV",
+        "iso:code":"MV-03",
         "iso:id":"MV-03",
         "qs_pg:id":890125,
         "unlc:id":"MV-03",
         "wd:id":"Q1390048"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"422ab2d37444d1614ec5b8f342e26294",
+    "wof:geomhash":"e063ec033dafebdcd66c824b217711a0",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -290,7 +292,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1636497504,
+    "wof:lastmodified":1695884853,
     "wof:name":"Lhaviyani",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

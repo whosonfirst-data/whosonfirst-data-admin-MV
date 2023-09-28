@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000201,
-    "geom:area_square_m":2473176.562514,
+    "geom:area_square_m":2473245.220581,
     "geom:bbox":"72.699067,3.996405,72.975759,4.4383",
     "geom:latitude":4.349689,
     "geom:longitude":72.922433,
@@ -76,10 +76,12 @@
         "fips:code":"MV30",
         "gp:id":20070319,
         "hasc:id":"MV.AA",
+        "iso:code":"MV-02",
         "iso:id":"MV-02"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"0ff50db6c4570c92ab74652ee89a2e51",
+    "wof:geomhash":"8b95eb21140f9218320df1f82c8d33d4",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -94,7 +96,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1636497504,
+    "wof:lastmodified":1695884853,
     "wof:name":"Alifu Alifu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

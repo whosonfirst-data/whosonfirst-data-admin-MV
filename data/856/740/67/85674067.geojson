@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
-    "geom:area_square_m":1377463.890539,
+    "geom:area_square_m":1377420.679498,
     "geom:bbox":"72.856619,4.88052,73.131847,5.352769",
     "geom:latitude":5.014465,
     "geom:longitude":72.999634,
@@ -148,12 +148,14 @@
         "gn:id":1282478,
         "gp:id":20070316,
         "hasc:id":"MV.BA",
+        "iso:code":"MV-20",
         "iso:id":"MV-20",
         "qs_pg:id":890126,
         "unlc:id":"MV-20"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"06570d23f64430872c0269c7f2de8304",
+    "wof:geomhash":"2b0688436e3ed459dcce5cafb843bab0",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -168,7 +170,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1636497504,
+    "wof:lastmodified":1695884853,
     "wof:name":"Baa",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

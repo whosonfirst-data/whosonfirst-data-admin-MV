@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
-    "geom:area_square_m":1188421.95902,
+    "geom:area_square_m":1188351.759942,
     "geom:bbox":"73.349783,0.380561,73.513438,0.847724",
     "geom:latitude":0.591601,
     "geom:longitude":73.435245,
@@ -284,13 +284,15 @@
         "gn:id":1282329,
         "gp:id":20070328,
         "hasc:id":"MV.GA",
+        "iso:code":"MV-27",
         "iso:id":"MV-27",
         "qs_pg:id":890129,
         "unlc:id":"MV-27",
         "wd:id":"Q1116203"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"275f8a5cb9056ce4586a539c38357573",
+    "wof:geomhash":"5b2423d0e56c095d009817a597127119",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -305,7 +307,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1690846528,
+    "wof:lastmodified":1695884853,
     "wof:name":"Gaafu Alifu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

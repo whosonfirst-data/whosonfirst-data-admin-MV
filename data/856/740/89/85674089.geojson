@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
-    "geom:area_square_m":1571024.698967,
+    "geom:area_square_m":1570974.878534,
     "geom:bbox":"72.831228,3.07685,73.046886,3.312486",
     "geom:latitude":3.188647,
     "geom:longitude":72.959293,
@@ -271,14 +271,16 @@
         "gn:id":1282393,
         "gp:id":20070321,
         "hasc:id":"MV.FA",
+        "iso:code":"MV-14",
         "iso:id":"MV-14",
         "qs_pg:id":219917,
         "unlc:id":"MV-14",
         "wd:id":"Q2469227",
         "wk:page":"Faafu Atoll"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"32a1c024aaab6c43af39052a0415cb43",
+    "wof:geomhash":"1a346f4449631b019dd38b85f20f94f0",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -293,7 +295,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1690846525,
+    "wof:lastmodified":1695884853,
     "wof:name":"Faafu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",
