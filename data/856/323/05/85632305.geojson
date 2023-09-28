@@ -1173,6 +1173,7 @@
         "hasc:id":"MV",
         "icao:code":"8Q",
         "ioc:id":"MDV",
+        "iso:code":"MV",
         "itu:id":"MLD",
         "loc:id":"n81139903",
         "m49:code":"462",
@@ -1187,6 +1188,7 @@
         "wk:page":"Maldives",
         "wmo:id":"MV"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
     "wof:country_alpha3":"MDV",
     "wof:geom_alt":[
@@ -1207,7 +1209,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1694639522,
+    "wof:lastmodified":1695881177,
     "wof:name":"Maldives",
     "wof:parent_id":102193527,
     "wof:placetype":"country",
