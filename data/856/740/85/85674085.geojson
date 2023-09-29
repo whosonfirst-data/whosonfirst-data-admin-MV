@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000252,
-    "geom:area_square_m":3112310.056015,
+    "geom:area_square_m":3112222.227521,
     "geom:bbox":"72.689708,3.503567,72.955821,3.836859",
     "geom:latitude":3.647452,
     "geom:longitude":72.866874,
@@ -86,11 +86,13 @@
         "fips:code":"MV30",
         "gp:id":20070319,
         "hasc:id":"MV.AD",
+        "iso:code":"MV-00",
         "iso:id":"MV-00",
         "unlc:id":"MV-00"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"f38ba0371d1dd978f86878cf34c821aa",
+    "wof:geomhash":"7b4079a120ebdc20016673505c35f656",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -105,7 +107,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1636497505,
+    "wof:lastmodified":1695884853,
     "wof:name":"Alifu Dhaalu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

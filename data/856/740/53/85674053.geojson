@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000794,
-    "geom:area_square_m":9750305.839481,
+    "geom:area_square_m":9750698.937683,
     "geom:bbox":"72.684825,6.40648,73.166515,6.787055",
     "geom:latitude":6.724121,
     "geom:longitude":73.107933,
@@ -290,13 +290,15 @@
         "gn:id":1282293,
         "gp:id":20070318,
         "hasc:id":"MV.HD",
+        "iso:code":"MV-23",
         "iso:id":"MV-23",
         "qs_pg:id":1172852,
         "unlc:id":"MV-23",
         "wd:id":"Q2360368"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"fcb5143243fcd646581ba7dd4c8760b5",
+    "wof:geomhash":"75b75cfaabba2174c74637bb9fe27de1",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -311,7 +313,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1690846525,
+    "wof:lastmodified":1695884853,
     "wof:name":"Haa Dhaalu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

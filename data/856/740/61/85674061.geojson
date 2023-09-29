@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
-    "geom:area_square_m":3259963.421392,
+    "geom:area_square_m":3259948.76669,
     "geom:bbox":"72.877696,5.456244,73.019054,5.982733",
     "geom:latitude":5.716178,
     "geom:longitude":72.965537,
@@ -274,14 +274,16 @@
         "gn:id":1281918,
         "gp:id":20070317,
         "hasc:id":"MV.RA",
+        "iso:code":"MV-13",
         "iso:id":"MV-13",
         "qs_pg:id":424312,
         "unlc:id":"MV-13",
         "wd:id":"Q1457965",
         "wk:page":"Raa Atoll"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"fd26870c7961abf8ad5b86c7b3811a24",
+    "wof:geomhash":"d6db93ec82f84920b08a7a308307651d",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -296,7 +298,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1636497503,
+    "wof:lastmodified":1695884852,
     "wof:name":"Raa",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

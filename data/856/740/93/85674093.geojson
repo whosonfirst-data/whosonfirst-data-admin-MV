@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002845,
-    "geom:area_square_m":35087547.342693,
+    "geom:area_square_m":35087885.188236,
     "geom:bbox":"73.431201,4.162087,73.552883,4.243039",
     "geom:latitude":4.190794,
     "geom:longitude":73.507553,
@@ -558,17 +558,19 @@
         "gn:id":1337624,
         "gp:id":20070331,
         "hasc:id":"MV.MA",
+        "iso:code":"MV-MLE",
         "iso:id":"MV-MLE",
         "loc:id":"n82095066",
         "qs_pg:id":1287668,
         "wd:id":"Q9347",
         "wk:page":"Mal\u00e9"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         890440959
     ],
     "wof:country":"MV",
-    "wof:geomhash":"b27b37a9ec4eeab349d3c71047a8fd8a",
+    "wof:geomhash":"6245c65f8c58cb68fa3c98d2de3f9f62",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -583,7 +585,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1690846525,
+    "wof:lastmodified":1695884325,
     "wof:name":"Mal\u00e9",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

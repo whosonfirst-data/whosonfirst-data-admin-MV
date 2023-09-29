@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000548,
-    "geom:area_square_m":6775328.085654,
+    "geom:area_square_m":6775452.218148,
     "geom:bbox":"73.243663,1.782538,73.58546,2.109931",
     "geom:latitude":1.942316,
     "geom:longitude":73.484719,
@@ -271,14 +271,16 @@
         "gn:id":1282101,
         "gp:id":20070325,
         "hasc:id":"MV.LM",
+        "iso:code":"MV-05",
         "iso:id":"MV-05",
         "qs_pg:id":1287671,
         "unlc:id":"MV-05",
         "wd:id":"Q1996432",
         "wk:page":"Laamu Atoll"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"cf6eb7175cbbb6536ba3a729f473d150",
+    "wof:geomhash":"4de2d0eeab56dad73c38fa285c5c0535",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -293,7 +295,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1690846529,
+    "wof:lastmodified":1695884853,
     "wof:name":"Laamu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

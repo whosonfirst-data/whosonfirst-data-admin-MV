@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000257,
-    "geom:area_square_m":3164555.647482,
+    "geom:area_square_m":3164607.262937,
     "geom:bbox":"72.89088,6.079535,73.270844,6.452094",
     "geom:latitude":6.297736,
     "geom:longitude":73.126485,
@@ -271,14 +271,16 @@
         "gn:id":1281892,
         "gp:id":20070314,
         "hasc:id":"MV.SH",
+        "iso:code":"MV-24",
         "iso:id":"MV-24",
         "qs_pg:id":212340,
         "unlc:id":"MV-24",
         "wd:id":"Q2190334",
         "wk:page":"Shaviyani Atoll"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"19ae1ea913ef04bea06ee917b0fc09b1",
+    "wof:geomhash":"e3d50a528fe2d458921c50ce4e04f7e0",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -293,7 +295,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1636497503,
+    "wof:lastmodified":1695884852,
     "wof:name":"Shaviyani",
     "wof:parent_id":85632305,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0002,
-    "geom:area_square_m":2458298.459652,
+    "geom:area_square_m":2458126.080834,
     "geom:bbox":"73.376801,5.714586,73.44988,5.970282",
     "geom:latitude":5.854243,
     "geom:longitude":73.404073,
@@ -276,14 +276,16 @@
         "gn:id":1281937,
         "gp:id":20070315,
         "hasc:id":"MV.NO",
+        "iso:code":"MV-25",
         "iso:id":"MV-25",
         "qs_pg:id":424311,
         "unlc:id":"MV-25",
         "wd:id":"Q2406322",
         "wk:page":"Noonu Atoll"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MV",
-    "wof:geomhash":"dd9a79d5ef4c7cbb9bf44d29c6a7140a",
+    "wof:geomhash":"c12df8c06d4c720a9e9a7df00a05ba80",
     "wof:hierarchy":[
         {
             "continent_id":102193527,
@@ -298,7 +300,7 @@
     "wof:lang_x_spoken":[
         "div"
     ],
-    "wof:lastmodified":1636497505,
+    "wof:lastmodified":1695884853,
     "wof:name":"Noonu",
     "wof:parent_id":85632305,
     "wof:placetype":"region",
